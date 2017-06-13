@@ -65,116 +65,10 @@
     <display-name lang="es">Nova [HD]</display-name>
     <url>http://www.sincroguia.tv</url>
   </channel>
-  <programme start="20170612044500 +0000" stop="20170612113000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Cierre de estación</title>
-    <star-rating>
-      <value>6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612113000 +0000" stop="20170612120000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Entretenidos</title>
-    <desc lang="en">Videoclips presentados por Romina Simón(n)</desc>
-    <category lang="en">Otro</category>
-  </programme>
-  <programme start="20170612120000 +0000" stop="20170612180000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Antena 3D</title>
-    <desc lang="en">Barra de infomerciales que ofrece información sobre diferentes productos(n)</desc>
-  </programme>
-  <programme start="20170612180000 +0000" stop="20170612184500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">La vida es una canción</title>
-    <desc lang="en">Serie que cuenta historias que pueden inspirar canciones: no sólo las letras, sino también las melodías que evocan los sentimientos plasmados en la historia(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>0.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612184500 +0000" stop="20170612194500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Falabella TV</title>
-    <desc lang="en">Primer home shopping de la televisión chilena(n)</desc>
-  </programme>
-  <programme start="20170612194500 +0000" stop="20170612203000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Grachi</title>
-    <desc lang="en">Una chica que tiene poderes mágicos experimenta los altibajos de la adolescencia(n)</desc>
-    <category lang="en">Adolescentes</category>
-    <star-rating>
-      <value>3.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612203000 +0000" stop="20170612214500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Chespirito</title>
-    <desc lang="en">Espacio con diversos segmentos cómicos, entre los cuáles se destacan: El Chapulín Colorado, Los Caquitos, Los Chifladitos, Doctor Chapatín y El Chavo(n)</desc>
-    <category lang="en">Comedia</category>
-    <star-rating>
-      <value>6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612214500 +0000" stop="20170612223000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">America's Next Top Model</title>
-    <desc lang="en">Las chicas que aspiran a modelos compiten por la oportunidad de entrar en la industria en esta serie exitosa creada por la productora ejecutiva, supermodelo Tyra Banks. Su fórmula de chicas hermosas cuyo comportamiento es poco atractivo la hizo muy popular y una de las series de reality más fascinantes, con sus modelos de portada aspirantes viviendo juntas y, entre las peleas, participando en sesiones de fotos mientras compiten por un contrato de modelo(n)</desc>
-    <category lang="en">Realidad</category>
-    <category lang="en">Concurso De Telerrealidad</category>
-    <star-rating>
-      <value>7.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612223000 +0000" stop="20170612233000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Pedro el Escamoso</title>
-    <desc lang="en">Un hombre cursi y coqueto de pueblo chico llega a la gran ciudad para realizar sus sueños y toma un empleo como chofer en donde traba una linda amistad y comparte confianzas con su chica ideal que no puede corresponderle su afecto por estar enamorada de otro(n)</desc>
-    <category lang="en">Comedia</category>
-    <category lang="en">En Serie</category>
-  </programme>
-  <programme start="20170612233000 +0000" stop="20170613003000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">A cada quien su santo</title>
-    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos(n)</desc>
-    <category lang="en">Religión</category>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>6.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613003000 +0000" stop="20170613011500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Muchacha italiana viene a casarse</title>
-    <desc lang="en">Fiorella es una muchacha italiana que cuida a su hermana Gianna, con una insuficiencia cardíaca, y a su padre, también gravemente enfermo(n)</desc>
-    <category lang="en">Telenovela</category>
-    <star-rating>
-      <value>6.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613011500 +0000" stop="20170613014500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Antes muerta que Lichita</title>
-    <desc lang="en">Lichita ha estado trabajando en Iconika, una agencia de publicidad desde hace 8 años pero no se siente valorada lo cual la hace sentirse invisible. Ella decide hacer un cambio y se transforma a sí misma en una chica de poder. Sin embargo, ninguna subida a la cima es fácil y a lo largo del camino se enfrenta a situaciones que ponen a prueba su carácter y valores. Al mismo tiempo, su madre soltera que la crió está experimentando un viaje similar, un camino hacia la iniciativa empresarial(n)</desc>
-    <category lang="en">Telenovela</category>
-    <category lang="en">Tragicomedia</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613014500 +0000" stop="20170613023000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Medium</title>
-    <desc lang="en">¿Es posible comunicarse con los que ya no están con nosotros?(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Paranormal</category>
-  </programme>
-  <programme start="20170613023000 +0000" stop="20170613040000 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">El Capo 3</title>
-    <desc lang="en">El gran operativo entra en marcha. En un desenlace emocionante y espectacular, Pedro Pablo deberá rescatar a su familia, rodeado de hombres de Pacífico Blanco(n)</desc>
-  </programme>
-  <programme start="20170613040000 +0000" stop="20170613044500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Lo que la Gente Cuenta</title>
-    <desc lang="en">Dramatizaciones de esas espeluznantes leyendas, mitos y misterios 'reales' de que todos hablan(n)</desc>
-    <category lang="en">Misterio Y Suspenso</category>
-    <star-rating>
-      <value>5.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613044500 +0000" stop="20170613054500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Sin retorno</title>
-    <category lang="en">Otro</category>
-  </programme>
-  <programme start="20170613054500 +0000" stop="20170613054500 +0000" channel="TeleCanal (Chile)">
-    <title lang="en">Cierre de Transmisión</title>
-    <category lang="en">Religión</category>
-  </programme>
+  <channel id="América TV Perú">
+    <display-name lang="en">América TV Perú</display-name>
+    <url>http://www.yo.tv</url>
+  </channel>
   <programme start="20170613054500 +0000" stop="20170613113000 +0000" channel="TeleCanal (Chile)">
     <title lang="en">Cierre de Transmisión</title>
     <category lang="en">Religión</category>
@@ -456,126 +350,105 @@
       <value>6.1</value>
     </star-rating>
   </programme>
-  <programme start="20170612054000 +0000" stop="20170612061000 +0000" channel="La Red (Chile)">
-    <title lang="en">Sex and the City</title>
-    <desc lang="en">6 temporadas, 94 episodios, 45 premios y 126 nominaciones en festivales que celebran lo mejor de la televisión mundial. Los números son contundentes y nos invitan a anunciar con bombos y platillos la llegada a la pantalla de TBS veryfunny de Sex and the city, la serie de comedia que rompió con el molde e hizo historia. La columnista Carrie Bradshaw (Sarah Jessica Parker) y sus tres mejores amigas, la abogada Miranda Hobbes (Cynthia Nixon), la promiscua Samantha Jones (Kim Cattrall) y la conservadora Charlotte York (Kristin Davis) exploran juntas el hecho de ser una mujer treintañera, soltera y sexualmente activa en los albores del nuevo milenio. El show, que recibió constante aclamación por parte de la crítica y el público, ha demostrado que hablar de sexo es algo que interesa y divierte a la mayoría. Irónica y desenfadada esta serie se basó en el libro Sex and the city de la columnista del New York Observer Candance Bushnell y ya ha llevado dos secuelas a la pantalla grande(n)</desc>
-    <category lang="en">Comedia</category>
-    <icon src="https://i.yo.tv/p/se/d28225/s/6FFFA16C23C3141A2DDD0723B41E3F5B.jpg" />
+  <programme start="20170616003000 +0000" stop="20170616011500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Muchacha italiana viene a casarse</title>
+    <desc lang="en">Fiorella es una muchacha italiana que cuida a su hermana Gianna, con una insuficiencia cardíaca, y a su padre, también gravemente enfermo(n)</desc>
+    <category lang="en">Telenovela</category>
+    <star-rating>
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616011500 +0000" stop="20170616014500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Antes muerta que Lichita</title>
+    <desc lang="en">Lichita ha estado trabajando en Iconika, una agencia de publicidad desde hace 8 años pero no se siente valorada lo cual la hace sentirse invisible. Ella decide hacer un cambio y se transforma a sí misma en una chica de poder. Sin embargo, ninguna subida a la cima es fácil y a lo largo del camino se enfrenta a situaciones que ponen a prueba su carácter y valores. Al mismo tiempo, su madre soltera que la crió está experimentando un viaje similar, un camino hacia la iniciativa empresarial(n)</desc>
+    <category lang="en">Telenovela</category>
+    <category lang="en">Tragicomedia</category>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616014500 +0000" stop="20170616023000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Medium</title>
+    <desc lang="en">¿Es posible comunicarse con los que ya no están con nosotros?(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Paranormal</category>
+  </programme>
+  <programme start="20170616023000 +0000" stop="20170616040000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">El Capo 3</title>
+    <desc lang="en">El gran operativo entra en marcha. En un desenlace emocionante y espectacular, Pedro Pablo deberá rescatar a su familia, rodeado de hombres de Pacífico Blanco(n)</desc>
+  </programme>
+  <programme start="20170616040000 +0000" stop="20170616044500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Lo que la Gente Cuenta</title>
+    <desc lang="en">Dramatizaciones de esas espeluznantes leyendas, mitos y misterios 'reales' de que todos hablan(n)</desc>
+    <category lang="en">Misterio Y Suspenso</category>
     <star-rating>
       <value>5.4</value>
     </star-rating>
   </programme>
-  <programme start="20170612061000 +0000" stop="20170612081000 +0000" channel="La Red (Chile)">
-    <title lang="en">Cada Día Mejor</title>
-    <desc lang="en">Entrevistas a personajes importantes de la política y del espectáculo(n)</desc>
+  <programme start="20170616044500 +0000" stop="20170616054500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Sin retorno</title>
     <category lang="en">Otro</category>
-    <category lang="en">Entrevista</category>
   </programme>
-  <programme start="20170612081000 +0000" stop="20170612084000 +0000" channel="La Red (Chile)">
-    <title lang="en">Hablando de vida</title>
-    <desc lang="en">Se discuten diversos temas de interés(n)</desc>
-    <category lang="en">Salud Y Ejercicio</category>
+  <programme start="20170616054500 +0000" stop="20170616054500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Cierre de Transmisión</title>
+    <category lang="en">Religión</category>
   </programme>
-  <programme start="20170612084000 +0000" stop="20170612093000 +0000" channel="La Red (Chile)">
-    <title lang="en">Cierre de estación</title>
+  <programme start="20170616054500 +0000" stop="20170616113000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Cierre de Transmisión</title>
+    <category lang="en">Religión</category>
+  </programme>
+  <programme start="20170616113000 +0000" stop="20170616120000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Entretenidos</title>
+    <desc lang="en">Videoclips presentados por Romina Simón(n)</desc>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170616120000 +0000" stop="20170616184500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Antena 3D</title>
+    <desc lang="en">Barra de infomerciales que ofrece información sobre diferentes productos(n)</desc>
+  </programme>
+  <programme start="20170616184500 +0000" stop="20170616194500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Falabella TV</title>
+    <desc lang="en">Primer home shopping de la televisión chilena(n)</desc>
+  </programme>
+  <programme start="20170616194500 +0000" stop="20170616203000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Grachi</title>
+    <desc lang="en">Una chica que tiene poderes mágicos experimenta los altibajos de la adolescencia(n)</desc>
+    <category lang="en">Adolescentes</category>
+    <star-rating>
+      <value>3.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616203000 +0000" stop="20170616214500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Chespirito</title>
+    <desc lang="en">Espacio con diversos segmentos cómicos, entre los cuáles se destacan: El Chapulín Colorado, Los Caquitos, Los Chifladitos, Doctor Chapatín y El Chavo(n)</desc>
+    <category lang="en">Comedia</category>
     <star-rating>
       <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612093000 +0000" stop="20170612103000 +0000" channel="La Red (Chile)">
-    <title lang="en">Chapulín Colorado</title>
-    <desc lang="en">Más ágil que una tortuga ... más fuerte que un ratón ... más noble que una lechuga ... su escudo es un corazón ... Es Chapulín Colorado! El Chapulín Colorado es un superhéroe vestido de rojo con un corazón amarillo con las iniciales CH en rojo. Tiene dos antenas de vinilo poco en colores rojo y amarillo que él llama sus antenitas de vinil El Chapulin tiene siempre consigo un martillo rojo, lo que él llama su chipote chillón También puede tomar sus pastillas de chiquitolina que le hacen disminuir su tamaño a un ratón. Otra arma utilizada ocasionalmente para hacer buenas obras es la chicharra paralizadora una corneta de aire que se congela a la gente con un pitido (y descongela a estas personas con dos pitidos) que reciben el sonido directamente. El Chapulín Colorado con frecuencia y erróneamente captura a la gente inocente y dejar ir a los criminales y esto crea situaciones muy cómicas. Sin embargo, al final todo se aclara y los criminales son finalmente enviados a la cárcel, dándole todo el crédito de la captura de Chapulín(n)</desc>
-    <category lang="en">Comedia</category>
-    <star-rating>
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612103000 +0000" stop="20170612110000 +0000" channel="La Red (Chile)">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Entérate de los acontecimientos más importantes del día(n)</desc>
-    <category lang="en">Noticias</category>
-  </programme>
-  <programme start="20170612110000 +0000" stop="20170612160000 +0000" channel="La Red (Chile)">
-    <title lang="en">Hola Chile</title>
-    <desc lang="en">Programa matinal lleno de información y mucha diversión(n)</desc>
-  </programme>
-  <programme start="20170612160000 +0000" stop="20170612183000 +0000" channel="La Red (Chile)">
-    <title lang="en">Intrusos</title>
-    <desc lang="en">Un espacio para todos los pormenores y las primicias de la farándula(n)</desc>
-    <category lang="en">Entretenimiento</category>
-    <star-rating>
-      <value>2.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612183000 +0000" stop="20170612193000 +0000" channel="La Red (Chile)">
-    <title lang="en">Mi adorable maldición</title>
-    <desc lang="en">Aurora es una bella joven, que carga la cruz de haber sido estigmatizada al nacer por Macrina. Esta partera asegura que la criatura es un ser maligno, portadora de la desgracia y la muerte, por un lunar en forma de calavera que tiene en su ombligo. Encima, después del parto la madre muere, lo que acrecienta aún más esta teoría. El padre de la adolescente, además de extrañar a su fallecida esposa, debe mantener a su hija alejada de la gente del pueblo, que la señala y le teme(n)</desc>
-    <star-rating>
-      <value>0.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612193000 +0000" stop="20170612203000 +0000" channel="La Red (Chile)">
-    <title lang="en">Corazón indomable</title>
-    <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo(n)</desc>
-    <category lang="en">Telenovela</category>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>7.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612203000 +0000" stop="20170612212000 +0000" channel="La Red (Chile)">
-    <title lang="en">Mujer... Casos de la Vida Real</title>
-    <desc lang="en">Una serie que cada día presenta a estrellas televisivas diferentes que vuelven a crear historias extraídas de la vida cotidiana y reflectoras de temas universales(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>2.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612212000 +0000" stop="20170612224000 +0000" channel="La Red (Chile)">
-    <title lang="en">Como Dice El Dicho</title>
-    <desc lang="en">Un hombre y su nieta tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente(n)</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Adaptación</category>
-    <icon src="https://i.yo.tv/p/se/d44174/s/2BB9DB0FE6777AEEF6C564118F2FEFAB.jpg" />
-    <star-rating>
-      <value>7.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612224000 +0000" stop="20170613003000 +0000" channel="La Red (Chile)">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
-    <category lang="en">Drama</category>
+  <programme start="20170616214500 +0000" stop="20170616223000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">America's Next Top Model</title>
+    <desc lang="en">Las chicas que aspiran a modelos compiten por la oportunidad de entrar en la industria en esta serie exitosa creada por la productora ejecutiva, supermodelo Tyra Banks. Su fórmula de chicas hermosas cuyo comportamiento es poco atractivo la hizo muy popular y una de las series de reality más fascinantes, con sus modelos de portada aspirantes viviendo juntas y, entre las peleas, participando en sesiones de fotos mientras compiten por un contrato de modelo(n)</desc>
+    <category lang="en">Realidad</category>
+    <category lang="en">Concurso De Telerrealidad</category>
     <star-rating>
       <value>7.1</value>
     </star-rating>
   </programme>
-  <programme start="20170613003000 +0000" stop="20170613010000 +0000" channel="La Red (Chile)">
-    <title lang="en">Entrevista verdadera</title>
-    <desc lang="en">Espacio de entrevistas a los protagonistas de la noticia(n)</desc>
+  <programme start="20170616223000 +0000" stop="20170616233000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Pedro el Escamoso</title>
+    <desc lang="en">Un hombre cursi y coqueto de pueblo chico llega a la gran ciudad para realizar sus sueños y toma un empleo como chofer en donde traba una linda amistad y comparte confianzas con su chica ideal que no puede corresponderle su afecto por estar enamorada de otro(n)</desc>
+    <category lang="en">Comedia</category>
+    <category lang="en">En Serie</category>
   </programme>
-  <programme start="20170613010000 +0000" stop="20170613020000 +0000" channel="La Red (Chile)">
-    <title lang="en">Comisario Rex</title>
-    <desc lang="en">Un policia y su valiente compañero, un pastor alemán, luchan contra el crimen en esta popular serie alemana(n)</desc>
-    <category lang="en">Acción/aventura</category>
-    <category lang="en">Policía</category>
-  </programme>
-  <programme start="20170613020000 +0000" stop="20170613040000 +0000" channel="La Red (Chile)">
-    <title lang="en">Mentiras Verdaderas</title>
-    <desc lang="en">Programa lúdico, donde se discuten temas interesantes desde un punto de vista crítico y particular(n)</desc>
-    <category lang="en">Variedades</category>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170613040000 +0000" stop="20170613053500 +0000" channel="La Red (Chile)">
-    <title lang="en">Así Somos</title>
-    <desc lang="en">Un espacio para diversión, con videos bizarros, contingencia política, recuerdos y temas de pareja, entre otras cosas(n)</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170616233000 +0000" stop="20170617003000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos(n)</desc>
+    <category lang="en">Religión</category>
+    <category lang="en">Drama</category>
     <star-rating>
-      <value>9.2</value>
+      <value>6.1</value>
     </star-rating>
-  </programme>
-  <programme start="20170613053500 +0000" stop="20170613060000 +0000" channel="La Red (Chile)">
-    <title lang="en">Expediente S</title>
-    <desc lang="en">Material audiovisual hecho por fanáticos y nuevas tendencias audiovisuales(n)</desc>
   </programme>
   <programme start="20170613060000 +0000" stop="20170613063000 +0000" channel="La Red (Chile)">
     <title lang="en">Hablando de vida</title>
@@ -867,104 +740,111 @@
       <value>7.1</value>
     </star-rating>
   </programme>
-  <programme start="20170612060000 +0000" stop="20170612073000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Algo Personal</title>
-    <desc lang="en">Programa festivalero conducido por Juan Carlos "Pollo" Valdivia(n)</desc>
+  <programme start="20170616003000 +0000" stop="20170616010000 +0000" channel="La Red (Chile)">
+    <title lang="en">Entrevista verdadera</title>
+    <desc lang="en">Espacio de entrevistas a los protagonistas de la noticia(n)</desc>
   </programme>
-  <programme start="20170612073000 +0000" stop="20170612080000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Terra Santa News</title>
-    <desc lang="en">Un espacio para los creyentes y fieles, donde se brindan informes semanales de Tierra Santa. En los diferentes programas se cuentan historias sobre la fe, la historia, la cultura y la actual visión de la Iglesia Católica. Institución que cree firmemente en la importancia de aplicar el concepto global de integración religiosa y humana entre las comunidades cristianas que viven en Tierra Santa(n)</desc>
+  <programme start="20170616010000 +0000" stop="20170616020000 +0000" channel="La Red (Chile)">
+    <title lang="en">Comisario Rex</title>
+    <desc lang="en">Un policia y su valiente compañero, un pastor alemán, luchan contra el crimen en esta popular serie alemana(n)</desc>
+    <category lang="en">Acción/aventura</category>
+    <category lang="en">Policía</category>
   </programme>
-  <programme start="20170612080000 +0000" stop="20170612084500 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Los Caminos de la Iglesia</title>
-    <desc lang="en">Un programa de conversación religiosa donde se analizan las doctrinas del catolicismo implementadas en el mundo de hoy(n)</desc>
-    <category lang="en">Religión</category>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170616020000 +0000" stop="20170616040000 +0000" channel="La Red (Chile)">
+    <title lang="en">Mentiras Verdaderas</title>
+    <desc lang="en">Programa lúdico, donde se discuten temas interesantes desde un punto de vista crítico y particular(n)</desc>
+    <category lang="en">Variedades</category>
+    <category lang="en">Revista</category>
   </programme>
-  <programme start="20170612084500 +0000" stop="20170612093000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Archie</title>
-    <desc lang="en">Archie es un joven inquieto, que vive un intenso triángulo amoroso junto a Verónica y Betty. Él y sus amigos gozan de fantásticas aventuras como astronautas, marineros, bomberos y otras profesiones de las más variadas. También, participan de experimentos científicos y competencias de bandas musicales, entre otras actividades(n)</desc>
-  </programme>
-  <programme start="20170612093000 +0000" stop="20170612100000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Félix el Gato</title>
-    <desc lang="en">Félix utiliza su encanto, su curiosidad e imaginación para burlarse del peligroso profesor y de su guardaespaldas Rock Botton, que están siempre cerca tramando complots(n)</desc>
-    <category lang="en">Caricaturas/animado</category>
-    <category lang="en">Dibujos Animados</category>
-  </programme>
-  <programme start="20170612100000 +0000" stop="20170612103000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">Las aventuras de un camión y su mejor amigo, un niño pequeño que es también su chofer(n)</desc>
-    <icon src="https://i.yo.tv/p/se/d14980/s/33FCA39E640B5BADF2F6DBE20F6D2111.jpg" />
+  <programme start="20170616040000 +0000" stop="20170616053500 +0000" channel="La Red (Chile)">
+    <title lang="en">Así Somos</title>
+    <desc lang="en">Un espacio para diversión, con videos bizarros, contingencia política, recuerdos y temas de pareja, entre otras cosas(n)</desc>
+    <category lang="en">Entretenimiento</category>
     <star-rating>
-      <value>5.4</value>
+      <value>9.2</value>
     </star-rating>
   </programme>
-  <programme start="20170612103000 +0000" stop="20170612120000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">MILF</title>
-    <desc lang="en">Tres mujeres que no tienen ningún problema en tocar todos los temas femeninos. Pensado para las jóvenes y adultas libres, independientes y felices, sobre todo. Ellas se refieren en este espacio a todas las cuestiones que les interesan. La vida social, la laboral, la exigencia de la casa y de los hijos, sin dejar de lado el hecho de ser atractivas y profesionales(n)</desc>
+  <programme start="20170616053500 +0000" stop="20170616060000 +0000" channel="La Red (Chile)">
+    <title lang="en">Expediente S</title>
+    <desc lang="en">Material audiovisual hecho por fanáticos y nuevas tendencias audiovisuales(n)</desc>
   </programme>
-  <programme start="20170612120000 +0000" stop="20170612140000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
+  <programme start="20170616060000 +0000" stop="20170616063000 +0000" channel="La Red (Chile)">
+    <title lang="en">Hablando de vida</title>
+    <desc lang="en">Se discuten diversos temas de interés(n)</desc>
+    <category lang="en">Salud Y Ejercicio</category>
+  </programme>
+  <programme start="20170616063000 +0000" stop="20170616093000 +0000" channel="La Red (Chile)">
+    <title lang="en">Cierre de estación</title>
     <star-rating>
-      <value>6.1</value>
+      <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612140000 +0000" stop="20170612203000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-    <star-rating>
-      <value>6.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612203000 +0000" stop="20170612213000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Animalia</title>
-    <desc lang="en">Programa que muestra las diversas ópticas que surgen del trato diario con animales en parques, hogares y zoológicos, entre otros(n)</desc>
-    <category lang="en">Caricaturas/animado</category>
-    <category lang="en">Animales</category>
-  </programme>
-  <programme start="20170612213000 +0000" stop="20170612220000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Los Años Dorados</title>
-    <desc lang="en">Las divertidas historias de cuatro mujeres que comparten juntas en el mismo hogar, su paso a la tercera edad. Una adaptación de la serie americana 'Golden Girls'(n)</desc>
+  <programme start="20170616093000 +0000" stop="20170616103000 +0000" channel="La Red (Chile)">
+    <title lang="en">Chapulín Colorado</title>
+    <desc lang="en">Más ágil que una tortuga ... más fuerte que un ratón ... más noble que una lechuga ... su escudo es un corazón ... Es Chapulín Colorado! El Chapulín Colorado es un superhéroe vestido de rojo con un corazón amarillo con las iniciales CH en rojo. Tiene dos antenas de vinilo poco en colores rojo y amarillo que él llama sus antenitas de vinil El Chapulin tiene siempre consigo un martillo rojo, lo que él llama su chipote chillón También puede tomar sus pastillas de chiquitolina que le hacen disminuir su tamaño a un ratón. Otra arma utilizada ocasionalmente para hacer buenas obras es la chicharra paralizadora una corneta de aire que se congela a la gente con un pitido (y descongela a estas personas con dos pitidos) que reciben el sonido directamente. El Chapulín Colorado con frecuencia y erróneamente captura a la gente inocente y dejar ir a los criminales y esto crea situaciones muy cómicas. Sin embargo, al final todo se aclara y los criminales son finalmente enviados a la cárcel, dándole todo el crédito de la captura de Chapulín(n)</desc>
     <category lang="en">Comedia</category>
-  </programme>
-  <programme start="20170612220000 +0000" stop="20170612233000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Me late</title>
-    <desc lang="en">Programa de conversación(n)</desc>
-    <category lang="en">Discusión/charla</category>
-  </programme>
-  <programme start="20170612233000 +0000" stop="20170613010000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">MILF</title>
-    <desc lang="en">Tres mujeres que no tienen ningún problema en tocar todos los temas femeninos. Pensado para las jóvenes y adultas libres, independientes y felices, sobre todo. Ellas se refieren en este espacio a todas las cuestiones que les interesan. La vida social, la laboral, la exigencia de la casa y de los hijos, sin dejar de lado el hecho de ser atractivas y profesionales(n)</desc>
-  </programme>
-  <programme start="20170613010000 +0000" stop="20170613023000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Mentes criminales</title>
-    <desc lang="en">El trabajo de los analistas de comportamiento del FBI consiste determinar perfiles de los criminales para resolver crímenes. Este trabajo cuenta con la participación de un equipo diverso, que incluye a un joven genio y un líder hábil torturado por un caso del pasado. A diferencia de otros dramas criminales enfocados en ciencia, esta serie es muy calculadora en su análisis deductivo de los crímenes y sus autores(n)</desc>
-    <category lang="en">Drama Criminal</category>
-    <category lang="en">Suspense</category>
-    <icon src="https://i.yo.tv/p/se/d31977/s/E7881998E40ED1C61A22AD5037ADA4A9.jpg" />
     <star-rating>
-      <value>8.9</value>
+      <value>7.0</value>
     </star-rating>
   </programme>
-  <programme start="20170613023000 +0000" stop="20170613040000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Algo Personal</title>
-    <desc lang="en">Programa festivalero conducido por Juan Carlos "Pollo" Valdivia(n)</desc>
+  <programme start="20170616103000 +0000" stop="20170616110000 +0000" channel="La Red (Chile)">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día(n)</desc>
+    <category lang="en">Noticias</category>
   </programme>
-  <programme start="20170613040000 +0000" stop="20170613053000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Nessun dorma</title>
-    <desc lang="en">Programa de conversación con temas de actualidad, relaciones de pareja y el diario vivir del chileno medio, con un sello marcado por el humor y la crítica en los contenidos abordados(n)</desc>
-    <category lang="en">Revista Noticiosa</category>
-    <category lang="en">Consejos</category>
+  <programme start="20170616110000 +0000" stop="20170616160000 +0000" channel="La Red (Chile)">
+    <title lang="en">Hola Chile</title>
+    <desc lang="en">Programa matinal lleno de información y mucha diversión(n)</desc>
   </programme>
-  <programme start="20170613053000 +0000" stop="20170613053000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
-    <title lang="en">Me late</title>
-    <desc lang="en">Programa de conversación(n)</desc>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170616160000 +0000" stop="20170616183000 +0000" channel="La Red (Chile)">
+    <title lang="en">Intrusos</title>
+    <desc lang="en">Un espacio para todos los pormenores y las primicias de la farándula(n)</desc>
+    <category lang="en">Entretenimiento</category>
+    <star-rating>
+      <value>2.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616183000 +0000" stop="20170616193000 +0000" channel="La Red (Chile)">
+    <title lang="en">Mi adorable maldición</title>
+    <desc lang="en">Aurora es una bella joven, que carga la cruz de haber sido estigmatizada al nacer por Macrina. Esta partera asegura que la criatura es un ser maligno, portadora de la desgracia y la muerte, por un lunar en forma de calavera que tiene en su ombligo. Encima, después del parto la madre muere, lo que acrecienta aún más esta teoría. El padre de la adolescente, además de extrañar a su fallecida esposa, debe mantener a su hija alejada de la gente del pueblo, que la señala y le teme(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616193000 +0000" stop="20170616203000 +0000" channel="La Red (Chile)">
+    <title lang="en">Corazón indomable</title>
+    <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo(n)</desc>
+    <category lang="en">Telenovela</category>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616203000 +0000" stop="20170616212000 +0000" channel="La Red (Chile)">
+    <title lang="en">Mujer... Casos de la Vida Real</title>
+    <desc lang="en">Una serie que cada día presenta a estrellas televisivas diferentes que vuelven a crear historias extraídas de la vida cotidiana y reflectoras de temas universales(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>2.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616212000 +0000" stop="20170616224000 +0000" channel="La Red (Chile)">
+    <title lang="en">Como Dice El Dicho</title>
+    <desc lang="en">Un hombre y su nieta tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Adaptación</category>
+    <icon src="https://i.yo.tv/p/se/d44174/s/2BB9DB0FE6777AEEF6C564118F2FEFAB.jpg" />
+    <star-rating>
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616224000 +0000" stop="20170617003000 +0000" channel="La Red (Chile)">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
   </programme>
   <programme start="20170613053000 +0000" stop="20170613070000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
     <title lang="en">Me late</title>
@@ -1242,87 +1122,108 @@
     <title lang="en">MILF</title>
     <desc lang="en">Tres mujeres que no tienen ningún problema en tocar todos los temas femeninos. Pensado para las jóvenes y adultas libres, independientes y felices, sobre todo. Ellas se refieren en este espacio a todas las cuestiones que les interesan. La vida social, la laboral, la exigencia de la casa y de los hijos, sin dejar de lado el hecho de ser atractivas y profesionales(n)</desc>
   </programme>
-  <programme start="20170612050000 +0000" stop="20170612063000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Mejor Hablar</title>
-  </programme>
-  <programme start="20170612063000 +0000" stop="20170612064500 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">TV tiempo</title>
-    <desc lang="en">El estado del tiempo en Chile(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Meteorología/clima</category>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612064500 +0000" stop="20170612094500 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Cierre de estación</title>
-    <star-rating>
-      <value>6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612094500 +0000" stop="20170612103000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">5:50</title>
-    <desc lang="en">Programa matinal con información periodística y de servicios para los madrugadores, donde los periodistas Juan Carlos Alarcón y Oscar García presentan el estado del tránsito en la ciudad, el tiempo, lo más visto, lo más compartido en redes sociales y más(n)</desc>
+  <programme start="20170616004500 +0000" stop="20170616010000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Franja Electoral</title>
     <category lang="en">Otro</category>
   </programme>
-  <programme start="20170612103000 +0000" stop="20170612120000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Tu mañana, 24 horas</title>
-    <desc lang="en">Empieza la mañana con toda la información sobre el clima, tráfico y noticias en general(n)</desc>
-    <category lang="en">Revista Noticiosa</category>
-  </programme>
-  <programme start="20170612120000 +0000" stop="20170612173000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Muy buenos días</title>
-    <desc lang="en">Servicios, conversación, humor y la mejor compañía para empezar cada día(n)</desc>
-  </programme>
-  <programme start="20170612173000 +0000" stop="20170612192000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">24 Horas Al Día</title>
-    <desc lang="en">Noticias locales e internacionales(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616010000 +0000" stop="20170616023000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Mentes criminales</title>
+    <desc lang="en">El trabajo de los analistas de comportamiento del FBI consiste determinar perfiles de los criminales para resolver crímenes. Este trabajo cuenta con la participación de un equipo diverso, que incluye a un joven genio y un líder hábil torturado por un caso del pasado. A diferencia de otros dramas criminales enfocados en ciencia, esta serie es muy calculadora en su análisis deductivo de los crímenes y sus autores(n)</desc>
+    <category lang="en">Drama Criminal</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://i.yo.tv/p/se/d31977/s/E7881998E40ED1C61A22AD5037ADA4A9.jpg" />
     <star-rating>
-      <value>7.0</value>
+      <value>8.9</value>
     </star-rating>
   </programme>
-  <programme start="20170612192000 +0000" stop="20170612213000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Elif</title>
-    <desc lang="en">Una mujer abandonada lucha por salvar a su hija de los planes de su nuevo esposo(n)</desc>
+  <programme start="20170616023000 +0000" stop="20170616040000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Algo Personal</title>
+    <desc lang="en">Programa festivalero conducido por Juan Carlos "Pollo" Valdivia(n)</desc>
   </programme>
-  <programme start="20170612213000 +0000" stop="20170612230000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Saras y Kumud</title>
-    <desc lang="en">Un joven culto y aristocrático debe casarse con la hija bien educada de un amigo de la familia, una joven llamada Kumud, por la imposición de su padre, que sigue los ritos de la cultura de la India. Sin embargo, Saras se resiste a cumplir con los mandatos y decide dar por terminados los proyectos de boda. Cuando se lo va a comunicar a ella, empiezan a verse seguido y el amor surge de manera natural entre ellos(n)</desc>
+  <programme start="20170616040000 +0000" stop="20170616053000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Nessun dorma</title>
+    <desc lang="en">Programa de conversación con temas de actualidad, relaciones de pareja y el diario vivir del chileno medio, con un sello marcado por el humor y la crítica en los contenidos abordados(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
+    <category lang="en">Consejos</category>
   </programme>
-  <programme start="20170612230000 +0000" stop="20170613000000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Günes</title>
-    <sub-title lang="en">Todo amor esconde un secreto</sub-title>
-    <desc lang="en">Günes tiene 35 años y tres hijas, las mellizas de 17 años Nazlı y Selin, y Peri, de 14. Está separada de su marido y es profesora de literatura en la ciudad de Esmirna. Dedica su vida a su familia y al trabajo, hasta que un día conoce a un hombre. Se trata de Haluk, un ejecutivo dedicado a los negocios, que vive en Estambul. Pronto inician un intenso romance, donde todo parece idílico al principio. Pero el tiempo irá deparándoles sorpresas a ambos(n)</desc>
+  <programme start="20170616053000 +0000" stop="20170616053000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Me late</title>
+    <desc lang="en">Programa de conversación(n)</desc>
+    <category lang="en">Discusión/charla</category>
   </programme>
-  <programme start="20170613000000 +0000" stop="20170613010000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">La colombiana</title>
-    <desc lang="en">Pedro es un vendedor de abarrotes, separado y antipático. Atiende un negocio en el barrio Yungay, lugar en el que no acepta la llegada de inmigrantes, en especial de Ángela, una médica colombiana que arriba a Chile, con su hijo, en busca de nuevas oportunidades, luego de una ruptura amorosa. Irene, la exesposa de Pedro, le pide el divorcio para casarse con el dueño de la inmobiliaria más conocida del país, y Pedro recibe la ayuda de Ángela. Entre ambos crecerá un vínculo afectivo sorprendente(n)</desc>
+  <programme start="20170616053000 +0000" stop="20170616070000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Me late</title>
+    <desc lang="en">Programa de conversación(n)</desc>
+    <category lang="en">Discusión/charla</category>
   </programme>
-  <programme start="20170613010000 +0000" stop="20170613024500 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">24 Horas Central</title>
-    <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616070000 +0000" stop="20170616084500 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Algo Personal</title>
+    <desc lang="en">Programa festivalero conducido por Juan Carlos "Pollo" Valdivia(n)</desc>
+  </programme>
+  <programme start="20170616084500 +0000" stop="20170616091500 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">OK</title>
+  </programme>
+  <programme start="20170616091500 +0000" stop="20170616093000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Música de los 80</title>
+    <desc lang="en">La mejor música de los años 80(n)</desc>
+    <category lang="en">Videos Musicales</category>
+  </programme>
+  <programme start="20170616093000 +0000" stop="20170616100000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Dora la exploradora</title>
+    <desc lang="en">Dora es una niña de 7 que, junto a su amigo Botas de 5, tiene que ir a buscar algo que ha perdido ella o ayudar a Botas a cumplir con algo. El dibujo tiene un formato similar a un juego interactivo de ordenadores. Uno de los objetivos que persigue es la enseñanza amena del idioma inglés a niños de habla hispana(n)</desc>
+    <category lang="en">Educativo</category>
+    <category lang="en">Dibujos Animados</category>
+    <icon src="https://i.yo.tv/p/se/d29225/s/6713664672A016145B026BC9B0C5F4C1.jpg" />
+  </programme>
+  <programme start="20170616100000 +0000" stop="20170616103000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Blaze and the Monster Machines</title>
+    <desc lang="en">Las aventuras de un camión y su mejor amigo, un niño pequeño que es también su chofer(n)</desc>
+    <icon src="https://i.yo.tv/p/se/d14980/s/33FCA39E640B5BADF2F6DBE20F6D2111.jpg" />
     <star-rating>
-      <value>4.5</value>
+      <value>5.4</value>
     </star-rating>
   </programme>
-  <programme start="20170613024500 +0000" stop="20170613034500 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">El Sillón de Pedro Presidencial</title>
-    <desc lang="en">El reconocido periodista Pedro Carcuro entrevista a los políticos más importantes. Así, pasan por su sillón los diferentes candidatos para gobernar al país, quienes exponen sus ideas y pensamientos durante la charla. Con su particular estilo, el incisivo anfitrión permite conocer en profundidad los pensamientos de cada uno de sus invitados(n)</desc>
+  <programme start="20170616103000 +0000" stop="20170616120000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">MILF</title>
+    <desc lang="en">Tres mujeres que no tienen ningún problema en tocar todos los temas femeninos. Pensado para las jóvenes y adultas libres, independientes y felices, sobre todo. Ellas se refieren en este espacio a todas las cuestiones que les interesan. La vida social, la laboral, la exigencia de la casa y de los hijos, sin dejar de lado el hecho de ser atractivas y profesionales(n)</desc>
   </programme>
-  <programme start="20170613034500 +0000" stop="20170613050000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Josué y la tierra prometida</title>
-    <desc lang="en">Dos socios con conocimientos de la empresa de gas se aprovechan de la situación económica que se vive en Pensilvania para hacer propuestas de exploración de la tierra en busca de fluido y petróleo. En su camino tendrán obstáculos que harán que la tarea no sea tan sencilla como lo pensaban(n)</desc>
+  <programme start="20170616120000 +0000" stop="20170616140000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Infomercial</category>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
   </programme>
-  <programme start="20170613050000 +0000" stop="20170613054000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">La colombiana</title>
-    <desc lang="en">Pedro es un vendedor de abarrotes, separado y antipático. Atiende un negocio en el barrio Yungay, lugar en el que no acepta la llegada de inmigrantes, en especial de Ángela, una médica colombiana que arriba a Chile, con su hijo, en busca de nuevas oportunidades, luego de una ruptura amorosa. Irene, la exesposa de Pedro, le pide el divorcio para casarse con el dueño de la inmobiliaria más conocida del país, y Pedro recibe la ayuda de Ángela. Entre ambos crecerá un vínculo afectivo sorprendente(n)</desc>
+  <programme start="20170616140000 +0000" stop="20170616203000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Infomercial</category>
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
   </programme>
-  <programme start="20170613054000 +0000" stop="20170613054000 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Medianoche</title>
-    <desc lang="en">Un resumen informativo que incluye entrevistas y análisis de las noticias(n)</desc>
-    <category lang="en">Revista Noticiosa</category>
+  <programme start="20170616203000 +0000" stop="20170616213000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Animalia</title>
+    <desc lang="en">Programa que muestra las diversas ópticas que surgen del trato diario con animales en parques, hogares y zoológicos, entre otros(n)</desc>
+    <category lang="en">Caricaturas/animado</category>
+    <category lang="en">Animales</category>
+  </programme>
+  <programme start="20170616213000 +0000" stop="20170616220000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Los Años Dorados</title>
+    <desc lang="en">Las divertidas historias de cuatro mujeres que comparten juntas en el mismo hogar, su paso a la tercera edad. Una adaptación de la serie americana 'Golden Girls'(n)</desc>
+    <category lang="en">Comedia</category>
+  </programme>
+  <programme start="20170616220000 +0000" stop="20170616233000 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">Me late</title>
+    <desc lang="en">Programa de conversación(n)</desc>
+    <category lang="en">Discusión/charla</category>
+  </programme>
+  <programme start="20170616233000 +0000" stop="20170617004500 +0000" channel="UCV Television Universidad Catolica de Valparaiso">
+    <title lang="en">MILF</title>
+    <desc lang="en">Tres mujeres que no tienen ningún problema en tocar todos los temas femeninos. Pensado para las jóvenes y adultas libres, independientes y felices, sobre todo. Ellas se refieren en este espacio a todas las cuestiones que les interesan. La vida social, la laboral, la exigencia de la casa y de los hijos, sin dejar de lado el hecho de ser atractivas y profesionales(n)</desc>
   </programme>
   <programme start="20170613054000 +0000" stop="20170613064500 +0000" channel="TVN - Televisión Nacional de Chile">
     <title lang="en">Medianoche</title>
@@ -1547,94 +1448,89 @@
     <sub-title lang="en">Todo amor esconde un secreto</sub-title>
     <desc lang="en">Günes tiene 35 años y tres hijas, las mellizas de 17 años Nazlı y Selin, y Peri, de 14. Está separada de su marido y es profesora de literatura en la ciudad de Esmirna. Dedica su vida a su familia y al trabajo, hasta que un día conoce a un hombre. Se trata de Haluk, un ejecutivo dedicado a los negocios, que vive en Estambul. Pronto inician un intenso romance, donde todo parece idílico al principio. Pero el tiempo irá deparándoles sorpresas a ambos(n)</desc>
   </programme>
-  <programme start="20170612053000 +0000" stop="20170612094500 +0000" channel="Mega (Chile)">
+  <programme start="20170616000000 +0000" stop="20170616004500 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">La colombiana</title>
+    <desc lang="en">Pedro es un vendedor de abarrotes, separado y antipático. Atiende un negocio en el barrio Yungay, lugar en el que no acepta la llegada de inmigrantes, en especial de Ángela, una médica colombiana que arriba a Chile, con su hijo, en busca de nuevas oportunidades, luego de una ruptura amorosa. Irene, la exesposa de Pedro, le pide el divorcio para casarse con el dueño de la inmobiliaria más conocida del país, y Pedro recibe la ayuda de Ángela. Entre ambos crecerá un vínculo afectivo sorprendente(n)</desc>
+  </programme>
+  <programme start="20170616004500 +0000" stop="20170616010000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Franja Política Primarias</title>
+  </programme>
+  <programme start="20170616010000 +0000" stop="20170616024500 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">24 Horas Central</title>
+    <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616024500 +0000" stop="20170616034500 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Hülya. Las llamas del deseo</title>
+    <desc lang="en">Hülya tiene un carácter fuerte y directo, lo que le ha valido meterse siempre en problemas. Ella es la rebelde hija menor de Salih Çamoğlu, quien prometió en matrimonio a su heredera mayor, Melek, con el menor de su millonario amigo Bayram Cevher. Esta boda por conveniencia estaba ideada para sacar de la pobreza a la familia Çamoğlu. Sin embargo, la pequeña Hülya ya había puesto sus ojos en el joven, de quien está enamorada desde su infancia(n)</desc>
+  </programme>
+  <programme start="20170616034500 +0000" stop="20170616044500 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">La colombiana</title>
+    <desc lang="en">Pedro es un vendedor de abarrotes, separado y antipático. Atiende un negocio en el barrio Yungay, lugar en el que no acepta la llegada de inmigrantes, en especial de Ángela, una médica colombiana que arriba a Chile, con su hijo, en busca de nuevas oportunidades, luego de una ruptura amorosa. Irene, la exesposa de Pedro, le pide el divorcio para casarse con el dueño de la inmobiliaria más conocida del país, y Pedro recibe la ayuda de Ángela. Entre ambos crecerá un vínculo afectivo sorprendente(n)</desc>
+  </programme>
+  <programme start="20170616044500 +0000" stop="20170616051500 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Medianoche</title>
+    <desc lang="en">Un resumen informativo que incluye entrevistas y análisis de las noticias(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
+  </programme>
+  <programme start="20170616051500 +0000" stop="20170616053000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">TV tiempo</title>
+    <desc lang="en">El estado del tiempo en Chile(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Meteorología/clima</category>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616053000 +0000" stop="20170616053000 +0000" channel="TVN - Televisión Nacional de Chile">
     <title lang="en">Cierre de estación</title>
     <star-rating>
       <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612094500 +0000" stop="20170612103000 +0000" channel="Mega (Chile)">
-    <title lang="en">Me levanto con Mega</title>
-    <desc lang="en">Levántese con el primer informe de noticias del día(n)</desc>
-    <category lang="en">Noticias</category>
-  </programme>
-  <programme start="20170612103000 +0000" stop="20170612120000 +0000" channel="Mega (Chile)">
-    <title lang="en">Ahora noticias matinal</title>
-    <desc lang="en">Programa periodístico(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616053000 +0000" stop="20170616094500 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Cierre de estación</title>
     <star-rating>
-      <value>0.6</value>
+      <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612120000 +0000" stop="20170612170000 +0000" channel="Mega (Chile)">
-    <title lang="en">Mucho Gusto</title>
-    <desc lang="en">Un programa dedicado a la gastronomía con una receta diaria, consejos sobre la cocina, historias de la comida de culturas varias e invitados informativos(n)</desc>
-    <category lang="en">Comida</category>
-    <category lang="en">Cocina</category>
-    <star-rating>
-      <value>3.2</value>
-    </star-rating>
+  <programme start="20170616094500 +0000" stop="20170616103000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">5:50</title>
+    <desc lang="en">Programa matinal con información periodística y de servicios para los madrugadores, donde los periodistas Juan Carlos Alarcón y Oscar García presentan el estado del tránsito en la ciudad, el tiempo, lo más visto, lo más compartido en redes sociales y más(n)</desc>
+    <category lang="en">Otro</category>
   </programme>
-  <programme start="20170612170000 +0000" stop="20170612191500 +0000" channel="Mega (Chile)">
-    <title lang="en">Ahora noticias edición tarde</title>
-    <desc lang="en">Programa periodístico(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616103000 +0000" stop="20170616120000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Tu mañana, 24 horas</title>
+    <desc lang="en">Empieza la mañana con toda la información sobre el clima, tráfico y noticias en general(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
   </programme>
-  <programme start="20170612191500 +0000" stop="20170612194500 +0000" channel="Mega (Chile)">
-    <title lang="en">Amanda</title>
-    <desc lang="en">Una joven enfermera llega a la casa de los Santa Cruz para cuidar de la madre de la familia, pero no será lo que parece. Margarita, buscará ganarse el amor y la confianza de toda la residencia, pero únicamente con el fin de buscar justicia por un abuso sexual que cometieron los cuatro hermanos hace 14 años(n)</desc>
+  <programme start="20170616120000 +0000" stop="20170616173000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Muy buenos días</title>
+    <desc lang="en">Servicios, conversación, humor y la mejor compañía para empezar cada día(n)</desc>
   </programme>
-  <programme start="20170612194500 +0000" stop="20170612203000 +0000" channel="Mega (Chile)">
-    <title lang="en">Amanda</title>
-    <desc lang="en">Tras ser abusada sexualmente, Margarita cambia su nombre a Amanda e ingresa a la familia como una enferma dispuesta a concretar su venganza, pero su plan se verá obstaculizado por sus sentimientos hacia Víctor(n)</desc>
-  </programme>
-  <programme start="20170612203000 +0000" stop="20170612213000 +0000" channel="Mega (Chile)">
-    <title lang="en">Iffet</title>
-    <desc lang="en">Teleserie turca que cuenta la historia de Iffet, una joven de origen modesto que vive con su padre y su hermana menor en un barrio de Estambul, en un ambiente muy reprimido. Un día conoce a Cemil y comienzan una relación que parece perfecta, pero pronto todo se convierte en una horrible pesadilla, de la que le costará mucho despertar(n)</desc>
-  </programme>
-  <programme start="20170612213000 +0000" stop="20170612222000 +0000" channel="Mega (Chile)">
-    <title lang="en">Kara Sevda</title>
-    <desc lang="en">La historia de dos jóvenes enamorados, a quienes los separa la diferencia de clases(n)</desc>
-  </programme>
-  <programme start="20170612222000 +0000" stop="20170612231500 +0000" channel="Mega (Chile)">
-    <title lang="en">El secreto de Feriha</title>
-    <desc lang="en">Una joven estudiante se hace pasar por millonaria, para ganarse el amor de un apuesto compañero(n)</desc>
-  </programme>
-  <programme start="20170612231500 +0000" stop="20170613001500 +0000" channel="Mega (Chile)">
-    <title lang="en">El secreto de Feriha</title>
-    <desc lang="en">Una joven estudiante se hace pasar por millonaria, para ganarse el amor de un apuesto compañero(n)</desc>
-  </programme>
-  <programme start="20170613001500 +0000" stop="20170613010000 +0000" channel="Mega (Chile)">
-    <title lang="en">Tranquilo papá</title>
-    <desc lang="en">Domingo es un hombre millonario, con culpa de no estar muy presente en el hogar debido a su exigente trabajo. Y tiene una debilidad: no sabe decirle nunca que no a su esposa Pepa, quien vive pendiente por verse joven. Con el tiempo, su familia se ha convertido en una junta de flojos, egoístas y dependientes del padre de familia, que es el encargado de mantener la vivienda(n)</desc>
-  </programme>
-  <programme start="20170613010000 +0000" stop="20170613023000 +0000" channel="Mega (Chile)">
-    <title lang="en">Ahora noticias</title>
-    <desc lang="en">Programa periodístico(n)</desc>
+  <programme start="20170616173000 +0000" stop="20170616192000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">24 Horas Al Día</title>
+    <desc lang="en">Noticias locales e internacionales(n)</desc>
     <category lang="en">Noticias</category>
     <star-rating>
-      <value>6.0</value>
+      <value>7.0</value>
     </star-rating>
   </programme>
-  <programme start="20170613023000 +0000" stop="20170613033000 +0000" channel="Mega (Chile)">
-    <title lang="en">Perdona Nuestros Pecados</title>
-    <desc lang="en">María Elsa es la debilidad de su padre, Armando Quiroga, el hombre más rico y poderoso de Villa Ruiseñor.Ella es una joven ejemplar para todo el pueblo.Sin embargo, cuando empieza una relación prohibida con Camilo Corcuera, que es hijo de una empleada, desafía las costumbres de la alta alcurnia, que no soporta un romance entre dos personas de clases sociales diferentes(n)</desc>
+  <programme start="20170616192000 +0000" stop="20170616210000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Elif</title>
+    <desc lang="en">Una mujer abandonada lucha por salvar a su hija de los planes de su nuevo esposo(n)</desc>
   </programme>
-  <programme start="20170613033000 +0000" stop="20170613050000 +0000" channel="Mega (Chile)">
-    <title lang="en">Doble Tentación</title>
-    <desc lang="en">Reality show, donde se pondrá a prueba la fidelidad de parejas de: novios, pololos o esposos y que hará enfrentar sus verdaderos sentimientos revelando sus pasiones, fortalezas y debilidades como pareja(n)</desc>
+  <programme start="20170616210000 +0000" stop="20170616230000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Saras y Kumud</title>
+    <desc lang="en">Un joven culto y aristocrático debe casarse con la hija bien educada de un amigo de la familia, una joven llamada Kumud, por la imposición de su padre, que sigue los ritos de la cultura de la India. Sin embargo, Saras se resiste a cumplir con los mandatos y decide dar por terminados los proyectos de boda. Cuando se lo va a comunicar a ella, empiezan a verse seguido y el amor surge de manera natural entre ellos(n)</desc>
   </programme>
-  <programme start="20170613050000 +0000" stop="20170613054500 +0000" channel="Mega (Chile)">
-    <title lang="en">Tranquilo papá</title>
-    <desc lang="en">Domingo es un hombre millonario, con culpa de no estar muy presente en el hogar debido a su exigente trabajo. Y tiene una debilidad: no sabe decirle nunca que no a su esposa Pepa, quien vive pendiente por verse joven. Con el tiempo, su familia se ha convertido en una junta de flojos, egoístas y dependientes del padre de familia, que es el encargado de mantener la vivienda(n)</desc>
-  </programme>
-  <programme start="20170613054500 +0000" stop="20170613054500 +0000" channel="Mega (Chile)">
-    <title lang="en">Más Vale Tarde</title>
-    <desc lang="en">Álvaro Escobar entrevista a distintas figuras del espectáculo(n)</desc>
-    <category lang="en">Entretenimiento</category>
-    <star-rating>
-      <value>6.9</value>
-    </star-rating>
+  <programme start="20170616230000 +0000" stop="20170617000000 +0000" channel="TVN - Televisión Nacional de Chile">
+    <title lang="en">Günes</title>
+    <sub-title lang="en">Todo amor esconde un secreto</sub-title>
+    <desc lang="en">Günes tiene 35 años y tres hijas, las mellizas de 17 años Nazlı y Selin, y Peri, de 14. Está separada de su marido y es profesora de literatura en la ciudad de Esmirna. Dedica su vida a su familia y al trabajo, hasta que un día conoce a un hombre. Se trata de Haluk, un ejecutivo dedicado a los negocios, que vive en Estambul. Pronto inician un intenso romance, donde todo parece idílico al principio. Pero el tiempo irá deparándoles sorpresas a ambos(n)</desc>
   </programme>
   <programme start="20170613054500 +0000" stop="20170613064500 +0000" channel="Mega (Chile)">
     <title lang="en">Más Vale Tarde</title>
@@ -1892,90 +1788,102 @@
     <title lang="en">El secreto de Feriha</title>
     <desc lang="en">Una joven estudiante se hace pasar por millonaria, para ganarse el amor de un apuesto compañero(n)</desc>
   </programme>
-  <programme start="20170612053000 +0000" stop="20170612094500 +0000" channel="Chilevision">
+  <programme start="20170616001500 +0000" stop="20170616010000 +0000" channel="Mega (Chile)">
+    <title lang="en">Tranquilo papá</title>
+    <desc lang="en">Domingo es un hombre millonario, con culpa de no estar muy presente en el hogar debido a su exigente trabajo. Y tiene una debilidad: no sabe decirle nunca que no a su esposa Pepa, quien vive pendiente por verse joven. Con el tiempo, su familia se ha convertido en una junta de flojos, egoístas y dependientes del padre de familia, que es el encargado de mantener la vivienda(n)</desc>
+  </programme>
+  <programme start="20170616010000 +0000" stop="20170616023000 +0000" channel="Mega (Chile)">
+    <title lang="en">Ahora noticias</title>
+    <desc lang="en">Programa periodístico(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616023000 +0000" stop="20170616033000 +0000" channel="Mega (Chile)">
+    <title lang="en">Perdona Nuestros Pecados</title>
+    <desc lang="en">María Elsa es la debilidad de su padre, Armando Quiroga, el hombre más rico y poderoso de Villa Ruiseñor.Ella es una joven ejemplar para todo el pueblo.Sin embargo, cuando empieza una relación prohibida con Camilo Corcuera, que es hijo de una empleada, desafía las costumbres de la alta alcurnia, que no soporta un romance entre dos personas de clases sociales diferentes(n)</desc>
+  </programme>
+  <programme start="20170616033000 +0000" stop="20170616050000 +0000" channel="Mega (Chile)">
+    <title lang="en">Doble Tentación</title>
+    <desc lang="en">Reality show, donde se pondrá a prueba la fidelidad de parejas de: novios, pololos o esposos y que hará enfrentar sus verdaderos sentimientos revelando sus pasiones, fortalezas y debilidades como pareja(n)</desc>
+  </programme>
+  <programme start="20170616050000 +0000" stop="20170616054500 +0000" channel="Mega (Chile)">
+    <title lang="en">Tranquilo papá</title>
+    <desc lang="en">Domingo es un hombre millonario, con culpa de no estar muy presente en el hogar debido a su exigente trabajo. Y tiene una debilidad: no sabe decirle nunca que no a su esposa Pepa, quien vive pendiente por verse joven. Con el tiempo, su familia se ha convertido en una junta de flojos, egoístas y dependientes del padre de familia, que es el encargado de mantener la vivienda(n)</desc>
+  </programme>
+  <programme start="20170616054500 +0000" stop="20170616054500 +0000" channel="Mega (Chile)">
+    <title lang="en">Más Vale Tarde</title>
+    <desc lang="en">Álvaro Escobar entrevista a distintas figuras del espectáculo(n)</desc>
+    <category lang="en">Entretenimiento</category>
+    <star-rating>
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616054500 +0000" stop="20170616064500 +0000" channel="Mega (Chile)">
+    <title lang="en">Más Vale Tarde</title>
+    <desc lang="en">Álvaro Escobar entrevista a distintas figuras del espectáculo(n)</desc>
+    <category lang="en">Entretenimiento</category>
+    <star-rating>
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616064500 +0000" stop="20170616094500 +0000" channel="Mega (Chile)">
     <title lang="en">Cierre de estación</title>
     <star-rating>
       <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612094500 +0000" stop="20170612110000 +0000" channel="Chilevision">
-    <title lang="en">Primera Página</title>
-    <desc lang="en">Noticias e información del día(n)</desc>
+  <programme start="20170616094500 +0000" stop="20170616103000 +0000" channel="Mega (Chile)">
+    <title lang="en">Me levanto con Mega</title>
+    <desc lang="en">Levántese con el primer informe de noticias del día(n)</desc>
     <category lang="en">Noticias</category>
   </programme>
-  <programme start="20170612110000 +0000" stop="20170612120000 +0000" channel="Chilevision">
-    <title lang="en">CHV Noticias Mañana</title>
-    <desc lang="en">Las noticias más importantes a nivel nacional e internacional(n)</desc>
+  <programme start="20170616103000 +0000" stop="20170616120000 +0000" channel="Mega (Chile)">
+    <title lang="en">Ahora noticias matinal</title>
+    <desc lang="en">Programa periodístico(n)</desc>
     <category lang="en">Noticias</category>
     <star-rating>
-      <value>3.6</value>
+      <value>0.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612120000 +0000" stop="20170612173000 +0000" channel="Chilevision">
-    <title lang="en">La mañana de CHV</title>
-    <desc lang="en">Espacio matutino con notas, reportajes y temas de actualidad(n)</desc>
-    <category lang="en">Revista</category>
+  <programme start="20170616120000 +0000" stop="20170616170000 +0000" channel="Mega (Chile)">
+    <title lang="en">Mucho Gusto</title>
+    <desc lang="en">Un programa dedicado a la gastronomía con una receta diaria, consejos sobre la cocina, historias de la comida de culturas varias e invitados informativos(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Cocina</category>
     <star-rating>
-      <value>6.0</value>
+      <value>3.2</value>
     </star-rating>
   </programme>
-  <programme start="20170612173000 +0000" stop="20170612193000 +0000" channel="Chilevision">
-    <title lang="en">CHV Noticias Tarde</title>
-    <desc lang="en">Noticias nacionales y regionales, deportes y tiempo(n)</desc>
+  <programme start="20170616170000 +0000" stop="20170616191500 +0000" channel="Mega (Chile)">
+    <title lang="en">Ahora noticias edición tarde</title>
+    <desc lang="en">Programa periodístico(n)</desc>
     <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.6</value>
-    </star-rating>
   </programme>
-  <programme start="20170612193000 +0000" stop="20170612213000 +0000" channel="Chilevision">
-    <title lang="en">La Jueza</title>
-    <desc lang="en">Una juez decide los díficiles y conmovedores casos de la vida real en su corte televisiva(n)</desc>
-    <category lang="en">Realidad</category>
-    <category lang="en">Juzgado</category>
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
+  <programme start="20170616191500 +0000" stop="20170616194500 +0000" channel="Mega (Chile)">
+    <title lang="en">Amanda</title>
+    <desc lang="en">Una joven enfermera llega a la casa de los Santa Cruz para cuidar de la madre de la familia, pero no será lo que parece. Margarita, buscará ganarse el amor y la confianza de toda la residencia, pero únicamente con el fin de buscar justicia por un abuso sexual que cometieron los cuatro hermanos hace 14 años(n)</desc>
   </programme>
-  <programme start="20170612213000 +0000" stop="20170612223000 +0000" channel="Chilevision">
-    <title lang="en">Lo que callamos las mujeres</title>
-    <desc lang="en">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>6.7</value>
-    </star-rating>
+  <programme start="20170616194500 +0000" stop="20170616203000 +0000" channel="Mega (Chile)">
+    <title lang="en">Amanda</title>
+    <desc lang="en">Tras ser abusada sexualmente, Margarita cambia su nombre a Amanda e ingresa a la familia como una enferma dispuesta a concretar su venganza, pero su plan se verá obstaculizado por sus sentimientos hacia Víctor(n)</desc>
   </programme>
-  <programme start="20170612223000 +0000" stop="20170612233000 +0000" channel="Chilevision">
-    <title lang="en">Vidas en riesgo</title>
-    <desc lang="en">Los doctores Ayala y Martínez enfrentaran en cada capítulo una enfermedad. Juntos analizaran lo síntomas y evaluaran un diagnóstico y aunque a veces tengan diferencias, la pasión por servir los unirá por siempre(n)</desc>
+  <programme start="20170616203000 +0000" stop="20170616213000 +0000" channel="Mega (Chile)">
+    <title lang="en">Kara Sevda</title>
+    <desc lang="en">La historia de dos jóvenes enamorados, a quienes los separa la diferencia de clases(n)</desc>
   </programme>
-  <programme start="20170612233000 +0000" stop="20170613010000 +0000" channel="Chilevision">
-    <title lang="en">Caso Cerrado</title>
-    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva(n)</desc>
-    <category lang="en">Realidad</category>
-    <category lang="en">Juzgado</category>
-    <star-rating>
-      <value>5.0</value>
-    </star-rating>
+  <programme start="20170616213000 +0000" stop="20170616222000 +0000" channel="Mega (Chile)">
+    <title lang="en">El regreso de Lucas</title>
+    <desc lang="en">Esta es la historia de una familia acomodada que pierde a su hijo mayor, Lucas, de 4 años de edad en la playa. Elena, su madre, se obsesiona con encontrarlo porque siente que él está vivo y nunca deja de buscarlo, descuidando a sus otros hijos y su marido, Reynaldo, quien se hizo cargo de la familia y de la empresa. Luego de 20 años de la desaparición de Lucas, llega a manos de la madre una foto de su hijo. Una nueva pista a seguir que renueva las esperanzas de Elena de hallar a su hijo(n)</desc>
   </programme>
-  <programme start="20170613010000 +0000" stop="20170613023000 +0000" channel="Chilevision">
-    <title lang="en">CHV Noticias Central</title>
-    <desc lang="en">Las noticias más importantes a nivel nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>3.6</value>
-    </star-rating>
+  <programme start="20170616222000 +0000" stop="20170616231500 +0000" channel="Mega (Chile)">
+    <title lang="en">El secreto de Feriha</title>
+    <desc lang="en">Una joven estudiante se hace pasar por millonaria, para ganarse el amor de un apuesto compañero(n)</desc>
   </programme>
-  <programme start="20170613023000 +0000" stop="20170613040000 +0000" channel="Chilevision">
-    <title lang="en">Aquí está Chile</title>
-    <desc lang="en">Programa especial producido y transmitido en conjunto con CHV, y que contará con la participación de los candidatos a las elecciones Primarias Presidenciales del bloque Chile Vamos y Frente Amplio(n)</desc>
-  </programme>
-  <programme start="20170613040000 +0000" stop="20170613050000 +0000" channel="Chilevision">
-    <title lang="en">Última Mirada</title>
-    <desc lang="en">La última edición nocturna del noticiero de Chilevisión(n)</desc>
-  </programme>
-  <programme start="20170613050000 +0000" stop="20170613060000 +0000" channel="Chilevision">
-    <title lang="en">Adda, amar después de amar</title>
-    <desc lang="en">La amistad entre dos matrimonios aparece como punto de partida de un amor prohibido(n)</desc>
+  <programme start="20170616231500 +0000" stop="20170617001500 +0000" channel="Mega (Chile)">
+    <title lang="en">El secreto de Feriha</title>
+    <desc lang="en">Una joven estudiante se hace pasar por millonaria, para ganarse el amor de un apuesto compañero(n)</desc>
   </programme>
   <programme start="20170613060000 +0000" stop="20170613061500 +0000" channel="Chilevision">
     <title lang="en">Canciones Retocadas</title>
@@ -2231,92 +2139,100 @@
       <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20170612055000 +0000" stop="20170612065000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Crime Scene Investigation</sub-title>
-    <desc lang="en">Criminólogos de Las Vegas utilizan métodos científicos para esclarecer asesinatos brutales en esta serie dramática muy gráfica (y, sin lugar a dudas, popular), que inspiró la creación de otras teleseries policiales. El siempre metódico Gil Grissom encabeza el equipo, con ayuda de Catherine Willows. Un éxito inmediato, según los índices de audencia, este programa de la cadena CBS mezcla la deducción concienzuda con temas interesantes y personajes profundos(n)</desc>
-    <category lang="en">Drama Criminal</category>
-    <icon src="https://i.yo.tv/p/se/d29341/s/FC6E0A4BA850024C92857BBF263A23B4.jpg" />
+  <programme start="20170616004500 +0000" stop="20170616010000 +0000" channel="Chilevision">
+    <title lang="en">Propaganda electoral primaria 2017</title>
+  </programme>
+  <programme start="20170616010000 +0000" stop="20170616023000 +0000" channel="Chilevision">
+    <title lang="en">CHV Noticias Central</title>
+    <desc lang="en">Las noticias más importantes a nivel nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
     <star-rating>
-      <value>7.5</value>
+      <value>3.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612065000 +0000" stop="20170612094500 +0000" channel="Canal 13 (Chile)">
+  <programme start="20170616023000 +0000" stop="20170616040000 +0000" channel="Chilevision">
+    <title lang="en">Caso Cerrado</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva(n)</desc>
+    <category lang="en">Realidad</category>
+    <category lang="en">Juzgado</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616040000 +0000" stop="20170616050000 +0000" channel="Chilevision">
+    <title lang="en">Última Mirada</title>
+    <desc lang="en">La última edición nocturna del noticiero de Chilevisión(n)</desc>
+  </programme>
+  <programme start="20170616050000 +0000" stop="20170616051500 +0000" channel="Chilevision">
+    <title lang="en">Canciones Retocadas</title>
+    <desc lang="en">Canciones destacadas de ayer y hoy son interpretadas por artistas nacionales(n)</desc>
+    <category lang="en">Representación</category>
+  </programme>
+  <programme start="20170616051500 +0000" stop="20170616051500 +0000" channel="Chilevision">
     <title lang="en">Cierre de estación</title>
     <star-rating>
       <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612094500 +0000" stop="20170612103000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">3 X 3</title>
-    <desc lang="en">Programa de tipo informativo en un formato libre y distendido(n)</desc>
-    <category lang="en">Variedades</category>
+  <programme start="20170616051500 +0000" stop="20170616094500 +0000" channel="Chilevision">
+    <title lang="en">Cierre de estación</title>
+    <star-rating>
+      <value>6.6</value>
+    </star-rating>
   </programme>
-  <programme start="20170612103000 +0000" stop="20170612120000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Teletrece AM</title>
-    <desc lang="en">Informativo matinal(n)</desc>
-    <category lang="en">Otro</category>
+  <programme start="20170616094500 +0000" stop="20170616110000 +0000" channel="Chilevision">
+    <title lang="en">Primera Página</title>
+    <desc lang="en">Noticias e información del día(n)</desc>
+    <category lang="en">Noticias</category>
   </programme>
-  <programme start="20170612120000 +0000" stop="20170612173000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Bienvenidos, Cada Uno Cuenta</title>
-    <desc lang="en">Revista dinámica que incluye ánalisis de las noticias, consejos, historias de superación y otros segmentos(n)</desc>
+  <programme start="20170616110000 +0000" stop="20170616120000 +0000" channel="Chilevision">
+    <title lang="en">CHV Noticias Mañana</title>
+    <desc lang="en">Las noticias más importantes a nivel nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>3.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616120000 +0000" stop="20170616173000 +0000" channel="Chilevision">
+    <title lang="en">La mañana de CHV</title>
+    <desc lang="en">Espacio matutino con notas, reportajes y temas de actualidad(n)</desc>
     <category lang="en">Revista</category>
     <star-rating>
-      <value>6.8</value>
+      <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170612173000 +0000" stop="20170612193000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Teletrece Tarde</title>
-    <desc lang="en">Un programa informativo nacional chileno(n)</desc>
+  <programme start="20170616173000 +0000" stop="20170616193000 +0000" channel="Chilevision">
+    <title lang="en">CHV Noticias Tarde</title>
+    <desc lang="en">Noticias nacionales y regionales, deportes y tiempo(n)</desc>
     <category lang="en">Noticias</category>
     <star-rating>
-      <value>3.2</value>
+      <value>4.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612193000 +0000" stop="20170612211500 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Paramparca</title>
-    <desc lang="en">La trama cuenta la historia de dos jóvenes, Hazal y Cansu, quienes fueron intercambiadas al nacer. Quince años después de este acontecimiento, ellas conocerán la verdad de su origen, luego de un impactante accidente. Sus vidas seguirán cruzadas cuando nazca una historia de amor prohibido y el padre de una de ellas se enamore de la madre de la otra(n)</desc>
-  </programme>
-  <programme start="20170612211500 +0000" stop="20170612222000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Siete Mujeres</title>
-    <desc lang="en">Durante la guerra con el Imperio Brasileño, un revolucionario tiene que decidir entre dos mujeres(n)</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170612222000 +0000" stop="20170612231000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Amor a segunda vista</title>
-    <desc lang="en">Escapando de una novia impuesta, Fatih conoció una mujer con la cuál quiso hacer su vida, pero ella no tenía los mismos planes que él. Si bien quedó con su corazón destruido, el destino lo sorprendió con un nuevo "amor caído del cielo"(n)</desc>
-  </programme>
-  <programme start="20170612231000 +0000" stop="20170613010000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">La pequeña casa en la pradera</title>
-    <desc lang="en">La vida rural de una familia a mediados del siglo XIX en los EEUU. Basada en los libros de Laura Ingalls Wilder(n)</desc>
-    <icon src="https://i.yo.tv/p/se/d25900/s/89E0068CEB7CFCD800ADFDB74B85FBA4.jpg" />
-  </programme>
-  <programme start="20170613010000 +0000" stop="20170613024500 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Teletrece</title>
-    <desc lang="en">Noticiero chileno(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616193000 +0000" stop="20170616211500 +0000" channel="Chilevision">
+    <title lang="en">La Jueza</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de la vida real en su corte televisiva(n)</desc>
+    <category lang="en">Realidad</category>
+    <category lang="en">Juzgado</category>
     <star-rating>
-      <value>5.6</value>
+      <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20170613024500 +0000" stop="20170613041500 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Kosem, la sultana</title>
-    <desc lang="en">Kösem era tan solo una niña de quince años cuando fue capturada y enviada a Constantinopla\, allí fue vendida al sultán Ahmed I, por sus padres.A pesar de su difícil historia logró ser quién influenció el curso del Imperio Otomano y llegó a ser la favorita de Ahmed I(n)</desc>
-    <category lang="en">Historia</category>
+  <programme start="20170616211500 +0000" stop="20170616231500 +0000" channel="Chilevision">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20170613041500 +0000" stop="20170613050000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">Telenoche</title>
-    <desc lang="en">Programa de noticias(n)</desc>
-  </programme>
-  <programme start="20170613050000 +0000" stop="20170613060000 +0000" channel="Canal 13 (Chile)">
-    <title lang="en">CSI</title>
-    <sub-title lang="en">Crime Scene Investigation</sub-title>
-    <desc lang="en">Criminólogos de Las Vegas utilizan métodos científicos para esclarecer asesinatos brutales en esta serie dramática muy gráfica (y, sin lugar a dudas, popular), que inspiró la creación de otras teleseries policiales. El siempre metódico Gil Grissom encabeza el equipo, con ayuda de Catherine Willows. Un éxito inmediato, según los índices de audencia, este programa de la cadena CBS mezcla la deducción concienzuda con temas interesantes y personajes profundos(n)</desc>
-    <category lang="en">Drama Criminal</category>
-    <icon src="https://i.yo.tv/p/se/d29341/s/FC6E0A4BA850024C92857BBF263A23B4.jpg" />
     <star-rating>
-      <value>7.5</value>
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616231500 +0000" stop="20170617004500 +0000" channel="Chilevision">
+    <title lang="en">Caso Cerrado</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva(n)</desc>
+    <category lang="en">Realidad</category>
+    <category lang="en">Juzgado</category>
+    <star-rating>
+      <value>5.0</value>
     </star-rating>
   </programme>
   <programme start="20170613060000 +0000" stop="20170613091500 +0000" channel="Canal 13 (Chile)">
@@ -2539,167 +2455,92 @@
     <desc lang="en">La vida rural de una familia a mediados del siglo XIX en los EEUU. Basada en los libros de Laura Ingalls Wilder(n)</desc>
     <icon src="https://i.yo.tv/p/se/d25900/s/89E0068CEB7CFCD800ADFDB74B85FBA4.jpg" />
   </programme>
-  <programme start="20170612060000 +0000" stop="20170612063000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+  <programme start="20170616004500 +0000" stop="20170616010000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Franja electoral primarias</title>
+    <category lang="en">Otro</category>
+    <category lang="en">Política</category>
+  </programme>
+  <programme start="20170616010000 +0000" stop="20170616024000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Teletrece</title>
+    <desc lang="en">Noticiero chileno(n)</desc>
     <category lang="en">Noticias</category>
     <star-rating>
-      <value>4.2</value>
+      <value>5.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612063000 +0000" stop="20170612070000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+  <programme start="20170616024000 +0000" stop="20170616051500 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Vértigo</title>
+    <desc lang="en">Un programa de diversiones en el que los telespectadores votan desde casa para escoger al ganador(n)</desc>
+    <category lang="en">Variedades</category>
+  </programme>
+  <programme start="20170616051500 +0000" stop="20170616060000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Teletrece Noche</title>
+    <desc lang="en">Un programa informativo nacional chileno(n)</desc>
     <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616060000 +0000" stop="20170616070000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">CSI</title>
+    <sub-title lang="en">Crime Scene Investigation</sub-title>
+    <desc lang="en">Criminólogos de Las Vegas utilizan métodos científicos para esclarecer asesinatos brutales en esta serie dramática muy gráfica (y, sin lugar a dudas, popular), que inspiró la creación de otras teleseries policiales. El siempre metódico Gil Grissom encabeza el equipo, con ayuda de Catherine Willows. Un éxito inmediato, según los índices de audencia, este programa de la cadena CBS mezcla la deducción concienzuda con temas interesantes y personajes profundos(n)</desc>
+    <category lang="en">Drama Criminal</category>
+    <icon src="https://i.yo.tv/p/se/d29341/s/FC6E0A4BA850024C92857BBF263A23B4.jpg" />
     <star-rating>
-      <value>4.2</value>
+      <value>7.5</value>
     </star-rating>
   </programme>
-  <programme start="20170612070000 +0000" stop="20170612073000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616070000 +0000" stop="20170616094500 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Cierre de estación</title>
     <star-rating>
-      <value>4.2</value>
+      <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20170612073000 +0000" stop="20170612080000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.2</value>
-    </star-rating>
+  <programme start="20170616094500 +0000" stop="20170616103000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">3 X 3</title>
+    <desc lang="en">Programa de tipo informativo en un formato libre y distendido(n)</desc>
+    <category lang="en">Variedades</category>
   </programme>
-  <programme start="20170612080000 +0000" stop="20170612083000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612083000 +0000" stop="20170612090000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612090000 +0000" stop="20170612093000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612093000 +0000" stop="20170612100000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612100000 +0000" stop="20170612103000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">5:50</title>
-    <desc lang="en">Programa matinal con información periodística y de servicios para los madrugadores, donde los periodistas Juan Carlos Alarcón y Oscar García presentan el estado del tránsito en la ciudad, el tiempo, lo más visto, lo más compartido en redes sociales y más(n)</desc>
+  <programme start="20170616103000 +0000" stop="20170616120000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Teletrece AM</title>
+    <desc lang="en">Informativo matinal(n)</desc>
     <category lang="en">Otro</category>
   </programme>
-  <programme start="20170612103000 +0000" stop="20170612120000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Tu Mañana</title>
-  </programme>
-  <programme start="20170612120000 +0000" stop="20170612123000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Mirada Económica</title>
-    <desc lang="en">Resumen financiero(n)</desc>
-    <category lang="en">Negocios Y Finanzas</category>
-    <category lang="en">Finanzas</category>
-  </programme>
-  <programme start="20170612123000 +0000" stop="20170612143000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">La Mañana Informativa</title>
-    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
-    <category lang="en">Discusión/charla</category>
-    <category lang="en">Comunidad</category>
-  </programme>
-  <programme start="20170612143000 +0000" stop="20170612150000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Mejor Hablar</title>
-  </programme>
-  <programme start="20170612150000 +0000" stop="20170612170000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">La Mañana Informativa</title>
-    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
-    <category lang="en">Discusión/charla</category>
-    <category lang="en">Comunidad</category>
-  </programme>
-  <programme start="20170612170000 +0000" stop="20170612173000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616120000 +0000" stop="20170616173000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Bienvenidos, Cada Uno Cuenta</title>
+    <desc lang="en">Revista dinámica que incluye ánalisis de las noticias, consejos, historias de superación y otros segmentos(n)</desc>
+    <category lang="en">Revista</category>
     <star-rating>
-      <value>4.2</value>
+      <value>6.8</value>
     </star-rating>
   </programme>
-  <programme start="20170612173000 +0000" stop="20170612191500 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas Al Día</title>
-    <desc lang="en">Noticias locales e internacionales(n)</desc>
+  <programme start="20170616173000 +0000" stop="20170616193000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Teletrece Tarde</title>
+    <desc lang="en">Un programa informativo nacional chileno(n)</desc>
     <category lang="en">Noticias</category>
     <star-rating>
-      <value>7.0</value>
+      <value>3.2</value>
     </star-rating>
   </programme>
-  <programme start="20170612191500 +0000" stop="20170612194500 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Chile al Día</title>
-    <desc lang="en">Reportajes de actualidad(n)</desc>
+  <programme start="20170616193000 +0000" stop="20170616210000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Paramparca</title>
+    <desc lang="en">La trama cuenta la historia de dos jóvenes, Hazal y Cansu, quienes fueron intercambiadas al nacer. Quince años después de este acontecimiento, ellas conocerán la verdad de su origen, luego de un impactante accidente. Sus vidas seguirán cruzadas cuando nazca una historia de amor prohibido y el padre de una de ellas se enamore de la madre de la otra(n)</desc>
   </programme>
-  <programme start="20170612194500 +0000" stop="20170612203000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.2</value>
-    </star-rating>
+  <programme start="20170616210000 +0000" stop="20170616211500 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Entre dos amores</title>
+    <desc lang="en">Neriman vive con su padre y su tía desde que perdió a su madre cuando era solo una niña. En el humilde barrio de Fatih, en Estambul, los tres les dan pelea a una dura vida. La joven sueña con llegar lejos, tener un buen trabajo y ayudar a su familia. Está de novia con Sinasi, un joven trabajador con el que quiere casarse. Sin embargo, la relación pronto empieza a desmoronarse(n)</desc>
   </programme>
-  <programme start="20170612203000 +0000" stop="20170612210000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Más Motor</title>
-    <desc lang="en">Los momentos e imágenes más destacados del mundo automotriz(n)</desc>
-    <category lang="en">Deportes</category>
-    <category lang="en">Deportes De Motor</category>
+  <programme start="20170616211500 +0000" stop="20170616222000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Siete Mujeres</title>
+    <desc lang="en">Durante la guerra con el Imperio Brasileño, un revolucionario tiene que decidir entre dos mujeres(n)</desc>
+    <category lang="en">Telenovela</category>
   </programme>
-  <programme start="20170612210000 +0000" stop="20170613000000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Noticias 24</title>
-    <desc lang="en">Información de actualidad y las últimas noticias nacionales e internacionales(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>0.8</value>
-    </star-rating>
+  <programme start="20170616222000 +0000" stop="20170616231000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">Amor a segunda vista</title>
+    <desc lang="en">Escapando de una novia impuesta, Fatih conoció una mujer con la cuál quiso hacer su vida, pero ella no tenía los mismos planes que él. Si bien quedó con su corazón destruido, el destino lo sorprendió con un nuevo "amor caído del cielo"(n)</desc>
   </programme>
-  <programme start="20170613000000 +0000" stop="20170613010000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas Deportes</title>
-    <desc lang="en">Las principales noticias del deporte nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-  </programme>
-  <programme start="20170613010000 +0000" stop="20170613023000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">24 Horas Central</title>
-    <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613023000 +0000" stop="20170613034500 +0000" channel="24 Horas (Chile)">
-    <title lang="en">El Sillón de Pedro</title>
-    <desc lang="en">Pedro Carcuro entrevista a sus invitados del ámbito de la política, los deportes y el mundo del espectáculo, con su sello indiscutible y sus preguntas inquisidoras(n)</desc>
-  </programme>
-  <programme start="20170613034500 +0000" stop="20170613053000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Hora 24</title>
-    <desc lang="en">Christian Pino presenta entrevistas y un resumen de las noticias nacionales e internacionales(n)</desc>
-    <category lang="en">Noticias</category>
-  </programme>
-  <programme start="20170613053000 +0000" stop="20170613060000 +0000" channel="24 Horas (Chile)">
-    <title lang="en">Medianoche</title>
-    <desc lang="en">Análisis y entrevistas sobre los más relevantes hechos noticiosos del día que acaba(n)</desc>
-    <category lang="en">Revista Noticiosa</category>
+  <programme start="20170616231000 +0000" stop="20170617010000 +0000" channel="Canal 13 (Chile)">
+    <title lang="en">La pequeña casa en la pradera</title>
+    <desc lang="en">La vida rural de una familia a mediados del siglo XIX en los EEUU. Basada en los libros de Laura Ingalls Wilder(n)</desc>
+    <icon src="https://i.yo.tv/p/se/d25900/s/89E0068CEB7CFCD800ADFDB74B85FBA4.jpg" />
   </programme>
   <programme start="20170613060000 +0000" stop="20170613063000 +0000" channel="24 Horas (Chile)">
     <title lang="en">24 Horas A La Hora</title>
@@ -3197,6 +3038,179 @@
     <star-rating>
       <value>0.8</value>
     </star-rating>
+  </programme>
+  <programme start="20170616000000 +0000" stop="20170616010000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Deportes</title>
+    <desc lang="en">Las principales noticias del deporte nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616010000 +0000" stop="20170616023000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Central</title>
+    <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616023000 +0000" stop="20170616040000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Vía Pública</title>
+    <desc lang="en">Panelistas y representante políticos analizan y reflexionan sobre importantes temas del país(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616040000 +0000" stop="20170616053000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Hora 24</title>
+    <desc lang="en">Christian Pino presenta entrevistas y un resumen de las noticias nacionales e internacionales(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616053000 +0000" stop="20170616060000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Medianoche</title>
+    <desc lang="en">Análisis y entrevistas sobre los más relevantes hechos noticiosos del día que acaba(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
+  </programme>
+  <programme start="20170616060000 +0000" stop="20170616063000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616063000 +0000" stop="20170616070000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616070000 +0000" stop="20170616073000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616073000 +0000" stop="20170616080000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616080000 +0000" stop="20170616083000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616083000 +0000" stop="20170616090000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616090000 +0000" stop="20170616093000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616093000 +0000" stop="20170616100000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616100000 +0000" stop="20170616103000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">5:50</title>
+    <desc lang="en">Programa matinal con información periodística y de servicios para los madrugadores, donde los periodistas Juan Carlos Alarcón y Oscar García presentan el estado del tránsito en la ciudad, el tiempo, lo más visto, lo más compartido en redes sociales y más(n)</desc>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170616103000 +0000" stop="20170616120000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Tu Mañana</title>
+  </programme>
+  <programme start="20170616120000 +0000" stop="20170616123000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Entrevistas 24</title>
+    <desc lang="en">Espacio dedicado a entrevistar a las diferentes personalidades del acontecer chileno(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Entrevista</category>
+  </programme>
+  <programme start="20170616123000 +0000" stop="20170616143000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa</title>
+    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
+    <category lang="en">Discusión/charla</category>
+    <category lang="en">Comunidad</category>
+  </programme>
+  <programme start="20170616143000 +0000" stop="20170616150000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Vía Pública</title>
+    <desc lang="en">Panelistas y representante políticos analizan y reflexionan sobre importantes temas del país(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616150000 +0000" stop="20170616170000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa</title>
+    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
+    <category lang="en">Discusión/charla</category>
+    <category lang="en">Comunidad</category>
+  </programme>
+  <programme start="20170616170000 +0000" stop="20170616173000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616173000 +0000" stop="20170616191500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Al Día</title>
+    <desc lang="en">Noticias locales e internacionales(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616191500 +0000" stop="20170616194500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Chile al Día</title>
+    <desc lang="en">Reportajes de actualidad(n)</desc>
+  </programme>
+  <programme start="20170616194500 +0000" stop="20170616203000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616203000 +0000" stop="20170616210000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Entrevistas 24</title>
+    <desc lang="en">Espacio dedicado a entrevistar a las diferentes personalidades del acontecer chileno(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Entrevista</category>
+  </programme>
+  <programme start="20170616210000 +0000" stop="20170616233000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Noticias 24</title>
+    <desc lang="en">Información de actualidad y las últimas noticias nacionales e internacionales(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>0.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616233000 +0000" stop="20170617000000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Más Motor</title>
+    <desc lang="en">Los momentos e imágenes más destacados del mundo automotriz(n)</desc>
+    <category lang="en">Deportes</category>
+    <category lang="en">Deportes De Motor</category>
   </programme>
   <programme start="20170613003000 +0200" stop="20170613014500 +0200" channel="13tv">
     <title lang="es">Detrás de la verdad</title>
@@ -5413,183 +5427,6 @@
     <country>España</country>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20170612044500 +0000" stop="20170612061500 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Zapeando</title>
-    <desc lang="en">"Zapeando" es el formato que llega a las sobremesas de la cadena para desmenuzar con humor y desenfado los mejores momentos de los canales nacionales e internacionales(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Revista</category>
-    <star-rating>
-      <value>8.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612061500 +0000" stop="20170612063000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Noticias 1</title>
-    <desc lang="en">Una cita con la información nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612063000 +0000" stop="20170612102800 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Espejo Público</title>
-    <desc lang="en">Reportajes que interesan a la comunidad y destacan por su trasfondo social(n)</desc>
-    <category lang="en">Revista Noticiosa</category>
-    <category lang="en">Discusión/charla</category>
-    <star-rating>
-      <value>5.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612102800 +0000" stop="20170612110500 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">¿Qué me pasa, doctor?</title>
-    <desc lang="en">Un doctor junto a un equipo de especialistas atiende a preguntas de los espectadores grabadas en el programa, hechas por medio de llamadas telefónicas o enviadas vía Internet(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Salud</category>
-  </programme>
-  <programme start="20170612110500 +0000" stop="20170612120000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Hoy cocinas tú</title>
-    <desc lang="en">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas(n)</desc>
-    <category lang="en">Comida</category>
-    <category lang="en">Revista</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612120000 +0000" stop="20170612123100 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Cocina con Bruno</title>
-    <desc lang="en">Recetas y platillos para cocinar en casa(n)</desc>
-    <category lang="en">Comida</category>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170612123100 +0000" stop="20170612130000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Arguiñano</title>
-    <desc lang="en">Un experimentado cocinero mezcla la excelente cocina y el buen humor(n)</desc>
-    <category lang="en">Comida</category>
-  </programme>
-  <programme start="20170612130000 +0000" stop="20170612133000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Noticias 1</title>
-    <desc lang="en">Una cita con la información nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612133000 +0000" stop="20170612135000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Deportes</title>
-    <desc lang="en">Espacio dedicado a la información deportiva(n)</desc>
-    <category lang="en">Deportes</category>
-  </programme>
-  <programme start="20170612135000 +0000" stop="20170612140200 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">El Tiempo</title>
-    <desc lang="en">Información actualizada del tiempo(n)</desc>
-    <category lang="en">Otro</category>
-  </programme>
-  <programme start="20170612140200 +0000" stop="20170612172600 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Espejo Público</title>
-    <desc lang="en">Reportajes que interesan a la comunidad y destacan por su trasfondo social(n)</desc>
-    <category lang="en">Revista Noticiosa</category>
-    <category lang="en">Discusión/charla</category>
-    <star-rating>
-      <value>5.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612172600 +0000" stop="20170612175500 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Arguiñano</title>
-    <desc lang="en">Un experimentado cocinero mezcla la excelente cocina y el buen humor(n)</desc>
-    <category lang="en">Comida</category>
-  </programme>
-  <programme start="20170612175500 +0000" stop="20170612190000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">El Secreto de Puente Viejo</title>
-    <desc lang="en">Historia del amor imposible de un militar y una partera que superó muchos obstáculos en el pasado(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612190000 +0000" stop="20170612193000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Noticias 2</title>
-    <desc lang="en">La información más relevante a nivel nacional e internacional(n)</desc>
-    <category lang="en">Noticias</category>
-  </programme>
-  <programme start="20170612193000 +0000" stop="20170612203800 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">El Hormiguero</title>
-    <desc lang="en">Un programa de variedades, juegos y humor con invitados especiales, quienes participan activamente en el programa(n)</desc>
-    <category lang="en">Variedades</category>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612203800 +0000" stop="20170612213100 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Hoy cocinas tú</title>
-    <desc lang="en">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas(n)</desc>
-    <category lang="en">Comida</category>
-    <category lang="en">Revista</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612213100 +0000" stop="20170612224200 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Amar es para siempre</title>
-    <desc lang="en">Serie ambientada en 1960, década en la que España sufre cambios significativos y de gran crecimiento(n)</desc>
-    <category lang="en">Telenovela</category>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612224200 +0000" stop="20170612233600 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">El Secreto de Puente Viejo</title>
-    <desc lang="en">Historia del amor imposible de un militar y una partera que superó muchos obstáculos en el pasado(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170612233600 +0000" stop="20170613003000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Ruleta de la Suerte</title>
-    <desc lang="en">Tres concursantes intentan resolver rompecabezas de una palabra o una frase a través de una ruleta de 24 opciones(n)</desc>
-    <category lang="en">Programa Concurso</category>
-    <star-rating>
-      <value>6.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613003000 +0000" stop="20170613013300 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">El Hormiguero</title>
-    <desc lang="en">Un programa de variedades, juegos y humor con invitados especiales, quienes participan activamente en el programa(n)</desc>
-    <category lang="en">Variedades</category>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613013300 +0000" stop="20170613025100 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Pulsaciones</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Misterio Y Suspenso</category>
-  </programme>
-  <programme start="20170613025100 +0000" stop="20170613040000 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Equipo de investigación</title>
-    <desc lang="en">Programa acerca de investigaciones realizadas sobre hechos que están sucediendo y que tienen relación directa con temas de actualidad(n)</desc>
-    <category lang="en">Documental</category>
-    <star-rating>
-      <value>4.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613040000 +0000" stop="20170613044500 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">El Hormiguero</title>
-    <desc lang="en">Un programa de variedades, juegos y humor con invitados especiales, quienes participan activamente en el programa(n)</desc>
-    <category lang="en">Variedades</category>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170613044500 +0000" stop="20170613044500 +0000" channel="Antena 3 (Internacional)">
-    <title lang="en">Zapeando</title>
-    <desc lang="en">"Zapeando" es el formato que llega a las sobremesas de la cadena para desmenuzar con humor y desenfado los mejores momentos de los canales nacionales e internacionales(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Revista</category>
-    <star-rating>
-      <value>8.7</value>
-    </star-rating>
-  </programme>
   <programme start="20170613044500 +0000" stop="20170613061500 +0000" channel="Antena 3 (Internacional)">
     <title lang="en">Zapeando</title>
     <desc lang="en">"Zapeando" es el formato que llega a las sobremesas de la cadena para desmenuzar con humor y desenfado los mejores momentos de los canales nacionales e internacionales(n)</desc>
@@ -6004,54 +5841,30 @@
       <value>6.2</value>
     </star-rating>
   </programme>
-  <programme start="20170612053000 +0000" stop="20170612071500 +0000" channel="La Sexta">
-    <title lang="en">¿Quién vive ahí?</title>
-    <desc lang="en">laSexta estrena "¿Quién vive ahí?", un programa de reportajes que mostrará a los dueños de algunas viviendas y lugares singulares que, por alguna razón, son únicos. Los dueños de estas residencias, personas anónimas, contarán en primera persona la vida e historia de los hogares donde habitan y descubrirán a los telespectadores otras maneras de vivir(n)</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170612071500 +0000" stop="20170612081500 +0000" channel="La Sexta">
-    <title lang="en">Crímenes imperfectos</title>
-    <desc lang="en">Serie de documentales que, tras la presentación del suceso y a través de recreaciones, reflejan la manera en que los científicos y agentes de la ley obtuvieron las pruebas necesarias para conocer con certeza lo ocurrido(n)</desc>
-    <category lang="en">Documental</category>
-    <category lang="en">Crimen</category>
-    <icon src="https://i.yo.tv/p/se/d29371/s/3BF98651A71C97EFBD540F9D99F36167.jpg" />
+  <programme start="20170616003000 +0000" stop="20170616011500 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">El Hormiguero</title>
+    <desc lang="en">Un programa de variedades, juegos y humor con invitados especiales, quienes participan activamente en el programa(n)</desc>
+    <category lang="en">Variedades</category>
     <star-rating>
-      <value>6.5</value>
+      <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20170612081500 +0000" stop="20170612090000 +0000" channel="La Sexta">
-    <title lang="en">Primeras 48 horas</title>
-    <desc lang="en">Serie que describe los metodos de investigación empleados en diferentes casos de homicidio(n)</desc>
-    <category lang="en">Documental</category>
-    <category lang="en">Crimen</category>
-    <star-rating>
-      <value>5.8</value>
-    </star-rating>
+  <programme start="20170616011500 +0000" stop="20170616024500 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">La Embajada</title>
+    <desc lang="en">Luis Salinas es el nuevo embajador español en Tailandia y se traslada con su familia a Bangkok con el reto de limpiar la embajada de cualquier rastro de corrupción. Pero no es oro todo lo que reluce, y su estancia en el país no será todo lo fácil que podría ser(n)</desc>
+    <category lang="en">Misterio Y Suspenso</category>
+    <category lang="en">Política</category>
   </programme>
-  <programme start="20170612090000 +0000" stop="20170612120000 +0000" channel="La Sexta">
-    <title lang="en">Al Rojo Vivo</title>
-    <desc lang="en">Programa centrado en el análisis y el debate de la actualidad política nacional e internacional(n)</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Asuntos De Actualidad</category>
-    <star-rating>
-      <value>1.8</value>
-    </star-rating>
+  <programme start="20170616024500 +0000" stop="20170616040000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Pulsaciones</title>
+    <category lang="en">Drama</category>
+    <category lang="en">Misterio Y Suspenso</category>
   </programme>
-  <programme start="20170612120000 +0000" stop="20170612125500 +0000" channel="La Sexta">
-    <title lang="en">laSexta Noticias 1ª Edición</title>
-    <desc lang="en">Informativo que resume lo más destacado del día(n)</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170616040000 +0000" stop="20170616044500 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Al primer toque</title>
+    <desc lang="en">La información más completa del deporte, cubriendo todas las disciplinas. Con un equipo de periodistas deportivos de primer nivel, se brindan los detalles de la jornada del fútbol, con lo que dejó cada jornada del campeonato. Además, las novedades de los entrenamientos de cada uno de los diferentes equipos de primera división y mucho más(n)</desc>
   </programme>
-  <programme start="20170612125500 +0000" stop="20170612133000 +0000" channel="La Sexta">
-    <title lang="en">La Sexta Noticias</title>
-    <sub-title lang="en">Live</sub-title>
-    <desc lang="en">Espacio de información deportiva(n)</desc>
-  </programme>
-  <programme start="20170612133000 +0000" stop="20170612134500 +0000" channel="La Sexta">
-    <title lang="en">La sexta meteo</title>
-    <category lang="en">Otro</category>
-  </programme>
-  <programme start="20170612134500 +0000" stop="20170612151500 +0000" channel="La Sexta">
+  <programme start="20170616044500 +0000" stop="20170616044500 +0000" channel="Antena 3 (Internacional)">
     <title lang="en">Zapeando</title>
     <desc lang="en">"Zapeando" es el formato que llega a las sobremesas de la cadena para desmenuzar con humor y desenfado los mejores momentos de los canales nacionales e internacionales(n)</desc>
     <category lang="en">Otro</category>
@@ -6060,97 +5873,121 @@
       <value>8.7</value>
     </star-rating>
   </programme>
-  <programme start="20170612151500 +0000" stop="20170612180000 +0000" channel="La Sexta">
-    <title lang="en">Más vale tarde</title>
-    <desc lang="en">Espacio de actualidad que analiza con espíritu crítico los acontecimientos del día y pone cara a los problemas(n)</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170616044500 +0000" stop="20170616061500 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Zapeando</title>
+    <desc lang="en">"Zapeando" es el formato que llega a las sobremesas de la cadena para desmenuzar con humor y desenfado los mejores momentos de los canales nacionales e internacionales(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Revista</category>
     <star-rating>
-      <value>5.3</value>
+      <value>8.7</value>
     </star-rating>
   </programme>
-  <programme start="20170612180000 +0000" stop="20170612184500 +0000" channel="La Sexta">
-    <title lang="en">laSexta Noticias 2ª Edición</title>
-    <desc lang="en">LaSexta Noticias(n)</desc>
+  <programme start="20170616061500 +0000" stop="20170616063000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Noticias de la Mañana</title>
+    <desc lang="en">Noticias de España y del mundo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616063000 +0000" stop="20170616110000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Espejo Público</title>
+    <desc lang="en">Reportajes que interesan a la comunidad y destacan por su trasfondo social(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
+    <category lang="en">Discusión/charla</category>
+    <star-rating>
+      <value>5.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616110000 +0000" stop="20170616120000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Hoy cocinas tú</title>
+    <desc lang="en">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616120000 +0000" stop="20170616123000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Cocina con Bruno</title>
+    <desc lang="en">Recetas y platillos para cocinar en casa(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616123000 +0000" stop="20170616130000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Arguiñano</title>
+    <desc lang="en">Un experimentado cocinero mezcla la excelente cocina y el buen humor(n)</desc>
+    <category lang="en">Comida</category>
+  </programme>
+  <programme start="20170616130000 +0000" stop="20170616134500 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Noticias 1</title>
+    <desc lang="en">Una cita con la información nacional e internacional(n)</desc>
     <category lang="en">Noticias</category>
     <star-rating>
-      <value>4.8</value>
+      <value>4.9</value>
     </star-rating>
   </programme>
-  <programme start="20170612184500 +0000" stop="20170612190000 +0000" channel="La Sexta">
-    <title lang="en">La sexta meteo</title>
-    <category lang="en">Otro</category>
-  </programme>
-  <programme start="20170612190000 +0000" stop="20170612193000 +0000" channel="La Sexta">
-    <title lang="en">La Sexta deportes</title>
-    <desc lang="en">Patxi Alonso y Sara Carbonero, vuelven a unirse tras los especiales informativos del FC Barcelona - Real Madrid que hicieron en diciembre, para ponerse al frente de este espacio que ofrecerá la más completa información del fútbol, el mejor baloncesto nacional e internacional y de la Fórmula 1, que este año llega a laSexta(n)</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Deportes</category>
-  </programme>
-  <programme start="20170612193000 +0000" stop="20170612203000 +0000" channel="La Sexta">
-    <title lang="en">El intermedio</title>
-    <desc lang="en">Repaso, en clave de humor, a las noticias y comentarios que aparecen en prensa, radio y televisión(n)</desc>
-    <category lang="en">Comedia</category>
+  <programme start="20170616134500 +0000" stop="20170616173000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Espejo Público</title>
+    <desc lang="en">Reportajes que interesan a la comunidad y destacan por su trasfondo social(n)</desc>
+    <category lang="en">Revista Noticiosa</category>
+    <category lang="en">Discusión/charla</category>
     <star-rating>
-      <value>7.4</value>
+      <value>5.4</value>
     </star-rating>
   </programme>
-  <programme start="20170612203000 +0000" stop="20170612225500 +0000" channel="La Sexta">
-    <title lang="en">La intérprete</title>
-    <desc lang="en">Silvia Bromme, una intérprete de la ONU nacida en África, oye una conversación que no debería haber escuchado: dos hombres hablan de asesinar al Jefe de Estado africano de Mato-bo durante la Asamblea General y ella es la única testigo. A partir de ese momento, se convierte en blanco de los asesinos. El encargado de protegerla será el agente federal Tobin Keller, quien, sin embargo, pronto comienza sospechar de ella al descubrirle un pasado nada claro, relacionado estrechamente con el país objetivo de la amenaza política. En 2005, Sydney Pollack ('Apuntes de Frank Gehry', 'Caprichos del destino', 'Sabrina (y sus amores)', Oscar por 'Memorias de África') aprovecha un momento en el que la ONU está en el punto de mira internacional por las violaciones de los derechos humanos en el mundo para tejer esta trama de acción política protagonizada por Nicole Kidman y Sean Penn.Nicole Kidman ('Embrujada (Bewitched)', 'Reencarnación', 'Cold Mountain', 'Dogville', 'Moulin Rouge', Oscar por 'Las horas') da vida a la intérprete africana a la que deberá proteger el agente federal encarnado por Sean Penn ('Todos los hombres del rey', 'El asesinato de Richard Nixon', '21 gramos', 'Yo soy Sam', Oscar por 'Mystic River').Éste es el primer largometraje rodado en el interior del edificio de Naciones Unidas de Nueva York, considerado oficialmente territorio internacional(n)</desc>
-    <credits>
-      <actor>Nicole Kidman</actor>
-      <actor>Sean Penn</actor>
-      <actor>Catherine Keener</actor>
-      <actor>Jesper Christensen</actor>
-      <actor>Yvan Attal</actor>
-      <actor>Earl Cameron</actor>
-      <actor>George Harris</actor>
-      <actor>Michael Wright</actor>
-      <actor>Clyde Kusatsu</actor>
-      <actor>Eric Keenleyside</actor>
-    </credits>
-    <date>2005</date>
+  <programme start="20170616173000 +0000" stop="20170616180000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Arguiñano</title>
+    <desc lang="en">Un experimentado cocinero mezcla la excelente cocina y el buen humor(n)</desc>
+    <category lang="en">Comida</category>
+  </programme>
+  <programme start="20170616180000 +0000" stop="20170616190000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">El Secreto de Puente Viejo</title>
+    <desc lang="en">Historia del amor imposible de un militar y una partera que superó muchos obstáculos en el pasado(n)</desc>
     <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Film</category>
-    <icon src="https://i.yo.tv/p/mo/M177936/s/174F7E295574A0C84A06437F140DA19D.jpg" />
     <star-rating>
-      <value>5.9</value>
+      <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170612225500 +0000" stop="20170613003000 +0000" channel="La Sexta">
-    <title lang="en">Cine</title>
-    <desc lang="en">Emisión cinematográfica(n)</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Film</category>
+  <programme start="20170616190000 +0000" stop="20170616194500 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Noticias 2</title>
+    <desc lang="en">La información más relevante a nivel nacional e internacional(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616194500 +0000" stop="20170616203000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Al primer toque</title>
+    <desc lang="en">La información más completa del deporte, cubriendo todas las disciplinas. Con un equipo de periodistas deportivos de primer nivel, se brindan los detalles de la jornada del fútbol, con lo que dejó cada jornada del campeonato. Además, las novedades de los entrenamientos de cada uno de los diferentes equipos de primera división y mucho más(n)</desc>
+  </programme>
+  <programme start="20170616203000 +0000" stop="20170616213000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Hoy cocinas tú</title>
+    <desc lang="en">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
     <star-rating>
-      <value>5.1</value>
+      <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170613003000 +0000" stop="20170613010000 +0000" channel="La Sexta">
-    <title lang="en">Poker Caribbean Adventure</title>
-    <desc lang="en">Poker Caribbean Adventure(n)</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170616213000 +0000" stop="20170616223000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Amar es para siempre</title>
+    <desc lang="en">Serie ambientada en 1960, década en la que España sufre cambios significativos y de gran crecimiento(n)</desc>
+    <category lang="en">Telenovela</category>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
   </programme>
-  <programme start="20170613010000 +0000" stop="20170613020000 +0000" channel="La Sexta">
-    <title lang="en">Comprando en casa</title>
-    <desc lang="en">Espacio que permite comprar desde casa productos exclusivos de electrónica, televisión y vídeo, informática, belleza y salud, hogar, deportes, cocina y baño(n)</desc>
-    <category lang="en">Otro</category>
+  <programme start="20170616223000 +0000" stop="20170616233000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">El Secreto de Puente Viejo</title>
+    <desc lang="en">Historia del amor imposible de un militar y una partera que superó muchos obstáculos en el pasado(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
   </programme>
-  <programme start="20170613020000 +0000" stop="20170613040000 +0000" channel="La Sexta">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..(n)</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170613040000 +0000" stop="20170613053000 +0000" channel="La Sexta">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..(n)</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170613053000 +0000" stop="20170613053000 +0000" channel="La Sexta">
-    <title lang="en">¿Quién vive ahí?</title>
-    <desc lang="en">laSexta estrena "¿Quién vive ahí?", un programa de reportajes que mostrará a los dueños de algunas viviendas y lugares singulares que, por alguna razón, son únicos. Los dueños de estas residencias, personas anónimas, contarán en primera persona la vida e historia de los hogares donde habitan y descubrirán a los telespectadores otras maneras de vivir(n)</desc>
-    <category lang="en">Revista</category>
+  <programme start="20170616233000 +0000" stop="20170617003000 +0000" channel="Antena 3 (Internacional)">
+    <title lang="en">Ruleta de la Suerte</title>
+    <desc lang="en">Tres concursantes intentan resolver rompecabezas de una palabra o una frase a través de una ruleta de 24 opciones(n)</desc>
+    <category lang="en">Programa Concurso</category>
+    <star-rating>
+      <value>6.2</value>
+    </star-rating>
   </programme>
   <programme start="20170613053000 +0000" stop="20170613071500 +0000" channel="La Sexta">
     <title lang="en">¿Quién vive ahí?</title>
@@ -6504,6 +6341,117 @@
     <category lang="en">Film</category>
     <star-rating>
       <value>5.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616003000 +0000" stop="20170616013000 +0000" channel="La Sexta">
+    <title lang="en">Comprando en casa</title>
+    <desc lang="en">Espacio que permite comprar desde casa productos exclusivos de electrónica, televisión y vídeo, informática, belleza y salud, hogar, deportes, cocina y baño(n)</desc>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170616013000 +0000" stop="20170616040000 +0000" channel="La Sexta">
+    <title lang="en">Minutos musicales</title>
+    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..(n)</desc>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616040000 +0000" stop="20170616053000 +0000" channel="La Sexta">
+    <title lang="en">Minutos musicales</title>
+    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..(n)</desc>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616053000 +0000" stop="20170616053000 +0000" channel="La Sexta">
+    <title lang="en">¿Quién vive ahí?</title>
+    <desc lang="en">laSexta estrena "¿Quién vive ahí?", un programa de reportajes que mostrará a los dueños de algunas viviendas y lugares singulares que, por alguna razón, son únicos. Los dueños de estas residencias, personas anónimas, contarán en primera persona la vida e historia de los hogares donde habitan y descubrirán a los telespectadores otras maneras de vivir(n)</desc>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616053000 +0000" stop="20170616071500 +0000" channel="La Sexta">
+    <title lang="en">¿Quién vive ahí?</title>
+    <desc lang="en">laSexta estrena "¿Quién vive ahí?", un programa de reportajes que mostrará a los dueños de algunas viviendas y lugares singulares que, por alguna razón, son únicos. Los dueños de estas residencias, personas anónimas, contarán en primera persona la vida e historia de los hogares donde habitan y descubrirán a los telespectadores otras maneras de vivir(n)</desc>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616071500 +0000" stop="20170616081500 +0000" channel="La Sexta">
+    <title lang="en">Crímenes imperfectos</title>
+    <desc lang="en">Serie de documentales que, tras la presentación del suceso y a través de recreaciones, reflejan la manera en que los científicos y agentes de la ley obtuvieron las pruebas necesarias para conocer con certeza lo ocurrido(n)</desc>
+    <category lang="en">Documental</category>
+    <category lang="en">Crimen</category>
+    <icon src="https://i.yo.tv/p/se/d29371/s/3BF98651A71C97EFBD540F9D99F36167.jpg" />
+    <star-rating>
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616081500 +0000" stop="20170616090000 +0000" channel="La Sexta">
+    <title lang="en">Primeras 48 horas</title>
+    <desc lang="en">Serie que describe los metodos de investigación empleados en diferentes casos de homicidio(n)</desc>
+    <category lang="en">Documental</category>
+    <category lang="en">Crimen</category>
+  </programme>
+  <programme start="20170616090000 +0000" stop="20170616120000 +0000" channel="La Sexta">
+    <title lang="en">Al Rojo Vivo</title>
+    <desc lang="en">"Al rojo vivo" es un programa producido por los servicios informativos de laSexta, bajo la dirección de César G. Antón, y en el que participan periodistas, productores y técnicos del equipo de laSexta/Noticias. El programa realiza un análisis de la actualidad, fundamentalmente política, con un formato al estilo americano(n)</desc>
+    <category lang="en">Revista</category>
+    <star-rating>
+      <value>1.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616120000 +0000" stop="20170616125500 +0000" channel="La Sexta">
+    <title lang="en">laSexta Noticias 1ª Edición</title>
+    <desc lang="en">Informativo que resume lo más destacado del día(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616125500 +0000" stop="20170616133000 +0000" channel="La Sexta">
+    <title lang="en">La Sexta Noticias</title>
+    <sub-title lang="en">Live</sub-title>
+    <desc lang="en">Espacio de información deportiva(n)</desc>
+  </programme>
+  <programme start="20170616133000 +0000" stop="20170616134500 +0000" channel="La Sexta">
+    <title lang="en">La sexta meteo</title>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170616134500 +0000" stop="20170616151500 +0000" channel="La Sexta">
+    <title lang="en">Zapeando</title>
+    <desc lang="en">"Zapeando" es el formato que llega a las sobremesas de la cadena para desmenuzar con humor y desenfado los mejores momentos de los canales nacionales e internacionales(n)</desc>
+    <category lang="en">Otro</category>
+    <category lang="en">Revista</category>
+    <star-rating>
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616151500 +0000" stop="20170616180000 +0000" channel="La Sexta">
+    <title lang="en">Más Vale Tarde</title>
+    <desc lang="en">Espacio de actualidad que analiza con espíritu crítico los acontecimientos del día y pone cara a los problemas(n)</desc>
+    <category lang="en">Entretenimiento</category>
+    <star-rating>
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616180000 +0000" stop="20170616184500 +0000" channel="La Sexta">
+    <title lang="en">laSexta Noticias 2ª Edición</title>
+    <desc lang="en">LaSexta Noticias(n)</desc>
+    <category lang="en">Noticias</category>
+    <star-rating>
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616184500 +0000" stop="20170616190000 +0000" channel="La Sexta">
+    <title lang="en">La sexta meteo</title>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170616190000 +0000" stop="20170616193000 +0000" channel="La Sexta">
+    <title lang="en">La Sexta deportes</title>
+    <desc lang="en">Patxi Alonso y Sara Carbonero, vuelven a unirse tras los especiales informativos del FC Barcelona - Real Madrid que hicieron en diciembre, para ponerse al frente de este espacio que ofrecerá la más completa información del fútbol, el mejor baloncesto nacional e internacional y de la Fórmula 1, que este año llega a laSexta(n)</desc>
+    <category lang="en">Revista</category>
+    <category lang="en">Deportes</category>
+  </programme>
+  <programme start="20170616193000 +0000" stop="20170616203000 +0000" channel="La Sexta">
+    <title lang="en">#laSexta Columna</title>
+    <desc lang="en">En esta edición, el programa analiza la aprobación de la Ley para la Reforma Política, sus opositores y la importancia del texto para la transición española. Se cumplen 40 años de la aprobación de la ley. Solo un año después de la muerte de Franco, se abrió la puerta a la legalización de los partidos políticos y a las primeras elecciones libres desde la Guerra Civil(n)</desc>
+    <category lang="en">Documental</category>
+  </programme>
+  <programme start="20170616203000 +0000" stop="20170617003000 +0000" channel="La Sexta">
+    <title lang="en">Equipo de investigación</title>
+    <desc lang="en">Programa acerca de investigaciones realizadas sobre hechos que están sucediendo y que tienen relación directa con temas de actualidad(n)</desc>
+    <category lang="en">Documental</category>
+    <star-rating>
+      <value>4.9</value>
     </star-rating>
   </programme>
   <programme start="20170613000000 +0200" stop="20170613023000 +0200" channel="Mega">
@@ -11024,5 +10972,421 @@
     <star-rating>
       <value>3/5</value>
     </star-rating>
+  </programme>
+  <programme start="20170613053200 +0000" stop="20170613063000 +0000" channel="América TV Perú">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en">Una mirada al oscuro mundo criminal de Griselda Blanco y su telaraña de mentiras y engaños(n)</desc>
+    <star-rating>
+      <value>9.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170613063000 +0000" stop="20170613080000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170613080000 +0000" stop="20170613093000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170613093000 +0000" stop="20170613101600 +0000" channel="América TV Perú">
+    <title lang="en">América Espectáculos</title>
+    <desc lang="en">La vuelta de Marcelo Tinelli(n)</desc>
+  </programme>
+  <programme start="20170613101600 +0000" stop="20170613115000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170613115000 +0000" stop="20170613133000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170613133000 +0000" stop="20170613143000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170613143000 +0000" stop="20170613160000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170613160000 +0000" stop="20170613170000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170613170000 +0000" stop="20170613180000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Edición del mediodía</title>
+    <desc lang="en">Programa informativo que ofrece lo más importante sobre los acontecimientos recientes(n)</desc>
+  </programme>
+  <programme start="20170613180000 +0000" stop="20170613193000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170613193000 +0000" stop="20170613210000 +0000" channel="América TV Perú">
+    <title lang="en">Al fondo hay sitio</title>
+    <desc lang="en">Comedia centrada en dos familias totalmente opuestas(n)</desc>
+    <category lang="en">Comedia</category>
+  </programme>
+  <programme start="20170613210000 +0000" stop="20170613223000 +0000" channel="América TV Perú">
+    <title lang="en">Carrusel</title>
+    <desc lang="en">La historia de la vida diaria de los niños, abordando conflictos actuales y verdaderos(n)</desc>
+    <category lang="en">Telenovela</category>
+  </programme>
+  <programme start="20170613223000 +0000" stop="20170613235000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170613235000 +0000" stop="20170614013000 +0000" channel="América TV Perú">
+    <title lang="en">Esto es guerra</title>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170614013000 +0000" stop="20170614023000 +0000" channel="América TV Perú">
+    <title lang="en">De vuelta al barrio</title>
+    <desc lang="en">Historia de un grupo de curiosos personajes que viven en una misma calle de Perú en los años setenta y ochenta(n)</desc>
+  </programme>
+  <programme start="20170614023000 +0000" stop="20170614033000 +0000" channel="América TV Perú">
+    <title lang="en">Mujercitas</title>
+    <category lang="en">Caricaturas/animado</category>
+  </programme>
+  <programme start="20170614033000 +0000" stop="20170614043000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Edición Central</title>
+    <desc lang="en">Noticias desde el Perú(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170614043000 +0000" stop="20170614053200 +0000" channel="América TV Perú">
+    <title lang="en">La banda del chino</title>
+    <desc lang="en">El programa cuenta con la presencia de un grupo divertido de panelistas, artistas y música en vivo, la presentación de notas e informes tipo magazine. Martín Arredondo, la reportera colombiana, Manuela Camacho, y el reportero César Seijas conforman La Banda del Chino(n)</desc>
+  </programme>
+  <programme start="20170614053200 +0000" stop="20170614053200 +0000" channel="América TV Perú">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en">Una mirada al oscuro mundo criminal de Griselda Blanco y su telaraña de mentiras y engaños(n)</desc>
+    <star-rating>
+      <value>9.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170614053200 +0000" stop="20170614063000 +0000" channel="América TV Perú">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en">Una mirada al oscuro mundo criminal de Griselda Blanco y su telaraña de mentiras y engaños(n)</desc>
+    <star-rating>
+      <value>9.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170614063000 +0000" stop="20170614080000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170614080000 +0000" stop="20170614093000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170614093000 +0000" stop="20170614101600 +0000" channel="América TV Perú">
+    <title lang="en">América Espectáculos</title>
+    <desc lang="en">La vuelta de Marcelo Tinelli(n)</desc>
+  </programme>
+  <programme start="20170614101600 +0000" stop="20170614115000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170614115000 +0000" stop="20170614133000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170614133000 +0000" stop="20170614143000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170614143000 +0000" stop="20170614160000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170614160000 +0000" stop="20170614170000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170614170000 +0000" stop="20170614180000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Edición del mediodía</title>
+    <desc lang="en">Programa informativo que ofrece lo más importante sobre los acontecimientos recientes(n)</desc>
+  </programme>
+  <programme start="20170614180000 +0000" stop="20170614193000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170614193000 +0000" stop="20170614210000 +0000" channel="América TV Perú">
+    <title lang="en">Al fondo hay sitio</title>
+    <desc lang="en">Comedia centrada en dos familias totalmente opuestas(n)</desc>
+    <category lang="en">Comedia</category>
+  </programme>
+  <programme start="20170614210000 +0000" stop="20170614223000 +0000" channel="América TV Perú">
+    <title lang="en">Carrusel</title>
+    <desc lang="en">La historia de la vida diaria de los niños, abordando conflictos actuales y verdaderos(n)</desc>
+    <category lang="en">Telenovela</category>
+  </programme>
+  <programme start="20170614223000 +0000" stop="20170614235000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170614235000 +0000" stop="20170615013000 +0000" channel="América TV Perú">
+    <title lang="en">Esto es guerra</title>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170615013000 +0000" stop="20170615023000 +0000" channel="América TV Perú">
+    <title lang="en">De vuelta al barrio</title>
+    <desc lang="en">Historia de un grupo de curiosos personajes que viven en una misma calle de Perú en los años setenta y ochenta(n)</desc>
+  </programme>
+  <programme start="20170615023000 +0000" stop="20170615033000 +0000" channel="América TV Perú">
+    <title lang="en">Mujercitas</title>
+    <category lang="en">Caricaturas/animado</category>
+  </programme>
+  <programme start="20170615033000 +0000" stop="20170615043000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Edición Central</title>
+    <desc lang="en">Noticias desde el Perú(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170615043000 +0000" stop="20170615053200 +0000" channel="América TV Perú">
+    <title lang="en">La banda del chino</title>
+    <desc lang="en">El programa cuenta con la presencia de un grupo divertido de panelistas, artistas y música en vivo, la presentación de notas e informes tipo magazine. Martín Arredondo, la reportera colombiana, Manuela Camacho, y el reportero César Seijas conforman La Banda del Chino(n)</desc>
+  </programme>
+  <programme start="20170615053200 +0000" stop="20170615053200 +0000" channel="América TV Perú">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en">Una mirada al oscuro mundo criminal de Griselda Blanco y su telaraña de mentiras y engaños(n)</desc>
+    <star-rating>
+      <value>9.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170615053200 +0000" stop="20170615063000 +0000" channel="América TV Perú">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en">Una mirada al oscuro mundo criminal de Griselda Blanco y su telaraña de mentiras y engaños(n)</desc>
+    <star-rating>
+      <value>9.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170615063000 +0000" stop="20170615080000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170615080000 +0000" stop="20170615093000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170615093000 +0000" stop="20170615101600 +0000" channel="América TV Perú">
+    <title lang="en">América Espectáculos</title>
+    <desc lang="en">La vuelta de Marcelo Tinelli(n)</desc>
+  </programme>
+  <programme start="20170615101600 +0000" stop="20170615115000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170615115000 +0000" stop="20170615133000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170615133000 +0000" stop="20170615143000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170615143000 +0000" stop="20170615160000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170615160000 +0000" stop="20170615170000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170615170000 +0000" stop="20170615180000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Edición del mediodía</title>
+    <desc lang="en">Programa informativo que ofrece lo más importante sobre los acontecimientos recientes(n)</desc>
+  </programme>
+  <programme start="20170615180000 +0000" stop="20170615193000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170615193000 +0000" stop="20170615210000 +0000" channel="América TV Perú">
+    <title lang="en">Al fondo hay sitio</title>
+    <desc lang="en">Comedia centrada en dos familias totalmente opuestas(n)</desc>
+    <category lang="en">Comedia</category>
+  </programme>
+  <programme start="20170615210000 +0000" stop="20170615223000 +0000" channel="América TV Perú">
+    <title lang="en">Carrusel</title>
+    <desc lang="en">La historia de la vida diaria de los niños, abordando conflictos actuales y verdaderos(n)</desc>
+    <category lang="en">Telenovela</category>
+  </programme>
+  <programme start="20170615223000 +0000" stop="20170615235000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170615235000 +0000" stop="20170616013000 +0000" channel="América TV Perú">
+    <title lang="en">Esto es guerra</title>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170616013000 +0000" stop="20170616023000 +0000" channel="América TV Perú">
+    <title lang="en">De vuelta al barrio</title>
+    <desc lang="en">Historia de un grupo de curiosos personajes que viven en una misma calle de Perú en los años setenta y ochenta(n)</desc>
+  </programme>
+  <programme start="20170616023000 +0000" stop="20170616033000 +0000" channel="América TV Perú">
+    <title lang="en">Mujercitas</title>
+    <category lang="en">Caricaturas/animado</category>
+  </programme>
+  <programme start="20170616033000 +0000" stop="20170616043000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Edición Central</title>
+    <desc lang="en">Noticias desde el Perú(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616043000 +0000" stop="20170616053200 +0000" channel="América TV Perú">
+    <title lang="en">La banda del chino</title>
+    <desc lang="en">El programa cuenta con la presencia de un grupo divertido de panelistas, artistas y música en vivo, la presentación de notas e informes tipo magazine. Martín Arredondo, la reportera colombiana, Manuela Camacho, y el reportero César Seijas conforman La Banda del Chino(n)</desc>
+  </programme>
+  <programme start="20170616053200 +0000" stop="20170616053200 +0000" channel="América TV Perú">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en">Una mirada al oscuro mundo criminal de Griselda Blanco y su telaraña de mentiras y engaños(n)</desc>
+    <star-rating>
+      <value>9.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616053200 +0000" stop="20170616063000 +0000" channel="América TV Perú">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en">Una mirada al oscuro mundo criminal de Griselda Blanco y su telaraña de mentiras y engaños(n)</desc>
+    <star-rating>
+      <value>9.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616063000 +0000" stop="20170616080000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616080000 +0000" stop="20170616093000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616093000 +0000" stop="20170616101600 +0000" channel="América TV Perú">
+    <title lang="en">América Espectáculos</title>
+    <desc lang="en">La vuelta de Marcelo Tinelli(n)</desc>
+  </programme>
+  <programme start="20170616101600 +0000" stop="20170616115000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616115000 +0000" stop="20170616133000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616133000 +0000" stop="20170616143000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Primera Edición</title>
+    <desc lang="en">Noticias nacionales e internacionales, deportes y estado del tiempo(n)</desc>
+    <category lang="en">Noticias</category>
+  </programme>
+  <programme start="20170616143000 +0000" stop="20170616160000 +0000" channel="América TV Perú">
+    <title lang="en">Vino el amor</title>
+    <desc lang="en">Historia que combina los placeres del vino y la situación que viven los migrantes latinos en Estados Unidos(n)</desc>
+    <star-rating>
+      <value>0.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616160000 +0000" stop="20170616170000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616170000 +0000" stop="20170616180000 +0000" channel="América TV Perú">
+    <title lang="en">América Noticias Edición del mediodía</title>
+    <desc lang="en">Programa informativo que ofrece lo más importante sobre los acontecimientos recientes(n)</desc>
+  </programme>
+  <programme start="20170616180000 +0000" stop="20170616193000 +0000" channel="América TV Perú">
+    <title lang="en">En boca de todos</title>
+    <desc lang="en">La Academia Española de Gastronomía nos recomienda en este espacio mensual un restaurante de nuestra geografía(n)</desc>
+    <category lang="en">Comida</category>
+    <category lang="en">Revista</category>
+  </programme>
+  <programme start="20170616193000 +0000" stop="20170616210000 +0000" channel="América TV Perú">
+    <title lang="en">Al fondo hay sitio</title>
+    <desc lang="en">Comedia centrada en dos familias totalmente opuestas(n)</desc>
+    <category lang="en">Comedia</category>
+  </programme>
+  <programme start="20170616210000 +0000" stop="20170616223000 +0000" channel="América TV Perú">
+    <title lang="en">Carrusel</title>
+    <desc lang="en">La historia de la vida diaria de los niños, abordando conflictos actuales y verdaderos(n)</desc>
+    <category lang="en">Telenovela</category>
+  </programme>
+  <programme start="20170616223000 +0000" stop="20170616235000 +0000" channel="América TV Perú">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
+    <category lang="en">Drama</category>
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20170616235000 +0000" stop="20170617013000 +0000" channel="América TV Perú">
+    <title lang="en">Esto es guerra</title>
+    <category lang="en">Otro</category>
   </programme>
 </tv>
