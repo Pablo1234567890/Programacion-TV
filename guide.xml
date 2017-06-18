@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="24 Horas (Chile)">
+    <display-name lang="en">24 Horas [SD]</display-name>
+    <url>http://www.yo.tv</url>
+  </channel>
   <channel id="Canal 13 HDTV (Chile)">
     <display-name lang="en">Canal 13 [SD]</display-name>
     <url>http://www.yo.tv</url>
@@ -16,6 +20,10 @@
     <display-name lang="en">MEGA [HD]</display-name>
     <url>http://www.yo.tv</url>
   </channel>
+  <channel id="TeleCanal (Chile)">
+    <display-name lang="en">Telecanal (Chile)</display-name>
+    <url>http://www.yo.tv</url>
+  </channel>
   <channel id="TVN - Televisión Nacional de Chile">
     <display-name lang="en">TVN [HD]</display-name>
     <url>http://www.yo.tv</url>
@@ -24,6 +32,555 @@
     <display-name lang="en">UCV [HD]</display-name>
     <url>http://www.yo.tv</url>
   </channel>
+  <programme start="20170618060000 +0000" stop="20170618063000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618063000 +0000" stop="20170618070000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618070000 +0000" stop="20170618073000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618073000 +0000" stop="20170618080000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618080000 +0000" stop="20170618083000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618083000 +0000" stop="20170618090000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618090000 +0000" stop="20170618093000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618093000 +0000" stop="20170618100000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618100000 +0000" stop="20170618103000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618103000 +0000" stop="20170618110000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618110000 +0000" stop="20170618113000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618113000 +0000" stop="20170618120000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618120000 +0000" stop="20170618123000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618123000 +0000" stop="20170618130000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Reporte Minero</title>
+    <desc lang="en">Reporte minero(n)</desc>
+  </programme>
+  <programme start="20170618130000 +0000" stop="20170618140000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618140000 +0000" stop="20170618160000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Estado Nacional</title>
+    <desc lang="en">Debate sobre la actualidad política(n)</desc>
+    <star-rating>
+      <value>3.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618160000 +0000" stop="20170618170000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618170000 +0000" stop="20170618173000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Exploradores</title>
+    <desc lang="en">Programa que muestra diferentes áreas de investigación que se centran en nuestro país(n)</desc>
+  </programme>
+  <programme start="20170618173000 +0000" stop="20170618183000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618183000 +0000" stop="20170618190000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Avances 24</title>
+    <desc lang="en">Programa informativo del canal 24H dedicado a los avances tecnológicos(n)</desc>
+  </programme>
+  <programme start="20170618190000 +0000" stop="20170618193000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">El Sillón de Pedro Pellegrini</title>
+    <desc lang="en">El legendario periodista regresa a las entrevistas en este nuevo espacio de conversación. Donde busca conocer a los invitados en su parte más humana, excediendo la figura pública que todos conocen. En cada oportunidad, el sillón que espera por el personaje se moverá a un escenario distinto y elegido por sus protagonistas(n)</desc>
+  </programme>
+  <programme start="20170618193000 +0000" stop="20170618203000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618203000 +0000" stop="20170618213000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618213000 +0000" stop="20170618220000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Más Motor</title>
+    <desc lang="en">Los momentos e imágenes más destacados del mundo automotriz(n)</desc>
+  </programme>
+  <programme start="20170618220000 +0000" stop="20170618223000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170618223000 +0000" stop="20170618224500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Entrevistas 24 (?)</title>
+    <desc lang="en">Espacio dedicado a entrevistar a las diferentes personalidades del acontecer chileno(n)</desc>
+  </programme>
+  <programme start="20170618224500 +0000" stop="20170618233000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Deportes</title>
+    <desc lang="en">Las principales noticias del deporte nacional e internacional(n)</desc>
+  </programme>
+  <programme start="20170618233000 +0000" stop="20170619000000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619000000 +0000" stop="20170619003000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Deportes</title>
+    <desc lang="en">Las principales noticias del deporte nacional e internacional(n)</desc>
+  </programme>
+  <programme start="20170619003000 +0000" stop="20170619010000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619010000 +0000" stop="20170619023000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Central</title>
+    <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
+    <star-rating>
+      <value>4.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619023000 +0000" stop="20170619034500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">El Informante</title>
+    <desc lang="en">Programa de debate y actualidad estará a cargo de Juan Manuel Astorga.Un espacio para discutir a fondo temas de actualidad y realidad nacional(n)</desc>
+  </programme>
+  <programme start="20170619034500 +0000" stop="20170619043000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Hora 24</title>
+    <desc lang="en">Recorrido informativo por la actualidad nacional e internacional(n)</desc>
+  </programme>
+  <programme start="20170619043000 +0000" stop="20170619050000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619050000 +0000" stop="20170619053000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619053000 +0000" stop="20170619060000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619060000 +0000" stop="20170619063000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619063000 +0000" stop="20170619070000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619070000 +0000" stop="20170619073000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619073000 +0000" stop="20170619080000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619080000 +0000" stop="20170619083000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619083000 +0000" stop="20170619090000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619090000 +0000" stop="20170619093000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619093000 +0000" stop="20170619100000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619100000 +0000" stop="20170619103000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">5:50</title>
+    <desc lang="en">Programa matinal con información periodística y de servicios para los madrugadores, donde los periodistas Juan Carlos Alarcón y Oscar García presentan el estado del tránsito en la ciudad, el tiempo, lo más visto, lo más compartido en redes sociales y más(n)</desc>
+  </programme>
+  <programme start="20170619103000 +0000" stop="20170619120000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Tu Mañana</title>
+  </programme>
+  <programme start="20170619120000 +0000" stop="20170619123000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Mirada Económica</title>
+    <desc lang="en">Resumen financiero(n)</desc>
+  </programme>
+  <programme start="20170619123000 +0000" stop="20170619143000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa</title>
+    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
+  </programme>
+  <programme start="20170619143000 +0000" stop="20170619150000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Mejor Hablar (?)</title>
+  </programme>
+  <programme start="20170619150000 +0000" stop="20170619170000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa</title>
+    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
+  </programme>
+  <programme start="20170619170000 +0000" stop="20170619173000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619173000 +0000" stop="20170619191500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Al Día</title>
+    <desc lang="en">Noticias locales e internacionales(n)</desc>
+    <star-rating>
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619191500 +0000" stop="20170619194500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Chile al Día</title>
+    <desc lang="en">Reportajes de actualidad(n)</desc>
+  </programme>
+  <programme start="20170619194500 +0000" stop="20170619203000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619203000 +0000" stop="20170619210000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Más Motor</title>
+    <desc lang="en">Los momentos e imágenes más destacados del mundo automotriz(n)</desc>
+  </programme>
+  <programme start="20170619210000 +0000" stop="20170620000000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Noticias 24</title>
+    <desc lang="en">Información de actualidad y las últimas noticias nacionales e internacionales(n)</desc>
+    <star-rating>
+      <value>0.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620000000 +0000" stop="20170620010000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Deportes</title>
+    <desc lang="en">Las principales noticias del deporte nacional e internacional(n)</desc>
+  </programme>
+  <programme start="20170620010000 +0000" stop="20170620023000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Central</title>
+    <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
+    <star-rating>
+      <value>4.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620023000 +0000" stop="20170620040000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Vía Pública</title>
+    <desc lang="en">Panelistas y representante políticos analizan y reflexionan sobre importantes temas del país(n)</desc>
+  </programme>
+  <programme start="20170620040000 +0000" stop="20170620053000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Hora 24 (?)</title>
+  </programme>
+  <programme start="20170620053000 +0000" stop="20170620060000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Medianoche</title>
+    <desc lang="en">Análisis y entrevistas sobre los más relevantes hechos noticiosos del día que acaba(n)</desc>
+  </programme>
+  <programme start="20170620060000 +0000" stop="20170620063000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620063000 +0000" stop="20170620070000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620070000 +0000" stop="20170620073000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620073000 +0000" stop="20170620080000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620080000 +0000" stop="20170620083000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620083000 +0000" stop="20170620090000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620090000 +0000" stop="20170620093000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620093000 +0000" stop="20170620100000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620100000 +0000" stop="20170620103000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">5:50</title>
+    <desc lang="en">Programa matinal con información periodística y de servicios para los madrugadores, donde los periodistas Juan Carlos Alarcón y Oscar García presentan el estado del tránsito en la ciudad, el tiempo, lo más visto, lo más compartido en redes sociales y más(n)</desc>
+  </programme>
+  <programme start="20170620103000 +0000" stop="20170620120000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Tu Mañana</title>
+  </programme>
+  <programme start="20170620120000 +0000" stop="20170620123000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Reporte Minero</title>
+    <desc lang="en">Reporte minero(n)</desc>
+  </programme>
+  <programme start="20170620123000 +0000" stop="20170620143000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa</title>
+    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
+  </programme>
+  <programme start="20170620143000 +0000" stop="20170620150000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Vía Pública</title>
+    <desc lang="en">Panelistas y representante políticos analizan y reflexionan sobre importantes temas del país(n)</desc>
+  </programme>
+  <programme start="20170620150000 +0000" stop="20170620170000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa</title>
+    <desc lang="en">Entrevistas acerca de asuntos de interés públicos(n)</desc>
+  </programme>
+  <programme start="20170620170000 +0000" stop="20170620173000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620173000 +0000" stop="20170620191500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Al Día</title>
+    <desc lang="en">Noticias locales e internacionales(n)</desc>
+    <star-rating>
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620191500 +0000" stop="20170620194500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Chile al Día</title>
+    <desc lang="en">Reportajes de actualidad(n)</desc>
+  </programme>
+  <programme start="20170620194500 +0000" stop="20170620203000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora</title>
+    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional(n)</desc>
+    <star-rating>
+      <value>4.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20170620203000 +0000" stop="20170620210000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Entrevistas 24 (?)</title>
+    <desc lang="en">Espacio dedicado a entrevistar a las diferentes personalidades del acontecer chileno(n)</desc>
+  </programme>
+  <programme start="20170620210000 +0000" stop="20170621000000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Noticias 24</title>
+    <desc lang="en">Información de actualidad y las últimas noticias nacionales e internacionales(n)</desc>
+    <star-rating>
+      <value>0.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20170621000000 +0000" stop="20170621010000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Deportes</title>
+    <desc lang="en">Las principales noticias del deporte nacional e internacional(n)</desc>
+  </programme>
+  <programme start="20170621010000 +0000" stop="20170621023000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Central (?)</title>
+  </programme>
+  <programme start="20170621023000 +0000" stop="20170621040000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Vía Pública (?)</title>
+  </programme>
+  <programme start="20170621040000 +0000" stop="20170621053000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Hora 24 (?)</title>
+  </programme>
+  <programme start="20170621053000 +0000" stop="20170621060000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Medianoche (?)</title>
+  </programme>
+  <programme start="20170621060000 +0000" stop="20170621063000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621063000 +0000" stop="20170621070000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621070000 +0000" stop="20170621073000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621073000 +0000" stop="20170621080000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621080000 +0000" stop="20170621083000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621083000 +0000" stop="20170621090000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621090000 +0000" stop="20170621093000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621093000 +0000" stop="20170621100000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621100000 +0000" stop="20170621103000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">5:50 (?)</title>
+  </programme>
+  <programme start="20170621103000 +0000" stop="20170621120000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Tu Mañana (?)</title>
+  </programme>
+  <programme start="20170621120000 +0000" stop="20170621123000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Avances 24 (?)</title>
+  </programme>
+  <programme start="20170621123000 +0000" stop="20170621143000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa (?)</title>
+  </programme>
+  <programme start="20170621143000 +0000" stop="20170621150000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Vía Pública (?)</title>
+  </programme>
+  <programme start="20170621150000 +0000" stop="20170621170000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">La Mañana Informativa (?)</title>
+  </programme>
+  <programme start="20170621170000 +0000" stop="20170621173000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621173000 +0000" stop="20170621191500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas Al Día (?)</title>
+  </programme>
+  <programme start="20170621191500 +0000" stop="20170621194500 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Chile al Día (?)</title>
+  </programme>
+  <programme start="20170621194500 +0000" stop="20170621203000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">24 Horas A La Hora (?)</title>
+  </programme>
+  <programme start="20170621203000 +0000" stop="20170621210000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Exploradores (?)</title>
+  </programme>
+  <programme start="20170621210000 +0000" stop="20170622000000 +0000" channel="24 Horas (Chile)">
+    <title lang="en">Noticias 24 (?)</title>
+  </programme>
   <programme start="20170618060000 +0000" stop="20170618102000 +0000" channel="Canal 13 HDTV (Chile)">
     <title lang="en">Cierre de estación</title>
     <star-rating>
@@ -1497,6 +2054,68 @@
     <title lang="en">El secreto de Feriha</title>
     <desc lang="en">Una joven estudiante se hace pasar por millonaria, para ganarse el amor de un apuesto compañero</desc>
   </programme>
+  <programme start="20170618041500 +0000" stop="20170618100000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Cierre de Transmisión (?)</title>
+  </programme>
+  <programme start="20170618100000 +0000" stop="20170618103000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Master Raindrop (?)</title>
+  </programme>
+  <programme start="20170618103000 +0000" stop="20170618110000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Sonic (?)</title>
+  </programme>
+  <programme start="20170618110000 +0000" stop="20170618120000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Medabots (?)</title>
+  </programme>
+  <programme start="20170618120000 +0000" stop="20170618180000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Antena 3D (?)</title>
+  </programme>
+  <programme start="20170618180000 +0000" stop="20170618184500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Cámara loca (?)</title>
+  </programme>
+  <programme start="20170618184500 +0000" stop="20170618200000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Falabella TV (?)</title>
+  </programme>
+  <programme start="20170618200000 +0000" stop="20170618211500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Bailando por un sueño (?)</title>
+  </programme>
+  <programme start="20170618211500 +0000" stop="20170618213000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Reino animal (?)</title>
+  </programme>
+  <programme start="20170618213000 +0000" stop="20170618223000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">China a traves del rio Yangtze (?)</title>
+  </programme>
+  <programme start="20170618223000 +0000" stop="20170618231500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">SAF3 (?)</title>
+  </programme>
+  <programme start="20170618231500 +0000" stop="20170618234500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Survivor (?)</title>
+  </programme>
+  <programme start="20170618234500 +0000" stop="20170619003000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Survivor (?)</title>
+  </programme>
+  <programme start="20170619003000 +0000" stop="20170619011500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Navy NCIS (?)</title>
+  </programme>
+  <programme start="20170619011500 +0000" stop="20170619020000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Comando de Élite (?)</title>
+  </programme>
+  <programme start="20170619020000 +0000" stop="20170619040000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Arpeggio (?)</title>
+  </programme>
+  <programme start="20170619040000 +0000" stop="20170619044500 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Criminal Intent</sub-title>
+    <desc lang="en">Esta segunda serie derivada del éxito 'Law &amp; Order' se centra en detectives de Nueva York que se encargan de casos difíciles y prominentes. La narración es diferente de la serie original porque presenta la perspectiva del criminal igual que los métodos usados por los policías, quienes trabajan bajo el liderazgo del brillante y poco ortodoxo Detective Goren(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Policía</category>
+    <icon src="https://i.yo.tv/p/se/d29660/s/E2DD6669F814EA9A43AFE1F2A4FBC5B6.jpg" />
+    <star-rating>
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20170619044500 +0000" stop="20170619113000 +0000" channel="TeleCanal (Chile)">
+    <title lang="en">Cierre de Transmisión (?)</title>
+  </programme>
   <programme start="20170618052000 +0000" stop="20170618073000 +0000" channel="TVN - Televisión Nacional de Chile">
     <title lang="en">Rocky</title>
     <desc lang="en">La película que llevó la estatuilla del Oscar a un ring de boxeo: mejor película y mejor director. Rocky Balboa es un desconocido y humilde boxeador en el que nadie cree. Inesperadamente, se le presenta una gran oportunidad que podría cambiar su vida por completo: luchar por el título mundial de los pesos pesados contra el temible campeón, Apollo Creed. Así, junto a su ex entrenador, Rocky comienza un arduo entrenamiento días antes de la gran pelea. Todos creen que será un combate fácil, en el que Apollo dará una paliza a Rocky, pero él les demostrará lo contrario. Duración: 119 min Género: Acción/ Drama/ Romance/ Deporte Dirección: John G. Avildsen Año: 1976 Elenco: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith, Thayer David, Joe Spinell</desc>
@@ -1701,7 +2320,8 @@
     <category lang="en">Revista Noticiosa</category>
   </programme>
   <programme start="20170620050000 +0000" stop="20170620054500 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Gol de Medianoche (?)</title>
+    <title lang="en">Gol de Medianoche</title>
+    <desc lang="en">Una discusión sobre el fútbol(r)</desc>
   </programme>
   <programme start="20170620054500 +0000" stop="20170620060000 +0000" channel="TVN - Televisión Nacional de Chile">
     <title lang="en">TV tiempo</title>
@@ -1788,7 +2408,8 @@
     <category lang="en">Revista Noticiosa</category>
   </programme>
   <programme start="20170621050000 +0000" stop="20170621054500 +0000" channel="TVN - Televisión Nacional de Chile">
-    <title lang="en">Gol de Medianoche (?)</title>
+    <title lang="en">Gol de Medianoche</title>
+    <desc lang="en">Una discusión sobre el fútbol(r)</desc>
   </programme>
   <programme start="20170621054500 +0000" stop="20170621070000 +0000" channel="TVN - Televisión Nacional de Chile">
     <title lang="en">TV tiempo</title>
