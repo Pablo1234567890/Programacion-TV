@@ -36,8 +36,8 @@
     <display-name lang="en">Canal 13 TV</display-name>
     <url>http://www.yo.tv</url>
   </channel>
-  <channel id="Antena 3 [HD]">
-    <display-name lang="en">Antena 3 HDTV</display-name>
+  <channel id="Antena 3 HDTV">
+    <display-name lang="en">Antena 3 [HD]</display-name>
     <url>http://www.yo.tv</url>
   </channel>
   <channel id="Antena 3 (Internacional)">
@@ -72,7 +72,7 @@
     <url>http://www.elmundo.es</url>
   </channel>
   <channel id="Neox">
-    <display-name lang="en">Neox</display-name>
+    <display-name lang="en">Neox [HD]</display-name>
     <url>http://www.yo.tv</url>
   </channel>
   <channel id="Nova">
@@ -80,8 +80,9 @@
     <url>http://www.yo.tv</url>
   </channel>
   <channel id="Real Madrid TV">
-    <display-name lang="en">Real Madrid TV</display-name>
-    <url>http://www.yo.tv</url>
+    <display-name lang="es">Real Madrid TV</display-name>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/canales/98/1176984.png" />
+    <url>http://www.elmundo.es</url>
   </channel>
   <channel id="Telecinco">
     <display-name lang="en">Telecinco</display-name>
@@ -4623,27 +4624,7 @@
     <desc lang="en">Espacio presentado por Patricia Betancort y David Alemán en el que un gran equipo de profesionales tratará de averiguar qué se esconde detrás de los expedientes más mediáticos</desc>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170623003000 +0000" stop="20170623010000 +0000" channel="Antena 3 [HD]">
-    <title lang="en">Campeonato Europeo de Póquer</title>
-    <desc lang="en">Disfruta del campeonato de póquer europeo</desc>
-    <category lang="en">Deportes</category>
-  </programme>
-  <programme start="20170623010000 +0000" stop="20170623013000 +0000" channel="Antena 3 [HD]">
-    <title lang="en">Comprando en casa</title>
-    <desc lang="en">Espacio que permite comprar desde casa productos exclusivos de electrónica, televisión y vídeo, informática, belleza y salud, hogar, deportes, cocina y baño</desc>
-    <category lang="en">Otro</category>
-  </programme>
-  <programme start="20170623013000 +0000" stop="20170623040000 +0000" channel="Antena 3 [HD]">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170623040000 +0000" stop="20170623041500 +0000" channel="Antena 3 [HD]">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170623041500 +0000" stop="20170623041500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623041500 +0000" stop="20170623063000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Las noticias de la mañana</title>
     <desc lang="en">Primer noticiario de la jornada en el que se ofrece un avance de las principales noticias y reportajes que compondrán el temario del día de los informativos de Antena 3</desc>
     <category lang="en">Noticias</category>
@@ -4651,15 +4632,7 @@
       <value>4.8</value>
     </star-rating>
   </programme>
-  <programme start="20170623041500 +0000" stop="20170623063000 +0000" channel="Antena 3 [HD]">
-    <title lang="en">Las noticias de la mañana</title>
-    <desc lang="en">Primer noticiario de la jornada en el que se ofrece un avance de las principales noticias y reportajes que compondrán el temario del día de los informativos de Antena 3</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20170623063000 +0000" stop="20170623102000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623063000 +0000" stop="20170623102000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Espejo público</title>
     <desc lang="en">Susanna Griso presenta este programa matinal en el que las noticias, los reportajes, las conexiones en directo, las tertulias y las entrevistas son los protagonistas. Un espacio donde tiene cabida todo lo que importa, preocupa e interesa</desc>
     <category lang="en">Revista</category>
@@ -4667,18 +4640,18 @@
       <value>2.4</value>
     </star-rating>
   </programme>
-  <programme start="20170623102000 +0000" stop="20170623104500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623102000 +0000" stop="20170623104500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Karlos Arguiñano en tu cocina</title>
     <desc lang="en">Karlos Arguiñano ofrece cada día nuevas recetas y trucos culinarios para realizar suculentos platos</desc>
     <category lang="en">Comida</category>
     <category lang="en">Cocina</category>
   </programme>
-  <programme start="20170623104500 +0000" stop="20170623120000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623104500 +0000" stop="20170623120000 +0000" channel="Antena 3 HDTV">
     <title lang="en">La ruleta de la suerte</title>
     <desc lang="en">Concurso en el que los participantes tienen que adivinar, con el uso de consonantes y compra de vocales, la palabra o frase que se esconde tras un panel en blanco</desc>
     <category lang="en">Programa Concurso</category>
   </programme>
-  <programme start="20170623120000 +0000" stop="20170623123000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623120000 +0000" stop="20170623123000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los Simpsons</title>
     <desc lang="en">En el día de San Valentín, cuando Homero asiste a un curso universitario sobre cómo tener éxito en el mundo corporativo, rápidamente se convierte en el propietario de la planta de energía nuclear y despide al Señor Burns</desc>
     <category lang="en">Comedia Animada</category>
@@ -4688,7 +4661,7 @@
       <value>8.8</value>
     </star-rating>
   </programme>
-  <programme start="20170623123000 +0000" stop="20170623130000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623123000 +0000" stop="20170623130000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los Simpsons</title>
     <desc lang="en">En la Escuela Primaria de Springfield, Declan Desmond, un cineasta, va al establecimiento para filmar a los alumnos y lo que hacían en la escuela. En una ocasión, Declan le pregunta a Lisa cuáles eran sus pasatiempos, y la niña así decide que era hora de elegir una carrera</desc>
     <category lang="en">Comedia Animada</category>
@@ -4698,22 +4671,22 @@
       <value>8.8</value>
     </star-rating>
   </programme>
-  <programme start="20170623130000 +0000" stop="20170623134500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623130000 +0000" stop="20170623134500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 1</title>
     <desc lang="en">Una cita con la información nacional e internacional</desc>
     <category lang="en">Noticias</category>
   </programme>
-  <programme start="20170623134500 +0000" stop="20170623140000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623134500 +0000" stop="20170623140000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Deportes</title>
     <desc lang="en">Los deportes que eligen practicar los jóvenes y las técnicas de cada una de estas disciplinas, reconociendo el esfuerzo y dedicación que requieren</desc>
   </programme>
-  <programme start="20170623140000 +0000" stop="20170623143000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623140000 +0000" stop="20170623143000 +0000" channel="Antena 3 HDTV">
     <title lang="en">El tiempo</title>
     <desc lang="en">Roberto Brasero te ofrece una nueva manera de ver la información meteorológica. Previsiones del tiempo de forma amena y sencilla</desc>
     <category lang="en">Noticias</category>
     <category lang="en">Meteorología/clima</category>
   </programme>
-  <programme start="20170623143000 +0000" stop="20170623153000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623143000 +0000" stop="20170623153000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Amar es para siempre</title>
     <desc lang="en">Doña Ana María recibe la visita de Bruno y Rosalía y confunde al pequeño de los Novoa con Alonso. Mientras tanto, Gonzalo descubre que su voz fue doblada por otro cantante durante el programa y se indigna. Alba, por su parte, se ve obligada a decirle a su madre que está embarazada</desc>
     <category lang="en">Telenovela</category>
@@ -4723,7 +4696,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170623153000 +0000" stop="20170623164500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623153000 +0000" stop="20170623164500 +0000" channel="Antena 3 HDTV">
     <title lang="en">El secreto de Puente Viejo</title>
     <desc lang="en">Francisca le exige a Nazaria que deje de dar problemas o volverá al lugar de donde salió. Mientras tanto, Matías se muestra horrorizado por la frialdad de Beatriz. Prudencio, por su parte, habla con cariño de su hermano cuando le cuenta a Francisca cómo era de niño</desc>
     <category lang="en">Drama</category>
@@ -4733,7 +4706,7 @@
       <value>3.8</value>
     </star-rating>
   </programme>
-  <programme start="20170623164500 +0000" stop="20170623180000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623164500 +0000" stop="20170623180000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Ahora caigo</title>
     <desc lang="en">Es un concurso tan impredecible que la tierra se abrirá bajo tus pies. Un formato revolucionario que une el suspense de una batalla de preguntas con un elemento sorpresa: el puro azar</desc>
     <category lang="en">Programa Concurso</category>
@@ -4741,7 +4714,7 @@
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20170623180000 +0000" stop="20170623190000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623180000 +0000" stop="20170623190000 +0000" channel="Antena 3 HDTV">
     <title lang="en">¡Boom!</title>
     <desc lang="en">Programa en el que un equipo de concursantes debe desactivar bombas respondiendo a varias preguntas correctamente dentro de un determinado periodo de tiempo. Los jugadores tienen que desactivar la bomba cortando determinados cables de colores que representan las diferentes respuestas. Si el jugador responde correctamente, el dinero del premio se mantiene intacto. Si el jugador corta el cable equivocado o se quedan sin tiempo, la bomba explota</desc>
     <category lang="en">Programa Concurso</category>
@@ -4750,7 +4723,7 @@
       <value>4.2</value>
     </star-rating>
   </programme>
-  <programme start="20170623190000 +0000" stop="20170623195500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623190000 +0000" stop="20170623195500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 2</title>
     <desc lang="en">Te informamos de todo lo que acontece en España y fuera de nuestras fronteras</desc>
     <category lang="en">Noticias</category>
@@ -4758,18 +4731,18 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170623195500 +0000" stop="20170623201000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623195500 +0000" stop="20170623201000 +0000" channel="Antena 3 HDTV">
     <title lang="en">La previsión de las 9</title>
     <desc lang="en">Información puntual de las previsiones meteorológicas de forma amena y sencilla</desc>
     <category lang="en">Noticias</category>
     <category lang="en">Meteorología/clima</category>
   </programme>
-  <programme start="20170623201000 +0000" stop="20170623221500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623201000 +0000" stop="20170623221500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Ninja Warrior España</title>
     <desc lang="en">Programa de entretenimiento en el que 200 participantes deben superar las pruebas más duras de la televisión para convertirse en el primer guerrero Ninja Warrior España</desc>
     <category lang="en">Programa Concurso</category>
   </programme>
-  <programme start="20170623221500 +0000" stop="20170624003000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170623221500 +0000" stop="20170624003000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -4778,22 +4751,22 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170624003000 +0000" stop="20170624010000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624003000 +0000" stop="20170624010000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Comprando en casa</title>
     <desc lang="en">Espacio que permite comprar desde casa productos exclusivos de electrónica, televisión y vídeo, informática, belleza y salud, hogar, deportes, cocina y baño</desc>
     <category lang="en">Otro</category>
   </programme>
-  <programme start="20170624010000 +0000" stop="20170624040000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624010000 +0000" stop="20170624040000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Minutos musicales</title>
     <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170624040000 +0000" stop="20170624051000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624040000 +0000" stop="20170624051000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Minutos musicales</title>
     <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170624051000 +0000" stop="20170624051000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624051000 +0000" stop="20170624051000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Pelopicopata</title>
     <desc lang="en">El gran programa dedicado a los animales. Un docu-show basado en historias insólitas de animales y sus relaciones con los seres humanos. Un espacio educativo y muy divertido para toda la familia</desc>
     <category lang="en">Mascotas</category>
@@ -4802,7 +4775,7 @@
       <value>4.8</value>
     </star-rating>
   </programme>
-  <programme start="20170624051000 +0000" stop="20170624061000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624051000 +0000" stop="20170624061000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Pelopicopata</title>
     <desc lang="en">El gran programa dedicado a los animales. Un docu-show basado en historias insólitas de animales y sus relaciones con los seres humanos. Un espacio educativo y muy divertido para toda la familia</desc>
     <category lang="en">Mascotas</category>
@@ -4811,13 +4784,13 @@
       <value>4.8</value>
     </star-rating>
   </programme>
-  <programme start="20170624061000 +0000" stop="20170624094000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624061000 +0000" stop="20170624094000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los más...</title>
     <desc lang="en">Zapping sobre los mejores programas de televisión</desc>
     <category lang="en">Revista</category>
     <category lang="en">Videos Musicales</category>
   </programme>
-  <programme start="20170624094000 +0000" stop="20170624120000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624094000 +0000" stop="20170624120000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Ahora caigo</title>
     <desc lang="en">Es un concurso tan impredecible que la tierra se abrirá bajo tus pies. Un formato revolucionario que une el suspense de una batalla de preguntas con un elemento sorpresa: el puro azar</desc>
     <category lang="en">Programa Concurso</category>
@@ -4825,7 +4798,7 @@
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20170624120000 +0000" stop="20170624123000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624120000 +0000" stop="20170624123000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los Simpsons</title>
     <desc lang="en">Homer descubre que Marge se casó con él porque la había dejado embarazada de Bart. Se deprime y se marcha de casa. Se acaba alojando en un apartamento acompañado por 2 gays</desc>
     <category lang="en">Comedia Animada</category>
@@ -4835,7 +4808,7 @@
       <value>8.8</value>
     </star-rating>
   </programme>
-  <programme start="20170624123000 +0000" stop="20170624130000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624123000 +0000" stop="20170624130000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los Simpsons</title>
     <desc lang="en">Homero escribe una canción que habla mal de Flanders y la canción se convierte en un rotundo éxito. Para escapar de la publicidad, la familia decide irse a vivir a un rancho en el campo</desc>
     <category lang="en">Comedia Animada</category>
@@ -4845,12 +4818,12 @@
       <value>8.8</value>
     </star-rating>
   </programme>
-  <programme start="20170624130000 +0000" stop="20170624140000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624130000 +0000" stop="20170624140000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 1</title>
     <desc lang="en">Una cita con la información nacional e internacional</desc>
     <category lang="en">Noticias</category>
   </programme>
-  <programme start="20170624140000 +0000" stop="20170624154500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624140000 +0000" stop="20170624154500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -4859,7 +4832,7 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170624154500 +0000" stop="20170624173000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624154500 +0000" stop="20170624173000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -4868,7 +4841,7 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170624173000 +0000" stop="20170624190000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624173000 +0000" stop="20170624190000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -4877,7 +4850,7 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170624190000 +0000" stop="20170624195500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624190000 +0000" stop="20170624195500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 2</title>
     <desc lang="en">Te informamos de todo lo que acontece en España y fuera de nuestras fronteras</desc>
     <category lang="en">Noticias</category>
@@ -4885,19 +4858,19 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170624195500 +0000" stop="20170624201000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624195500 +0000" stop="20170624201000 +0000" channel="Antena 3 HDTV">
     <title lang="en">El tiempo</title>
     <desc lang="en">Roberto Brasero te ofrece una nueva manera de ver la información meteorológica. Previsiones del tiempo de forma amena y sencilla</desc>
     <category lang="en">Noticias</category>
     <category lang="en">Meteorología/clima</category>
   </programme>
-  <programme start="20170624201000 +0000" stop="20170624221500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624201000 +0000" stop="20170624221500 +0000" channel="Antena 3 HDTV">
     <title lang="en">El Peliculón</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20170624221500 +0000" stop="20170625003000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170624221500 +0000" stop="20170625003000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -4906,22 +4879,22 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170625003000 +0000" stop="20170625010000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625003000 +0000" stop="20170625010000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Comprando en casa</title>
     <desc lang="en">Espacio que permite comprar desde casa productos exclusivos de electrónica, televisión y vídeo, informática, belleza y salud, hogar, deportes, cocina y baño</desc>
     <category lang="en">Otro</category>
   </programme>
-  <programme start="20170625010000 +0000" stop="20170625040000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625010000 +0000" stop="20170625040000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Minutos musicales</title>
     <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170625040000 +0000" stop="20170625051000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625040000 +0000" stop="20170625051000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Minutos musicales</title>
     <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170625051000 +0000" stop="20170625051000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625051000 +0000" stop="20170625051000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Pelopicopata</title>
     <desc lang="en">El gran programa dedicado a los animales. Un docu-show basado en historias insólitas de animales y sus relaciones con los seres humanos. Un espacio educativo y muy divertido para toda la familia</desc>
     <category lang="en">Mascotas</category>
@@ -4930,7 +4903,7 @@
       <value>4.8</value>
     </star-rating>
   </programme>
-  <programme start="20170625051000 +0000" stop="20170625061000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625051000 +0000" stop="20170625061000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Pelopicopata</title>
     <desc lang="en">El gran programa dedicado a los animales. Un docu-show basado en historias insólitas de animales y sus relaciones con los seres humanos. Un espacio educativo y muy divertido para toda la familia</desc>
     <category lang="en">Mascotas</category>
@@ -4939,25 +4912,25 @@
       <value>4.8</value>
     </star-rating>
   </programme>
-  <programme start="20170625061000 +0000" stop="20170625080000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625061000 +0000" stop="20170625080000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los más...</title>
     <desc lang="en">Zapping sobre los mejores programas de televisión</desc>
     <category lang="en">Revista</category>
     <category lang="en">Videos Musicales</category>
   </programme>
-  <programme start="20170625080000 +0000" stop="20170625083000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625080000 +0000" stop="20170625083000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Centímetros cúbicos</title>
     <desc lang="en">Programa dedicado al mundo del motor con pruebas a fondo, actualidad, seguridad vial, entrevistas y reportajes, realizado por los mejores especialistas</desc>
     <category lang="en">Deportes De Motor</category>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170625083000 +0000" stop="20170625094000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625083000 +0000" stop="20170625094000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los más...</title>
     <desc lang="en">Zapping sobre los mejores programas de televisión</desc>
     <category lang="en">Revista</category>
     <category lang="en">Videos Musicales</category>
   </programme>
-  <programme start="20170625094000 +0000" stop="20170625120000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625094000 +0000" stop="20170625120000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Ahora caigo</title>
     <desc lang="en">Es un concurso tan impredecible que la tierra se abrirá bajo tus pies. Un formato revolucionario que une el suspense de una batalla de preguntas con un elemento sorpresa: el puro azar</desc>
     <category lang="en">Programa Concurso</category>
@@ -4965,7 +4938,7 @@
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20170625120000 +0000" stop="20170625123000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625120000 +0000" stop="20170625123000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los Simpsons</title>
     <desc lang="en">Bart y sus amigos, en la casita del árbol, espían la conversación de Lisa y sus amigas teniendo una fiesta del té, pero tras el forcejeo, la casita queda destruida. Marge llama a los Amish para que construyan una nueva casita del árbol para Bart. Sin embargo, como los Amish saben poco sobre electricidad, la casa de Bart se prende fuego, y Homer queda atrapado dentro, inconsciente. Homer llama a Ayudante de Santa para que lo salve, pero el perro no lo hace. En cambio, el gato, Bola de nieve II, lo salva, arañándole el pecho para despertarlo</desc>
     <category lang="en">Comedia Animada</category>
@@ -4975,7 +4948,7 @@
       <value>8.8</value>
     </star-rating>
   </programme>
-  <programme start="20170625123000 +0000" stop="20170625130000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625123000 +0000" stop="20170625130000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los Simpsons</title>
     <desc lang="en">La licencia de conducir de Homero es revocada y ahora tiene que trasladarse a pie a todos lados y esto hace que se vuelva más saludable mientras Marge ahora es una conductora de tiempo completo y empieza a sufrir de stress</desc>
     <category lang="en">Comedia Animada</category>
@@ -4985,12 +4958,12 @@
       <value>8.8</value>
     </star-rating>
   </programme>
-  <programme start="20170625130000 +0000" stop="20170625140000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625130000 +0000" stop="20170625140000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 1</title>
     <desc lang="en">Una cita con la información nacional e internacional</desc>
     <category lang="en">Noticias</category>
   </programme>
-  <programme start="20170625140000 +0000" stop="20170625154500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625140000 +0000" stop="20170625154500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -4999,7 +4972,7 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170625154500 +0000" stop="20170625173000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625154500 +0000" stop="20170625173000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -5008,7 +4981,7 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170625173000 +0000" stop="20170625190000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625173000 +0000" stop="20170625190000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -5017,7 +4990,7 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170625190000 +0000" stop="20170625195500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625190000 +0000" stop="20170625195500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 2</title>
     <desc lang="en">Te informamos de todo lo que acontece en España y fuera de nuestras fronteras</desc>
     <category lang="en">Noticias</category>
@@ -5025,19 +4998,19 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170625195500 +0000" stop="20170625201000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625195500 +0000" stop="20170625201000 +0000" channel="Antena 3 HDTV">
     <title lang="en">El tiempo</title>
     <desc lang="en">Roberto Brasero te ofrece una nueva manera de ver la información meteorológica. Previsiones del tiempo de forma amena y sencilla</desc>
     <category lang="en">Noticias</category>
     <category lang="en">Meteorología/clima</category>
   </programme>
-  <programme start="20170625201000 +0000" stop="20170625221500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625201000 +0000" stop="20170625221500 +0000" channel="Antena 3 HDTV">
     <title lang="en">El Peliculón</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20170625221500 +0000" stop="20170626003000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170625221500 +0000" stop="20170626003000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Cine</title>
     <desc lang="en">Emisión cinematográfica</desc>
     <category lang="en">Otro</category>
@@ -5046,22 +5019,22 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170626003000 +0000" stop="20170626010000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626003000 +0000" stop="20170626010000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Comprando en casa</title>
     <desc lang="en">Espacio que permite comprar desde casa productos exclusivos de electrónica, televisión y vídeo, informática, belleza y salud, hogar, deportes, cocina y baño</desc>
     <category lang="en">Otro</category>
   </programme>
-  <programme start="20170626010000 +0000" stop="20170626040000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626010000 +0000" stop="20170626040000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Minutos musicales</title>
     <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170626040000 +0000" stop="20170626041500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626040000 +0000" stop="20170626041500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Minutos musicales</title>
     <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
     <category lang="en">Revista</category>
   </programme>
-  <programme start="20170626041500 +0000" stop="20170626041500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626041500 +0000" stop="20170626041500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Las noticias de la mañana</title>
     <desc lang="en">Primer noticiario de la jornada en el que se ofrece un avance de las principales noticias y reportajes que compondrán el temario del día de los informativos de Antena 3</desc>
     <category lang="en">Noticias</category>
@@ -5069,7 +5042,7 @@
       <value>4.8</value>
     </star-rating>
   </programme>
-  <programme start="20170626041500 +0000" stop="20170626063000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626041500 +0000" stop="20170626063000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Las noticias de la mañana</title>
     <desc lang="en">Primer noticiario de la jornada en el que se ofrece un avance de las principales noticias y reportajes que compondrán el temario del día de los informativos de Antena 3</desc>
     <category lang="en">Noticias</category>
@@ -5077,7 +5050,7 @@
       <value>4.8</value>
     </star-rating>
   </programme>
-  <programme start="20170626063000 +0000" stop="20170626102000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626063000 +0000" stop="20170626102000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Espejo público</title>
     <desc lang="en">Susanna Griso presenta este programa matinal en el que las noticias, los reportajes, las conexiones en directo, las tertulias y las entrevistas son los protagonistas. Un espacio donde tiene cabida todo lo que importa, preocupa e interesa</desc>
     <category lang="en">Revista</category>
@@ -5085,18 +5058,18 @@
       <value>2.4</value>
     </star-rating>
   </programme>
-  <programme start="20170626102000 +0000" stop="20170626104500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626102000 +0000" stop="20170626104500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Karlos Arguiñano en tu cocina</title>
     <desc lang="en">Karlos Arguiñano ofrece cada día nuevas recetas y trucos culinarios para realizar suculentos platos</desc>
     <category lang="en">Comida</category>
     <category lang="en">Cocina</category>
   </programme>
-  <programme start="20170626104500 +0000" stop="20170626120000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626104500 +0000" stop="20170626120000 +0000" channel="Antena 3 HDTV">
     <title lang="en">La ruleta de la suerte</title>
     <desc lang="en">Concurso en el que los participantes tienen que adivinar, con el uso de consonantes y compra de vocales, la palabra o frase que se esconde tras un panel en blanco</desc>
     <category lang="en">Programa Concurso</category>
   </programme>
-  <programme start="20170626120000 +0000" stop="20170626130000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626120000 +0000" stop="20170626130000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Los Simpson</title>
     <desc lang="en">Los Simpson son una peculiar familia norteamericana de clase media. Homer, el padre, trabaja en la central nuclear de la ciudad, y es desordenado y gruñón, mientras que Marge, la madre, es sensata, comprensiva y algo ingenua. En cuanto a los hijos, se trata de tres 'adorables' criaturas cuya principal afición es protestar por todo: Bart, Lisa y Maggie</desc>
     <category lang="en">Comedia Animada</category>
@@ -5106,22 +5079,22 @@
       <value>8.8</value>
     </star-rating>
   </programme>
-  <programme start="20170626130000 +0000" stop="20170626134500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626130000 +0000" stop="20170626134500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 1</title>
     <desc lang="en">Una cita con la información nacional e internacional</desc>
     <category lang="en">Noticias</category>
   </programme>
-  <programme start="20170626134500 +0000" stop="20170626140000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626134500 +0000" stop="20170626140000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Deportes</title>
     <desc lang="en">Los deportes que eligen practicar los jóvenes y las técnicas de cada una de estas disciplinas, reconociendo el esfuerzo y dedicación que requieren</desc>
   </programme>
-  <programme start="20170626140000 +0000" stop="20170626143000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626140000 +0000" stop="20170626143000 +0000" channel="Antena 3 HDTV">
     <title lang="en">El tiempo</title>
     <desc lang="en">Roberto Brasero te ofrece una nueva manera de ver la información meteorológica. Previsiones del tiempo de forma amena y sencilla</desc>
     <category lang="en">Noticias</category>
     <category lang="en">Meteorología/clima</category>
   </programme>
-  <programme start="20170626143000 +0000" stop="20170626153000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626143000 +0000" stop="20170626153000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Amar es para siempre</title>
     <desc lang="en">Nuria hace balance de la información obtenida a través del doctor Castellanos. Mientras tanto, Rosalía le dice a Félix que Alba está embarazada. Paralelamente, Rovira acepta conceder una indemnización a Sebas. Fuen, por su parte, está cada vez más nerviosa con la boda</desc>
     <category lang="en">Telenovela</category>
@@ -5130,7 +5103,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170626153000 +0000" stop="20170626164500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626153000 +0000" stop="20170626164500 +0000" channel="Antena 3 HDTV">
     <title lang="en">El secreto de Puente Viejo</title>
     <desc lang="en">Pepa, una joven analfabeta, aprendiz de comadrona, ve cómo su pareja, un hombre casado con otra mujer, le arrebata a su hijo y se lo entrega a su esposa, quien acaba de dar a luz a un niño muerto. Es entonces cuando la joven se va del pueblo y promete no olvidar nunca a su hijo. Con lo años, Pepa se convierte en una amante decidida y una comadrona reputada que hará lo imposible para recuperar a su retoño</desc>
     <category lang="en">Drama</category>
@@ -5139,7 +5112,7 @@
       <value>3.8</value>
     </star-rating>
   </programme>
-  <programme start="20170626164500 +0000" stop="20170626180000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626164500 +0000" stop="20170626180000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Ahora caigo</title>
     <desc lang="en">Es un concurso tan impredecible que la tierra se abrirá bajo tus pies. Un formato revolucionario que une el suspense de una batalla de preguntas con un elemento sorpresa: el puro azar</desc>
     <category lang="en">Programa Concurso</category>
@@ -5147,7 +5120,7 @@
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20170626180000 +0000" stop="20170626190000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626180000 +0000" stop="20170626190000 +0000" channel="Antena 3 HDTV">
     <title lang="en">¡Boom!</title>
     <desc lang="en">Programa en el que un equipo de concursantes debe desactivar bombas respondiendo a varias preguntas correctamente dentro de un determinado periodo de tiempo. Los jugadores tienen que desactivar la bomba cortando determinados cables de colores que representan las diferentes respuestas. Si el jugador responde correctamente, el dinero del premio se mantiene intacto. Si el jugador corta el cable equivocado o se quedan sin tiempo, la bomba explota</desc>
     <category lang="en">Programa Concurso</category>
@@ -5156,7 +5129,7 @@
       <value>4.2</value>
     </star-rating>
   </programme>
-  <programme start="20170626190000 +0000" stop="20170626194500 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626190000 +0000" stop="20170626194500 +0000" channel="Antena 3 HDTV">
     <title lang="en">Antena 3 Noticias 2</title>
     <desc lang="en">Te informamos de todo lo que acontece en España y fuera de nuestras fronteras</desc>
     <category lang="en">Noticias</category>
@@ -5164,7 +5137,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170626194500 +0000" stop="20170626204000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626194500 +0000" stop="20170626204000 +0000" channel="Antena 3 HDTV">
     <title lang="en">El Hormiguero 3.0</title>
     <desc lang="en">Preparados para entrevistas exclusivísimas, diversión y risas</desc>
     <category lang="en">Discusión/charla</category>
@@ -5173,7 +5146,7 @@
       <value>6.7</value>
     </star-rating>
   </programme>
-  <programme start="20170626204000 +0000" stop="20170627003000 +0000" channel="Antena 3 [HD]">
+  <programme start="20170626204000 +0000" stop="20170627003000 +0000" channel="Antena 3 HDTV">
     <title lang="en">Allí abajo</title>
     <sub-title lang="en">Dos hombres y un embarazo</sub-title>
     <desc lang="en">Iñaki y Horacio hacen todo lo posible por conquistar a Carmen. Mientras tanto, gran parte del vecindario ingresa en la clínica por una intoxicación alimentaria. Paralelamente, para la despedida de soltera de Trini, han contratado a Juan como stripper sin saberlo</desc>
@@ -7113,27 +7086,6 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20170623181000 +0200" stop="20170623192500 +0200" channel="La 1">
-    <title lang="es">Documental: Centro médico</title>
-    <title lang="xx">Centro médico</title>
-    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores</desc>
-    <credits>
-      <actor>Marina Lozano</actor>
-      <actor>Fran Martínez</actor>
-      <actor>Rocío Anker</actor>
-      <actor>Jordi Mestre</actor>
-      <actor>Jesús Cabrero</actor>
-      <actor>Charo Molina</actor>
-      <actor>María Pedroviejo</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/e3/1002723.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
   <programme start="20170623192500 +0200" stop="20170623203000 +0200" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magazine conducido por Roberto Leal y Sandra Daviú en el apartado de sociedad. En cada edición se hará un recorrido por la geografía española para ofrecer a los espectadores la actualidad informativa desde el lugar dónde se produce la noticia. El programa hace especial hincapié en temas sociales, la previsión del tiempo, las fiestas que se reparten por toda nuestra geografía y nos ofrece reportajes con temas de interés general</desc>
@@ -7199,38 +7151,6 @@
     <category lang="es">Cine</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/c3/359363.png" />
   </programme>
-  <programme start="20170623045000 +0200" stop="20170623060000 +0200" channel="La 1">
-    <title lang="es">TVE es música</title>
-    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
-    <category lang="es">Videoclips</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623181000 +0200" stop="20170623185000 +0200" channel="La 1">
-    <title lang="es">Documental: Centro médico</title>
-    <title lang="xx">Centro médico</title>
-    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores</desc>
-    <credits>
-      <actor>Marina Lozano</actor>
-      <actor>Fran Martínez</actor>
-      <actor>Rocío Anker</actor>
-      <actor>Jordi Mestre</actor>
-      <actor>Jesús Cabrero</actor>
-      <actor>Charo Molina</actor>
-      <actor>María Pedroviejo</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/e3/1002723.png" />
-    <country>España</country>
-    <episode-num system="onscreen">E622</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
   <programme start="20170623185000 +0200" stop="20170623192500 +0200" channel="La 1">
     <title lang="es">Documental: Centro médico</title>
     <title lang="xx">Centro médico</title>
@@ -7281,7 +7201,7 @@
   </programme>
   <programme start="20170623030000 +0200" stop="20170623045000 +0200" channel="La 1">
     <title lang="es">La noche en 24h</title>
-    <desc lang="es">Informativo que incluye conexiones en directo desde los puntos protagonistas de la actualidad, entrevistas, análisis de la información y una tertulia de opinión para ayudar a comprender los hechos(c)</desc>
+    <desc lang="es">Informativo que incluye conexiones en directo desde los puntos protagonistas de la actualidad, entrevistas, análisis de la información y una tertulia de opinión para ayudar a comprender los hechos(r)</desc>
     <credits>
       <director>Sergio Martín</director>
       <producer>Javier Redondo</producer>
@@ -7292,6 +7212,38 @@
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623045000 +0200" stop="20170623060000 +0200" channel="La 1">
+    <title lang="es">TVE es música</title>
+    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
+    <category lang="es">Videoclips</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623181000 +0200" stop="20170623185000 +0200" channel="La 1">
+    <title lang="es">Documental: Centro médico</title>
+    <title lang="xx">Centro médico</title>
+    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores(c)</desc>
+    <credits>
+      <actor>Marina Lozano</actor>
+      <actor>Fran Martínez</actor>
+      <actor>Rocío Anker</actor>
+      <actor>Jordi Mestre</actor>
+      <actor>Jesús Cabrero</actor>
+      <actor>Charo Molina</actor>
+      <actor>María Pedroviejo</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/e3/1002723.png" />
+    <country>España</country>
+    <episode-num system="onscreen">E622</episode-num>
+    <rating system="ES">
+      <value>7</value>
     </rating>
   </programme>
   <programme start="20170624001500 +0200" stop="20170624020500 +0200" channel="La 1">
@@ -7817,7 +7769,7 @@
   <programme start="20170625013500 +0200" stop="20170625034500 +0200" channel="La 1">
     <title lang="es">Ley y orden: Unidad de víctimas especiales</title>
     <title lang="xx">Law &amp; Order: Special Victims Unit</title>
-    <desc lang="es">Serie basada en Ley y Orden, una de las más longevas de la televisión, en EE.UU., lleva en antena desde 1990. En este caso la Unidad de Víctimas Especiales de la Policía de Nueva York, se ocupa de aquellos casos que son delicados, que por su naturaleza son complicados y espinosos como pueden ser crímenes sexuales, secuestros o asesinatos. El equipo está formado por el veterano Elliot Stabler, un detective muy curtido en este tipo de casos, su pareja la decttive Olivia Benson, con un pasado trágico, el Capitán Cragen, supervisor del departamento y John Munch, trasladado desde Baltimore y que aporta un gran ingenio y habilidad a las investigaciones. Los detectives cuentan con muy pocas pistas para resolver los casos, y a menudo se ven en situaciones peliagudas al tener que tratar con criminales de índole sexual(c)</desc>
+    <desc lang="es">Serie basada en Ley y Orden, una de las más longevas de la televisión, en EE.UU., lleva en antena desde 1990. En este caso la Unidad de Víctimas Especiales de la Policía de Nueva York, se ocupa de aquellos casos que son delicados, que por su naturaleza son complicados y espinosos como pueden ser crímenes sexuales, secuestros o asesinatos. El equipo está formado por el veterano Elliot Stabler, un detective muy curtido en este tipo de casos, su pareja la decttive Olivia Benson, con un pasado trágico, el Capitán Cragen, supervisor del departamento y John Munch, trasladado desde Baltimore y que aporta un gran ingenio y habilidad a las investigaciones. Los detectives cuentan con muy pocas pistas para resolver los casos, y a menudo se ven en situaciones peliagudas al tener que tratar con criminales de índole sexual(r)</desc>
     <credits>
       <director>Michael Slovis</director>
       <actor>Mariska Hargitay</actor>
@@ -8217,16 +8169,6 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20170623033000 +0200" stop="20170623063000 +0200" channel="La 2">
-    <title lang="es">TVE es música</title>
-    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
-    <category lang="es">Videoclips</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170623063000 +0200" stop="20170623070000 +0200" channel="La 2">
     <title lang="es">That's English</title>
     <desc lang="es">Los telespectadores pueden aprender y practicar inglés a través de las clases televisivas de That's English. Los diferentes ámbitos de la vida inglesa sirven de pretexto para aprender el idioma</desc>
@@ -8272,40 +8214,6 @@
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623095500 +0200" stop="20170623110000 +0200" channel="La 2">
-    <title lang="es">UNED</title>
-    <desc lang="es">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia (UNED)</desc>
-    <credits>
-      <director>Ángel Mancebo</director>
-      <producer>Virginia Rojo</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/0e/16142.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623110000 +0200" stop="20170623115000 +0200" channel="La 2">
-    <title lang="es">Army Wives</title>
-    <desc lang="es">Denise Sherwood es una perfecta ama de casa que cuida con esmero de su hijo adolescente y de su marido, pero que esconde un gran secreto. Claudia Joy Holden es la esposa del coronel Michael Holden, es el modelo que todas las esposas siguen y respetan. Otro personaje importante en la serie es Pamela Moran, una mujer que ha sido policía pero que actualmente ha de mantener a flote a su familia en una difícil situación económica, además de tratar de ocultar su precaria situación a sus vecinos. Para ello, se convertirá en madre de alquiler. Y por último, Roxy LeBlanc, una mujer que decide casarse con el joven soldado Trevor LeBlanc y que ve como su vida cambia radicalmente de la noche a la mañana. Al mudarse a la exclusiva comunidad, verá como no todas las demás mujeres le apoyan cuando saben que tiene dos hijos que no son de Trevor y cuando empieza a trabajar en un bar cercano para sacar algo más de dinero. A todas ellas, se les une también Roland Burton el único hombre que vive en la base militar junto con su mujer, la soldado Joan Barton. Roland se unirá a este club de mujeres y compartirá con ellas sus problemas con su mujer</desc>
-    <credits>
-      <actor>Brian McNamara</actor>
-      <actor>Catherine Bell</actor>
-      <actor>Kim Delaney</actor>
-      <actor>Sally Pressman</actor>
-      <actor>Sterling K. Brown</actor>
-      <actor>Wendy Davis</actor>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Drama</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/bf/300223.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>12</value>
     </rating>
   </programme>
   <programme start="20170623115000 +0200" stop="20170623124000 +0200" channel="La 2">
@@ -8379,31 +8287,6 @@
     <date>2017</date>
     <category lang="es">Otros</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/6c/859756.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623032000 +0200" stop="20170623063000 +0200" channel="La 2">
-    <title lang="es">TVE es música</title>
-    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
-    <category lang="es">Videoclips</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623095500 +0200" stop="20170623110500 +0200" channel="La 2">
-    <title lang="es">UNED</title>
-    <desc lang="es">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia (UNED)</desc>
-    <credits>
-      <director>Ángel Mancebo</director>
-      <producer>Virginia Rojo</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/0e/16142.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -8493,7 +8376,7 @@
   <programme start="20170623025000 +0200" stop="20170623032000 +0200" channel="La 2">
     <title lang="es">Los conciertos de Radio 3</title>
     <sub-title lang="es">The Grooves</sub-title>
-    <desc lang="es">Espacio musical que incluye los conciertos de artistas y grupos musicales destacados de la actualidad, tanto nacionales como internacionales, desde los estudios de Radio 3(c)</desc>
+    <desc lang="es">Espacio musical que incluye los conciertos de artistas y grupos musicales destacados de la actualidad, tanto nacionales como internacionales, desde los estudios de Radio 3(r)</desc>
     <credits>
       <director>Tomás Fernando Flores</director>
     </credits>
@@ -8505,11 +8388,21 @@
       <value>TP</value>
     </rating>
   </programme>
+  <programme start="20170623032000 +0200" stop="20170623063000 +0200" channel="La 2">
+    <title lang="es">TVE es música</title>
+    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
+    <category lang="es">Videoclips</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
   <programme start="20170623080000 +0200" stop="20170623083000 +0200" channel="La 2">
     <title lang="es">Documental: Brain Games</title>
     <title lang="xx">Brain Games</title>
     <sub-title lang="es">Sentido común</sub-title>
-    <desc lang="es">Serie documental de 12 episodios que explora cómo funciona el cerebro y qué podemos hacer para estimularlo. Mediante ejercicios de agudeza visual o creatividades sonoras el conductor del programa, Jason Silva, nos enseñará muchos trucos para estimular y persuadir nuestro cerebro, demostrándonos de lo que seríamos capaces de hacer si lo usásemos al cien por cien de sus capacidades. Silva, mitad filósodo, mitad cineasta, con la colaboración de Apollo Robbins, apodado 'The Gentelman Thief', nos desafiarán para que practiquemos los retos que nos proponen(r)</desc>
+    <desc lang="es">Serie documental de 12 episodios que explora cómo funciona el cerebro y qué podemos hacer para estimularlo. Mediante ejercicios de agudeza visual o creatividades sonoras el conductor del programa, Jason Silva, nos enseñará muchos trucos para estimular y persuadir nuestro cerebro, demostrándonos de lo que seríamos capaces de hacer si lo usásemos al cien por cien de sus capacidades. Silva, mitad filósodo, mitad cineasta, con la colaboración de Apollo Robbins, apodado 'The Gentelman Thief', nos desafiarán para que practiquemos los retos que nos proponen</desc>
     <date>2015</date>
     <category lang="es">Ciencia y tecnología</category>
     <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/e1/763873.png" />
@@ -8527,6 +8420,22 @@
     <category lang="es">Ciencia y tecnología</category>
     <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/e1/763873.png" />
     <country>EE.UU.</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623095500 +0200" stop="20170623110500 +0200" channel="La 2">
+    <title lang="es">UNED</title>
+    <sub-title lang="es">Capítulo nº 67</sub-title>
+    <desc lang="es">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia (UNED)(c)</desc>
+    <credits>
+      <director>Ángel Mancebo</director>
+      <producer>Virginia Rojo</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Otros</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/0e/16142.png" />
+    <country>España</country>
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -8964,23 +8873,6 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20170625031000 +0200" stop="20170625044000 +0200" channel="La 2">
-    <title lang="es">Cine: Cine</title>
-    <title lang="xx">Cine</title>
-    <desc lang="es">Película a determinar</desc>
-    <category lang="es">Cine</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/c3/359363.png" />
-  </programme>
-  <programme start="20170625044000 +0200" stop="20170625053000 +0200" channel="La 2">
-    <title lang="es">TVE es música</title>
-    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
-    <category lang="es">Videoclips</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170625053000 +0200" stop="20170625073000 +0200" channel="La 2">
     <title lang="es">That's English</title>
     <desc lang="es">Los telespectadores pueden aprender y practicar inglés a través de las clases televisivas de That's English. Los diferentes ámbitos de la vida inglesa sirven de pretexto para aprender el idioma</desc>
@@ -9245,16 +9137,6 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20170625043000 +0200" stop="20170625053000 +0200" channel="La 2">
-    <title lang="es">TVE es música</title>
-    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
-    <category lang="es">Videoclips</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170625225500 +0200" stop="20170625015000 +0200" channel="La 2">
     <title lang="es">Cine: Versión española</title>
     <title lang="xx">Versión española</title>
@@ -9269,7 +9151,7 @@
   </programme>
   <programme start="20170625021500 +0200" stop="20170625031000 +0200" channel="La 2">
     <title lang="es">Documental: La música ha terminado</title>
-    <desc lang="es">Este documental de producción alemana y francesa hace un repaso por la relación entre la muerte y los artistas musicales: desde el rock psicodélico de los 60, el punk de los 70, el pesimismo de la dark wave de los 80 y hasta el gangsta rap de los 90. En 1970, el frenesí narcótico del rock psicodélico de los 60 produjo sus primeras víctimas famosas. Jimi Hendrix se ahogó con su propio vómito y Janis Joplin le siguió dos semanas después, al morir de una sobredosis de heroína. El club de los 27 acababa de inaugurarse. Diez meses después de Jimi Hendrix, Jim Morrison murió, también a los 27 años. En 1994, Kurt Cobain, moría con la misma edad, víctima de la heroína y la depresión. Y así, una y otra vez, músicos de todas las generaciones, como Amy Winehouse, se unen al tétrico club de los 27(c)</desc>
+    <desc lang="es">Este documental de producción alemana y francesa hace un repaso por la relación entre la muerte y los artistas musicales: desde el rock psicodélico de los 60, el punk de los 70, el pesimismo de la dark wave de los 80 y hasta el gangsta rap de los 90. En 1970, el frenesí narcótico del rock psicodélico de los 60 produjo sus primeras víctimas famosas. Jimi Hendrix se ahogó con su propio vómito y Janis Joplin le siguió dos semanas después, al morir de una sobredosis de heroína. El club de los 27 acababa de inaugurarse. Diez meses después de Jimi Hendrix, Jim Morrison murió, también a los 27 años. En 1994, Kurt Cobain, moría con la misma edad, víctima de la heroína y la depresión. Y así, una y otra vez, músicos de todas las generaciones, como Amy Winehouse, se unen al tétrico club de los 27(r)</desc>
     <credits>
       <director>Bruce Mohun</director>
     </credits>
@@ -9279,6 +9161,16 @@
     <country>Alemania</country>
     <rating system="ES">
       <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20170625043000 +0200" stop="20170625053000 +0200" channel="La 2">
+    <title lang="es">TVE es música</title>
+    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados(c)</desc>
+    <category lang="es">Videoclips</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
     </rating>
   </programme>
   <programme start="20170625225500 +0200" stop="20170625015000 +0200" channel="La 2">
@@ -10029,29 +9921,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20170623121000 +0200" stop="20170623145500 +0200" channel="Mega">
-    <title lang="es">Documental: Cazatesoros</title>
-    <title lang="xx">American Pickers</title>
-    <desc lang="es">En una tienda de antigüedades cerrada desde los años 70, Mike y Frank tienen que lidiar con unos dueños que regatean hasta el último dólar. Los chicos encuentran un histórico aeroplano con una asombrosa historia detrás</desc>
-    <date>2016</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1c/417308.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623145500 +0200" stop="20170623165000 +0200" channel="Mega">
-    <title lang="es">Mountain men</title>
-    <desc lang="es">¿Cómo sería vivir sin electricidad y apartado de las modernidades de la sociedad, utilizando solo la Naturaleza para abastecerse y sobrevivir? Eustace Conway, Tom Oar y Marty Meierotto nos lo descubren en este programa</desc>
-    <date>2012</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/a0/1293728.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
   <programme start="20170623165000 +0200" stop="20170623173500 +0200" channel="Mega">
     <title lang="es">Los restauradores</title>
     <desc lang="es">Rick Dale es el artista y dueño de una tienda de restauración de antigüedades en Las Vegas (EE.UU.). Junto con su personal y su hijo adolescente, Dale realiza obras de arte devolviendo todo tipo de objetos a su estado original. Un Cádillac, una máquina de Coca-Cola, un carro de golf de 1960, una bicicleta de la década de los cincuenta, una farola, un viejo tren de juguete y una máquina tragaperras son algunos de los objetos que Rick deberá restaurar</desc>
@@ -10105,30 +9974,6 @@
     <country>España</country>
     <rating system="ES">
       <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20170623110000 +0200" stop="20170623121500 +0200" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <title lang="xx">Storage Wars</title>
-    <desc lang="es">En las subastas de trasteros la gente puja por propiedades no reclamadas, con la esperanza de hacerse de oro</desc>
-    <date>2017</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/62/797282.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20170623121500 +0200" stop="20170623150000 +0200" channel="Mega">
-    <title lang="es">Documental: Cazatesoros</title>
-    <title lang="xx">American Pickers</title>
-    <desc lang="es">En una tienda de antigüedades cerrada desde los años 70, Mike y Frank tienen que lidiar con unos dueños que regatean hasta el último dólar. Los chicos encuentran un histórico aeroplano con una asombrosa historia detrás</desc>
-    <date>2016</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1c/417308.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20170623150000 +0200" stop="20170623165000 +0200" channel="Mega">
@@ -10271,10 +10116,34 @@
   <programme start="20170623093000 +0200" stop="20170623110000 +0200" channel="Mega">
     <title lang="es">Documental: El precio de la historia</title>
     <title lang="xx">Pawn Stars Bestf of</title>
-    <desc lang="es">Esta serie cuenta la historia y todo lo que rodea al negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico(c)</desc>
+    <desc lang="es">Esta serie cuenta la historia y todo lo que rodea al negocio de las casas de empeño. La actividad es una de las formas más antiguas de banca y, hasta los años cincuenta, la principal modalidad de préstamo personal en EE UU. Esta serie nos abre las puertas de la única casa familiar de empeños de Las Vegas, que regentan tres generaciones de la familia Harrison. Abuelo, padre e hijo entran en disparatados conflictos mientras llevan la gestión conjunta de la empresa. La familia Harrison ha vivido y sentido el negocio del empeño haciendo uso de una aguda visión a la hora de calcular el valor de cada uno de los objetos. Éstos van desde lo misterioso hasta los de indudable valor histórico</desc>
     <date>2015</date>
     <category lang="es">Otros</category>
     <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/58/462168.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623110000 +0200" stop="20170623121500 +0200" channel="Mega">
+    <title lang="es">¿Quién da más?</title>
+    <title lang="xx">Storage Wars</title>
+    <desc lang="es">En las subastas de trasteros la gente puja por propiedades no reclamadas, con la esperanza de hacerse de oro</desc>
+    <date>2017</date>
+    <category lang="es">Reality Show</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/62/797282.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20170623121500 +0200" stop="20170623150000 +0200" channel="Mega">
+    <title lang="es">Documental: Cazatesoros</title>
+    <title lang="xx">American Pickers</title>
+    <desc lang="es">En una tienda de antigüedades cerrada desde los años 70, Mike y Frank tienen que lidiar con unos dueños que regatean hasta el último dólar. Los chicos encuentran un histórico aeroplano con una asombrosa historia detrás(c)</desc>
+    <date>2016</date>
+    <category lang="es">Otros</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1c/417308.png" />
     <country>EE.UU.</country>
     <rating system="ES">
       <value>TP</value>
@@ -10472,7 +10341,7 @@
   <programme start="20170625024000 +0200" stop="20170625055500 +0200" channel="Mega">
     <title lang="es">Documental: Crímenes imperfectos</title>
     <title lang="xx">Forensic files</title>
-    <desc lang="es">Serie documental que recrea sucesos reales y las posteriores investigaciones para averiguar lo ocurrido(c)</desc>
+    <desc lang="es">Serie documental que recrea sucesos reales y las posteriores investigaciones para averiguar lo ocurrido(r)</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b8/13496.png" />
     <country>EE.UU.</country>
@@ -11529,15 +11398,586 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170623220000 +0000" stop="20170624060000 +0000" channel="Real Madrid TV">
+  <programme start="20170623023500 +0200" stop="20170623041500 +0200" channel="Real Madrid TV">
+    <title lang="es">Fútbol Liga 16/17. Real Madrid - Real Sociedad</title>
+    <desc lang="es">Sin descripción(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170623041500 +0200" stop="20170623043000 +0200" channel="Real Madrid TV">
+    <title lang="es">15 minutos</title>
+    <desc lang="es">Selección de los momentos más destacados de las distintas secciones del Real Madrid(n)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/35/1150005.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623043000 +0200" stop="20170623044500 +0200" channel="Real Madrid TV">
+    <title lang="es">15 minutos</title>
+    <desc lang="es">Selección de los momentos más destacados de las distintas secciones del Real Madrid(n)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/35/1150005.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623044500 +0200" stop="20170623070000 +0200" channel="Real Madrid TV">
+    <title lang="es">La Tertulia</title>
+    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia(n)</desc>
+    <date>2014</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7f/503167.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623070000 +0200" stop="20170623080000 +0200" channel="Real Madrid TV">
+    <title lang="es">90 Minuti</title>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(n)</desc>
+    <date>2016</date>
+    <category lang="es">Programas</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623080000 +0200" stop="20170623082500 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623082500 +0200" stop="20170623110000 +0200" channel="Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+    <desc lang="es">Programa dedicado al partido de la jornada(n)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623110000 +0200" stop="20170623111500 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623111500 +0200" stop="20170623120000 +0200" channel="Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+    <desc lang="es">Programa dedicado al partido de la jornada(n)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623120000 +0200" stop="20170623121000 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623121000 +0200" stop="20170623130000 +0200" channel="Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid(n)</desc>
+    <date>2016</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623130000 +0200" stop="20170623131000 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623131000 +0200" stop="20170623140000 +0200" channel="Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid(n)</desc>
+    <date>2016</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623140000 +0200" stop="20170623144000 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623144000 +0200" stop="20170623154000 +0200" channel="Real Madrid TV">
+    <title lang="es">90 Minuti</title>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(n)</desc>
+    <date>2016</date>
+    <category lang="es">Programas</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623154000 +0200" stop="20170623173000 +0200" channel="Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid(n)</desc>
+    <date>2016</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623173000 +0200" stop="20170623203000 +0200" channel="Real Madrid TV">
+    <title lang="es">La Tertulia</title>
+    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia(n)</desc>
+    <date>2014</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7f/503167.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623203000 +0200" stop="20170623212500 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623212500 +0200" stop="20170623233000 +0200" channel="Real Madrid TV">
+    <title lang="es">Cine: Me gustan los líos</title>
+    <title lang="xx">I Love Trouble</title>
+    <desc lang="es">Peter, un veterano reportero, y Sabrina, una periodista novata, tienen que cubrir un misterioso accidente ferroviario. Al sentirse atraídos el uno por el otro, deciden investigar juntos lo ocurrido(c)</desc>
+    <credits>
+      <director>Charles Shyer</director>
+      <actor>Nick Nolte</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Saul Rubinek</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Kelly Rutherford</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>Marsha Mason</actor>
+      <writer>Nancy Meyers</writer>
+      <writer>Charles Shyer</writer>
+      <producer>Nancy Meyers</producer>
+      <composer>David Newman</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/96/275606.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20170623233000 +0200" stop="20170623000000 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624000000 +0200" stop="20170624002500 +0200" channel="Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+    <desc lang="es">Historias con alma(c)</desc>
+    <date>2016</date>
+    <category lang="es">Juegos Olímpicos</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624002500 +0200" stop="20170624013000 +0200" channel="Real Madrid TV">
+    <title lang="es">Los grandes documentales del deporte</title>
+    <sub-title lang="es">El precio del oro</sub-title>
+    <desc lang="es">Sin descripción(c)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170624013000 +0200" stop="20170624044500 +0200" channel="Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+    <desc lang="es">Programa dedicado al partido de la jornada(c)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624044500 +0200" stop="20170624070500 +0200" channel="Real Madrid TV">
+    <title lang="es">La Tertulia</title>
+    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia(c)</desc>
+    <date>2014</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7f/503167.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624070500 +0200" stop="20170624080000 +0200" channel="Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+    <desc lang="es">Historias con alma(c)</desc>
+    <date>2016</date>
+    <category lang="es">Juegos Olímpicos</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624080000 +0200" stop="20170624083000 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(c)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624083000 +0200" stop="20170624093000 +0200" channel="Real Madrid TV">
+    <title lang="es">90 Minuti</title>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(c)</desc>
+    <date>2016</date>
+    <category lang="es">Programas</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624093000 +0200" stop="20170624100000 +0200" channel="Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+    <desc lang="es">Historias con alma(c)</desc>
+    <date>2016</date>
+    <category lang="es">Juegos Olímpicos</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624100000 +0200" stop="20170624140000 +0200" channel="Real Madrid TV">
+    <title lang="es">Ciudad Real Madrid</title>
+    <desc lang="es">Espacio deportivo que cubre la actualidad del centro deportivo del Real Madrid. Desde ruedas de prensa a retransmisiones de partidos de las categorías inferiores(c)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624140000 +0200" stop="20170624144000 +0200" channel="Real Madrid TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(c)</desc>
+    <date>2015</date>
+    <category lang="es">Noticias</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624144000 +0200" stop="20170624153000 +0200" channel="Real Madrid TV">
+    <title lang="es">Madridistas por el mundo</title>
+    <desc lang="es">Programa que sigue a los madridistas por el mundo(c)</desc>
+    <date>2017</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624153000 +0200" stop="20170624183000 +0200" channel="Real Madrid TV">
+    <title lang="es">Cine: El hombre que susurraba a los caballos</title>
+    <title lang="xx">The Horse Whisperer</title>
+    <desc lang="es">Es una noche fría de invierno. Grace y su mejor amiga Judith van a cabalgar un rato con sus caballos, pero un terrible accidente cambiaría sus vidas para siempre. Un camión se lleva por delante a Judith y a su caballo, matándolas. Por su parte Grace y su caballo Pilgrim acaban seriamente heridos, tanto física como mentalmente. En un intento de devolver a Grace la alegría de vivir y de conseguir que Pilgrim deje de comportarse como un caballo salvaje, se los llevará a Montana en busca de Tom Booker. Tom es un 'susurrante de caballos', un cowboy con la habilidad de comunicarse con los caballos. La forma de comportarse de Tom cambiará la vida de las dos mujeres y de Pilgrim para siempre, ayudándolas a entenderse mejor con sus propios sentimientos y con sus caballos. 'El susurrante de caballos' es sencillamente una práctica malinterpretada. Los nativos americanos solían tomar a un caballo sentándose sobre ellos de un salto y mordiendo sus orejas. El dolor hacía que el caballo se calmase y se quedase quieto inmediatamente. Cuando los colonizadores lo vieron interpretaron que el hombre le susurraba al caballo para tranquilizarlo(c)</desc>
+    <credits>
+      <director>Robert Redford</director>
+      <actor>Robert Redford</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Sam Neill</actor>
+      <actor>Dianne Wiest</actor>
+      <actor>Chris Cooper</actor>
+      <actor>Cherry Jones</actor>
+      <actor>Ty Hillman</actor>
+      <actor>Catherine Bosworth</actor>
+      <actor>Robert Reford</actor>
+      <actor>Christin Scott Thomas</actor>
+      <writer>Eric Roth</writer>
+      <writer>Richard LaGravenese</writer>
+      <producer>Patrick Markey</producer>
+      <producer>Robert Redford</producer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Drama</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/d0/13008.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624183000 +0200" stop="20170624220000 +0200" channel="Real Madrid TV">
+    <title lang="es">Ciudad Real Madrid</title>
+    <desc lang="es">Espacio deportivo que cubre la actualidad del centro deportivo del Real Madrid. Desde ruedas de prensa a retransmisiones de partidos de las categorías inferiores(c)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170624220000 +0200" stop="20170624220000 +0200" channel="Real Madrid TV">
     <title lang="en">Programación de Real Madrid TV</title>
     <desc lang="en">Programación de Real Madrid TV</desc>
     <category lang="en">Otro</category>
   </programme>
-  <programme start="20170624060000 +0000" stop="20170624220000 +0000" channel="Real Madrid TV">
+  <programme start="20170624220000 +0200" stop="20170624220000 +0200" channel="Real Madrid TV">
     <title lang="en">Programación de Real Madrid TV</title>
     <desc lang="en">Programación de Real Madrid TV</desc>
     <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170624220000 +0200" stop="20170624220000 +0200" channel="Real Madrid TV">
+    <title lang="en">Programación de Real Madrid TV</title>
+    <desc lang="en">Programación de Real Madrid TV</desc>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170624220000 +0200" stop="20170624220000 +0200" channel="Real Madrid TV">
+    <title lang="en">Programación de Real Madrid TV</title>
+    <desc lang="en">Programación de Real Madrid TV</desc>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170624220000 +0200" stop="20170624220000 +0200" channel="Real Madrid TV">
+    <title lang="en">Programación de Real Madrid TV</title>
+    <desc lang="en">Programación de Real Madrid TV</desc>
+    <category lang="en">Otro</category>
+  </programme>
+  <programme start="20170624220000 +0200" stop="20170624234500 +0200" channel="Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+    <sub-title lang="es">La Séptima. R.Madrid-Juventus</sub-title>
+    <desc lang="es">Sin descripción(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170624234500 +0200" stop="20170624013000 +0200" channel="Real Madrid TV">
+    <title lang="es">Fútbol. Copa del Rey Juvenil</title>
+    <sub-title lang="es">Villarreal-RM Juvenil A</sub-title>
+    <desc lang="es">Semifinal(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625013000 +0200" stop="20170625055500 +0200" channel="Real Madrid TV">
+    <title lang="es">Hoy Jugamos</title>
+    <desc lang="es">Programa dedicado al partido de la jornada(n)</desc>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170625055500 +0200" stop="20170625064500 +0200" channel="Real Madrid TV">
+    <title lang="es">Historias con alma</title>
+    <desc lang="es">Historias con alma(n)</desc>
+    <date>2016</date>
+    <category lang="es">Juegos Olímpicos</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170625064500 +0200" stop="20170625080000 +0200" channel="Real Madrid TV">
+    <title lang="es">90 Minuti</title>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(n)</desc>
+    <date>2016</date>
+    <category lang="es">Programas</category>
+    <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170625080000 +0200" stop="20170625100000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625100000 +0200" stop="20170625120000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625120000 +0200" stop="20170625140000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625140000 +0200" stop="20170625160000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625160000 +0200" stop="20170625180000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625180000 +0200" stop="20170625200000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625200000 +0200" stop="20170625220000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170625220000 +0200" stop="20170625000000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626000000 +0200" stop="20170626020000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626020000 +0200" stop="20170626040000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626040000 +0200" stop="20170626060000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626060000 +0200" stop="20170626080000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626080000 +0200" stop="20170626100000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626100000 +0200" stop="20170626120000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626120000 +0200" stop="20170626140000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626140000 +0200" stop="20170626160000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626160000 +0200" stop="20170626180000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626180000 +0200" stop="20170626200000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626200000 +0200" stop="20170626220000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
+  </programme>
+  <programme start="20170626220000 +0200" stop="20170626000000 +0200" channel="Real Madrid TV">
+    <title lang="es">real madrid tv</title>
+    <desc lang="es">·martes(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170623004500 +0000" stop="20170623010000 +0000" channel="Telecinco">
     <title lang="en">La tienda en casa</title>
@@ -13711,7 +14151,7 @@
     <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
   <programme start="20170623170000 +0000" stop="20170623190000 +0000" channel="CAPITAL TV">
-    <title lang="en">Summertime Ball Highlights</title>
+    <title lang="en">Summertime Ball 2017 Highlights</title>
     <desc lang="en">Join us as we look back at the highlights of this year's Summertime Ball featuring Bruno Mars, Little Mix, Liam Payne and many more</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
@@ -13766,9 +14206,16 @@
     <category lang="en">Rock &amp; Pop</category>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXkatshoob.jpg" />
   </programme>
-  <programme start="20170624100000 +0000" stop="20170624103000 +0000" channel="CAPITAL TV">
+  <programme start="20170624100000 +0000" stop="20170624101500 +0000" channel="CAPITAL TV">
     <title lang="en">Shawn Mendes: New Video!</title>
     <desc lang="en">Check out the new video from Shawn Mendes for There's Nothing Holdin' Me Back right now</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170624101500 +0000" stop="20170624103000 +0000" channel="CAPITAL TV">
+    <title lang="en">Shawn Mendes: All the Hits</title>
+    <desc lang="en">We can't get enough of Shawn Mendes here on Capital! Join us as we play his best hits to date</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
     <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
@@ -13837,7 +14284,7 @@
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXthisweekshotep.jpg" />
   </programme>
   <programme start="20170624190000 +0000" stop="20170624210000 +0000" channel="CAPITAL TV">
-    <title lang="en">Summertime Ball Highlights</title>
+    <title lang="en">Summertime Ball 2017 Highlights</title>
     <desc lang="en">Join us as we look back at the highlights of this year's Summertime Ball featuring Bruno Mars, Little Mix, Liam Payne and many more</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
@@ -13913,9 +14360,16 @@
     <category lang="en">Rock &amp; Pop</category>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXthisweekshotep.jpg" />
   </programme>
-  <programme start="20170625130000 +0000" stop="20170625133000 +0000" channel="CAPITAL TV">
+  <programme start="20170625130000 +0000" stop="20170625131500 +0000" channel="CAPITAL TV">
     <title lang="en">Shawn Mendes: New Video!</title>
     <desc lang="en">Check out the new video from Shawn Mendes for There's Nothing Holdin' Me Back right now</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170625131500 +0000" stop="20170625133000 +0000" channel="CAPITAL TV">
+    <title lang="en">Shawn Mendes: All the Hits</title>
+    <desc lang="en">We can't get enough of Shawn Mendes here on Capital! Join us as we play his best hits to date</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
     <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
@@ -13970,7 +14424,7 @@
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcapcraig.jpg" />
   </programme>
   <programme start="20170625180000 +0000" stop="20170625200000 +0000" channel="CAPITAL TV">
-    <title lang="en">Summertime Ball Highlights</title>
+    <title lang="en">Summertime Ball 2017 Highlights</title>
     <desc lang="en">Join us as we look back at the highlights of this year's Summertime Ball featuring Bruno Mars, Little Mix, Liam Payne and many more</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
@@ -14019,32 +14473,60 @@
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcaptimber.jpg" />
   </programme>
   <programme start="20170626050000 +0000" stop="20170626070000 +0000" channel="CAPITAL TV">
-    <title lang="en">Hot Summer Hits For Breakfast</title>
-    <desc lang="en">The hottest tunes as you get stuck into your cornflakes! We guarantee every one of them is a banger</desc>
+    <title lang="en">Just Hits For Breakfast!</title>
+    <desc lang="en">The hottest tunes to wake up to! Morning</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcapweeknd.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
   <programme start="20170626070000 +0000" stop="20170626080000 +0000" channel="CAPITAL TV">
-    <title lang="en">The Crunch</title>
-    <desc lang="en">The Crunch is the home for all your social media and entertainment news! Join Capital's Roman Kemp as he counts down the biggest moments from this week</desc>
+    <title lang="en">Monday's Hotlist!</title>
+    <desc lang="en">Keep it Capital this Monday for the biggest &amp; freshest tunes in pop</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXkatshoob.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
   <programme start="20170626080000 +0000" stop="20170626090000 +0000" channel="CAPITAL TV">
-    <title lang="en">#CapitalThrowback</title>
-    <desc lang="en">We're throwing it back to those massive hits you made famous</desc>
+    <title lang="en">Today's Fresh Hit 15</title>
+    <desc lang="en">Capital is bringing you 15 of the freshest music videos out right now</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXdrakehits5.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
-  <programme start="20170626090000 +0000" stop="20170626120000 +0000" channel="CAPITAL TV">
-    <title lang="en">The Big Top 40</title>
-    <desc lang="en">The Big Top 40 is radio's most listened to countdown...and you can watch it on here too! Who have you made number 1</desc>
+  <programme start="20170626090000 +0000" stop="20170626093000 +0000" channel="CAPITAL TV">
+    <title lang="en">Bieber's Hot 5!</title>
+    <desc lang="en">Tune in for 5 of the hottest tracks from Justin Bieber</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXtwentyonepilots40.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170626093000 +0000" stop="20170626100000 +0000" channel="CAPITAL TV">
+    <title lang="en">Monday's Hotlist!</title>
+    <desc lang="en">Keep it Capital this Monday for the biggest &amp; freshest tunes in pop</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170626100000 +0000" stop="20170626101500 +0000" channel="CAPITAL TV">
+    <title lang="en">Shawn Mendes: Hot 3!</title>
+    <desc lang="en">Tune in for 3 of the hottest tracks from Shawn Mendes</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170626101500 +0000" stop="20170626110000 +0000" channel="CAPITAL TV">
+    <title lang="en">Monday's Hotlist!</title>
+    <desc lang="en">Keep it Capital this Monday for the biggest &amp; freshest tunes in pop</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170626110000 +0000" stop="20170626120000 +0000" channel="CAPITAL TV">
+    <title lang="en">Today's Fresh Hit 15</title>
+    <desc lang="en">Capital is bringing you 15 of the freshest music videos out right now</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
   <programme start="20170626120000 +0000" stop="20170626130000 +0000" channel="CAPITAL TV">
     <title lang="en">#iWANT: Hottest Hits!</title>
@@ -14053,58 +14535,79 @@
     <category lang="en">Rock &amp; Pop</category>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcapttwitter.jpg" />
   </programme>
-  <programme start="20170626130000 +0000" stop="20170626140000 +0000" channel="CAPITAL TV">
-    <title lang="en">#CapitalThrowback</title>
-    <desc lang="en">We're throwing it back to those massive hits you made famous</desc>
+  <programme start="20170626130000 +0000" stop="20170626131500 +0000" channel="CAPITAL TV">
+    <title lang="en">Dua Lipa: Hot 3!</title>
+    <desc lang="en">Tune in for 3 of the hottest tracks from Dua Lipa</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXdrakehits5.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
-  <programme start="20170626140000 +0000" stop="20170626150000 +0000" channel="CAPITAL TV">
-    <title lang="en">All Hits All The Time!</title>
-    <desc lang="en">We couldn't play more hit music if we tried! The biggest tunes around right now back to back</desc>
+  <programme start="20170626131500 +0000" stop="20170626140000 +0000" channel="CAPITAL TV">
+    <title lang="en">Monday's Hotlist!</title>
+    <desc lang="en">Keep it Capital this Monday for the biggest &amp; freshest tunes in pop</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcaptimber.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
-  <programme start="20170626150000 +0000" stop="20170626170000 +0000" channel="CAPITAL TV">
+  <programme start="20170626140000 +0000" stop="20170626160000 +0000" channel="CAPITAL TV">
     <title lang="en">#iWANT: Hottest Hits!</title>
     <desc lang="en">You're in charge of the playlist! Tweet the hashtag of the video you want to see next. The hashtag with the most votes wins</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcapttwitter.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
-  <programme start="20170626170000 +0000" stop="20170626180000 +0000" channel="CAPITAL TV">
-    <title lang="en">Capital Super Hits</title>
-    <desc lang="en">The UK's Number 1 Hit Music! These are Capital's Super Hits</desc>
+  <programme start="20170626160000 +0000" stop="20170626180000 +0000" channel="CAPITAL TV">
+    <title lang="en">The Big Top 40</title>
+    <desc lang="en">The Big Top 40 is radio's most listened to countdown...and you can watch it on here too! Who have you made number 1</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcapbeyonce.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
   <programme start="20170626180000 +0000" stop="20170626183000 +0000" channel="CAPITAL TV">
-    <title lang="en">7 at 7</title>
-    <desc lang="en">Today's 7 hottest and freshest tunes. Who'll be number 1</desc>
+    <title lang="en">Bieber's Hot 5!</title>
+    <desc lang="en">Tune in for 5 of the hottest tracks from Justin Bieber</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcapjlo.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
-  <programme start="20170626183000 +0000" stop="20170626200000 +0000" channel="CAPITAL TV">
-    <title lang="en">Today's Hot Ones Countdown</title>
-    <desc lang="en">We've got the hottest videos right now back to back! Who'll be number 1 on The Hot Ones Countdown today</desc>
+  <programme start="20170626183000 +0000" stop="20170626190000 +0000" channel="CAPITAL TV">
+    <title lang="en">Monday's Hotlist!</title>
+    <desc lang="en">Keep it Capital this Monday for the biggest &amp; freshest tunes in pop</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcapadele.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
-  <programme start="20170626200000 +0000" stop="20170626230000 +0000" channel="CAPITAL TV">
-    <title lang="en">All Hits All The Time!</title>
-    <desc lang="en">We couldn't play more hit music if we tried! The biggest tunes around right now back to back</desc>
+  <programme start="20170626190000 +0000" stop="20170626200000 +0000" channel="CAPITAL TV">
+    <title lang="en">Today's Fresh Hit 15</title>
+    <desc lang="en">Capital is bringing you 15 of the freshest music videos out right now</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcaptimber.jpg" />
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
   </programme>
-  <programme start="20170626230000 +0000" stop="20170627020000 +0000" channel="CAPITAL TV">
-    <title lang="en">Capital's 110% Hits</title>
-    <desc lang="en">We couldn't play more hit music if we tried! The biggest tunes around right now back to back</desc>
+  <programme start="20170626200000 +0000" stop="20170626210000 +0000" channel="CAPITAL TV">
+    <title lang="en">Monday's Hotlist!</title>
+    <desc lang="en">Keep it Capital this Monday for the biggest &amp; freshest tunes in pop</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170626210000 +0000" stop="20170626220000 +0000" channel="CAPITAL TV">
+    <title lang="en">Big Top 40: Hottest</title>
+    <desc lang="en">Check out the songs you've been downloading this week! We also look ahead to some of the freshest tracks which aren't out yet</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170626220000 +0000" stop="20170626230000 +0000" channel="CAPITAL TV">
+    <title lang="en">Monday's Hotlist!</title>
+    <desc lang="en">Keep it Capital this Monday for the biggest &amp; freshest tunes in pop</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <icon src="http://tv.sky.com/logoWithBackground/73/skycha2552.png" />
+  </programme>
+  <programme start="20170626230000 +0000" stop="20170627010000 +0000" channel="CAPITAL TV">
+    <title lang="en">Capital's Hottest Hits!</title>
+    <desc lang="en">Capital TV brings you the knockout tunes of 2017</desc>
     <category lang="en">Music &amp; Radio</category>
     <category lang="en">Rock &amp; Pop</category>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/18/0/webANXcaprih.jpg" />
@@ -23603,7 +24106,8 @@
     <desc lang="en">"Anime Supernova" presents the short works of some of today's most imaginative Japanese animators. Each episode features a brief introduction of the animator's production methods and influences</desc>
   </programme>
   <programme start="20170624231000 +0000" stop="20170625001000 +0000" channel="NHK World (English)">
-    <title lang="en">Satoyama Cafe (?)</title>
+    <title lang="en">Satoyama Cafe</title>
+    <desc lang="en">This program takes food connoisseurs on a gastronomic journey that is truly Japanese. It offers keen insight on local delights and visits places known as Satoyama cafes, which coexist with nature</desc>
   </programme>
   <programme start="20170625001000 +0000" stop="20170625004000 +0000" channel="NHK World (English)">
     <title lang="en">Hometown Stories</title>
@@ -23641,7 +24145,8 @@
     <category lang="en">Travel</category>
   </programme>
   <programme start="20170625051000 +0000" stop="20170625061000 +0000" channel="NHK World (English)">
-    <title lang="en">Satoyama Cafe (?)</title>
+    <title lang="en">Satoyama Cafe</title>
+    <desc lang="en">This program takes food connoisseurs on a gastronomic journey that is truly Japanese. It offers keen insight on local delights and visits places known as Satoyama cafes, which coexist with nature</desc>
   </programme>
   <programme start="20170625061000 +0000" stop="20170625064000 +0000" channel="NHK World (English)">
     <title lang="en">Hometown Stories</title>
@@ -23674,7 +24179,8 @@
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20170625101000 +0000" stop="20170625111000 +0000" channel="NHK World (English)">
-    <title lang="en">Satoyama Cafe (?)</title>
+    <title lang="en">Satoyama Cafe</title>
+    <desc lang="en">This program takes food connoisseurs on a gastronomic journey that is truly Japanese. It offers keen insight on local delights and visits places known as Satoyama cafes, which coexist with nature</desc>
   </programme>
   <programme start="20170625111000 +0000" stop="20170625112500 +0000" channel="NHK World (English)">
     <title lang="en">Direct Talk</title>
@@ -23724,7 +24230,8 @@
     <category lang="en">Other</category>
   </programme>
   <programme start="20170625171000 +0000" stop="20170625181000 +0000" channel="NHK World (English)">
-    <title lang="en">Satoyama Cafe (?)</title>
+    <title lang="en">Satoyama Cafe</title>
+    <desc lang="en">This program takes food connoisseurs on a gastronomic journey that is truly Japanese. It offers keen insight on local delights and visits places known as Satoyama cafes, which coexist with nature</desc>
   </programme>
   <programme start="20170625181000 +0000" stop="20170625184000 +0000" channel="NHK World (English)">
     <title lang="en">Hometown Stories</title>
