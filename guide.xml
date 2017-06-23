@@ -75,10 +75,6 @@
     <display-name lang="en">Neox [HD]</display-name>
     <url>http://www.yo.tv</url>
   </channel>
-  <channel id="Nova">
-    <display-name lang="en">Nova [HD]</display-name>
-    <url>http://www.yo.tv</url>
-  </channel>
   <channel id="Real Madrid TV">
     <display-name lang="es">Real Madrid TV</display-name>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/canales/98/1176984.png" />
@@ -7151,32 +7147,6 @@
     <category lang="es">Cine</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/c3/359363.png" />
   </programme>
-  <programme start="20170623221000 +0200" stop="20170623001500 +0200" channel="La 1">
-    <title lang="es">Cine: The Holiday (Vacaciones)</title>
-    <title lang="xx">The Holiday</title>
-    <desc lang="es">Amanda es la propietaria de una agencia de publicidad dedicada a la creación de trailers para películas, vive en una lujosa casa del sur de California. Iris es redactora de una columna sobre bodas en un periódico londinense y vive una encantadora casa de la campiña inglesa. A pesar de no conocerse y de los kilómetros que las separan, ambas están en la misma situación: necesitan olvidarse de sus vidas durante las vacaciones navideñas. El azar hace que visiten una página web especializada en el intercambio de casas, así que convencidas de que es justo lo que necesitan deciden prestarse sus casas durante dos semanas. Así Iris disfrutará del sol en Los Ángeles y Amanda disfrutará de la soledad rodeada de nieve</desc>
-    <credits>
-      <director>Nancy Meyers</director>
-      <actor>Cameron Diaz</actor>
-      <actor>Kate Winslet</actor>
-      <actor>Jude Law</actor>
-      <actor>Jack Black</actor>
-      <actor>Eli Wallach</actor>
-      <actor>Rufus Sewell</actor>
-      <actor>Edward Burns</actor>
-      <actor>John Krasinski</actor>
-      <writer>Nancy Meyers</writer>
-      <producer>Bruce A. Block</producer>
-      <producer>Nancy Meyers</producer>
-    </credits>
-    <date>2006</date>
-    <category lang="es">Romántica</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/2e/9518.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170623030000 +0200" stop="20170623045000 +0200" channel="La 1">
     <title lang="es">La noche en 24h</title>
     <desc lang="es">Informativo que incluye conexiones en directo desde los puntos protagonistas de la actualidad, entrevistas, análisis de la información y una tertulia de opinión para ayudar a comprender los hechos(r)</desc>
@@ -7227,7 +7197,7 @@
   <programme start="20170623185000 +0200" stop="20170623192500 +0200" channel="La 1">
     <title lang="es">Documental: Centro médico</title>
     <title lang="xx">Centro médico</title>
-    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores(r)</desc>
+    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores</desc>
     <credits>
       <actor>Marina Lozano</actor>
       <actor>Fran Martínez</actor>
@@ -7244,6 +7214,32 @@
     <episode-num system="onscreen">E623</episode-num>
     <rating system="ES">
       <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20170623221000 +0200" stop="20170623001500 +0200" channel="La 1">
+    <title lang="es">Cine: The Holiday (Vacaciones)</title>
+    <title lang="xx">The Holiday</title>
+    <desc lang="es">Amanda es la propietaria de una agencia de publicidad dedicada a la creación de trailers para películas, vive en una lujosa casa del sur de California. Iris es redactora de una columna sobre bodas en un periódico londinense y vive una encantadora casa de la campiña inglesa. A pesar de no conocerse y de los kilómetros que las separan, ambas están en la misma situación: necesitan olvidarse de sus vidas durante las vacaciones navideñas. El azar hace que visiten una página web especializada en el intercambio de casas, así que convencidas de que es justo lo que necesitan deciden prestarse sus casas durante dos semanas. Así Iris disfrutará del sol en Los Ángeles y Amanda disfrutará de la soledad rodeada de nieve(r)</desc>
+    <credits>
+      <director>Nancy Meyers</director>
+      <actor>Cameron Diaz</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Jude Law</actor>
+      <actor>Jack Black</actor>
+      <actor>Eli Wallach</actor>
+      <actor>Rufus Sewell</actor>
+      <actor>Edward Burns</actor>
+      <actor>John Krasinski</actor>
+      <writer>Nancy Meyers</writer>
+      <producer>Bruce A. Block</producer>
+      <producer>Nancy Meyers</producer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Romántica</category>
+    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/2e/9518.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>TP</value>
     </rating>
   </programme>
   <programme start="20170624001500 +0200" stop="20170624020500 +0200" channel="La 1">
@@ -8255,17 +8251,6 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20170623191000 +0200" stop="20170623200000 +0200" channel="La 2">
-    <title lang="es">Me voy a comer el mundo</title>
-    <desc lang="es">Viajes gastronómicos donde conoceremos a fondo la cocina de 22 grandes ciudades de todo el mundo</desc>
-    <date>2016</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/0f/1174031.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170623200000 +0200" stop="20170623210000 +0200" channel="La 2">
     <title lang="es">Tips</title>
     <desc lang="es">Programa magazine presentado por Ruth Jiménez y Txabi Franquesa que ofrece las últimas tendencias y los nuevos proyectos en campos como la tecnología, la gastronomía, el coaching, las redes sociales, el reciclaje o el consumo. También echa un vistazo a la realidad social que nos rodea con entrevistas y reportajes. El programa cuenta con varios colaboradores y secciones fijas: Aitor Sánchez desmentirá los mitos alimentarios que hay en la televisión; Bibiana Guzmán demostrará que la artesanía está al alcance de la mano de cualquiera; Marc Vidal explicará la economía del futuro, la economía que viene y que está cambiando nuestra realidad, de manera sencilla; Guille Milkyway romperá con el cliché de que la música buena es la que se vivió hace años y descubrirá la buena música que se hace actualmente; Toni Burón descubrirá jóvenes talentos, ejemplos de vida; y Iosu López enseñará a viajar de otra manera, entre otros colaboradores. Además, el cocinero de TVE, Sergio Fernández, ofrecerá una receta distinta cada día e intentará que Ruth y Txabi aprendan a cocinar</desc>
@@ -8287,21 +8272,6 @@
     <date>2017</date>
     <category lang="es">Otros</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/6c/859756.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623185000 +0200" stop="20170623192000 +0200" channel="La 2">
-    <title lang="es">El escarabajo verde</title>
-    <desc lang="es">El medio ambiente es el elemento protagonista de este espacio que pretende divulgar conocimientos sobre ecología y divulgar información acerca de la naturaleza</desc>
-    <credits>
-      <director>Mario de la Mano</director>
-      <actor>Eduardo Laplaza</actor>
-    </credits>
-    <date>1997</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/6e/13422.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -8424,7 +8394,7 @@
   <programme start="20170623110500 +0200" stop="20170623115000 +0200" channel="La 2">
     <title lang="es">Army Wives</title>
     <sub-title lang="es">Strangers in a Strange Land</sub-title>
-    <desc lang="es">Denise Sherwood es una perfecta ama de casa que cuida con esmero de su hijo adolescente y de su marido, pero que esconde un gran secreto. Claudia Joy Holden es la esposa del coronel Michael Holden, es el modelo que todas las esposas siguen y respetan. Otro personaje importante en la serie es Pamela Moran, una mujer que ha sido policía pero que actualmente ha de mantener a flote a su familia en una difícil situación económica, además de tratar de ocultar su precaria situación a sus vecinos. Para ello, se convertirá en madre de alquiler. Y por último, Roxy LeBlanc, una mujer que decide casarse con el joven soldado Trevor LeBlanc y que ve como su vida cambia radicalmente de la noche a la mañana. Al mudarse a la exclusiva comunidad, verá como no todas las demás mujeres le apoyan cuando saben que tiene dos hijos que no son de Trevor y cuando empieza a trabajar en un bar cercano para sacar algo más de dinero. A todas ellas, se les une también Roland Burton el único hombre que vive en la base militar junto con su mujer, la soldado Joan Barton. Roland se unirá a este club de mujeres y compartirá con ellas sus problemas con su mujer(r)</desc>
+    <desc lang="es">Denise Sherwood es una perfecta ama de casa que cuida con esmero de su hijo adolescente y de su marido, pero que esconde un gran secreto. Claudia Joy Holden es la esposa del coronel Michael Holden, es el modelo que todas las esposas siguen y respetan. Otro personaje importante en la serie es Pamela Moran, una mujer que ha sido policía pero que actualmente ha de mantener a flote a su familia en una difícil situación económica, además de tratar de ocultar su precaria situación a sus vecinos. Para ello, se convertirá en madre de alquiler. Y por último, Roxy LeBlanc, una mujer que decide casarse con el joven soldado Trevor LeBlanc y que ve como su vida cambia radicalmente de la noche a la mañana. Al mudarse a la exclusiva comunidad, verá como no todas las demás mujeres le apoyan cuando saben que tiene dos hijos que no son de Trevor y cuando empieza a trabajar en un bar cercano para sacar algo más de dinero. A todas ellas, se les une también Roland Burton el único hombre que vive en la base militar junto con su mujer, la soldado Joan Barton. Roland se unirá a este club de mujeres y compartirá con ellas sus problemas con su mujer</desc>
     <credits>
       <actor>Brian McNamara</actor>
       <actor>Catherine Bell</actor>
@@ -8507,6 +8477,21 @@
     <category lang="es">Viajes</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/20/328480.png" />
     <country>Japón</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623185000 +0200" stop="20170623192000 +0200" channel="La 2">
+    <title lang="es">El escarabajo verde</title>
+    <sub-title lang="es">La mar de polímeros</sub-title>
+    <desc lang="es">El medio ambiente es el elemento protagonista de este espacio que pretende divulgar conocimientos sobre ecología y divulgar información acerca de la naturaleza(c)</desc>
+    <credits>
+      <director>Mario de la Mano</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/6e/13422.png" />
+    <country>España</country>
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -9126,11 +9111,13 @@
     <desc lang="es">Emisión de un documental</desc>
     <category lang="es">Otros</category>
   </programme>
-  <programme start="20170625043000 +0200" stop="20170625053000 +0200" channel="La 2">
-    <title lang="es">TVE es música</title>
-    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
-    <category lang="es">Videoclips</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
+  <programme start="20170625031000 +0200" stop="20170625043000 +0200" channel="La 2">
+    <title lang="es">Guggenheim</title>
+    <title lang="xx">La sala: Guggenheim</title>
+    <desc lang="es">El museo Guggenheim de Bilbao es uno de los referentes de la cultura en España y en el mundo. Este programa hace un repaso de las diferentes exposiciones que tienen lugar en sus salas</desc>
+    <date>2011</date>
+    <category lang="es">Otros</category>
+    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/e2/369634.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -9162,13 +9149,11 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20170625031000 +0200" stop="20170625043000 +0200" channel="La 2">
-    <title lang="es">Guggenheim</title>
-    <title lang="xx">La sala: Guggenheim</title>
-    <desc lang="es">El museo Guggenheim de Bilbao es uno de los referentes de la cultura en España y en el mundo. Este programa hace un repaso de las diferentes exposiciones que tienen lugar en sus salas(r)</desc>
-    <date>2011</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/e2/369634.png" />
+  <programme start="20170625043000 +0200" stop="20170625053000 +0200" channel="La 2">
+    <title lang="es">TVE es música</title>
+    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados(r)</desc>
+    <category lang="es">Videoclips</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -9922,28 +9907,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20170623165000 +0200" stop="20170623173500 +0200" channel="Mega">
-    <title lang="es">Los restauradores</title>
-    <desc lang="es">Rick Dale es el artista y dueño de una tienda de restauración de antigüedades en Las Vegas (EE.UU.). Junto con su personal y su hijo adolescente, Dale realiza obras de arte devolviendo todo tipo de objetos a su estado original. Un Cádillac, una máquina de Coca-Cola, un carro de golf de 1960, una bicicleta de la década de los cincuenta, una farola, un viejo tren de juguete y una máquina tragaperras son algunos de los objetos que Rick deberá restaurar</desc>
-    <category lang="es">Reality Show</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/19/397081.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20170623173500 +0200" stop="20170623191000 +0200" channel="Mega">
-    <title lang="es">Documental: El precio de la historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Es hora de bailar un rocanrol cuando les llega a los Harrison un contrato firmado por Elvis Presley antes de ser famoso. T9E175</desc>
-    <date>2011</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/58/462168.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170623191000 +0200" stop="20170623205500 +0200" channel="Mega">
     <title lang="es">¿Quién da más?</title>
     <title lang="xx">Storage Wars</title>
@@ -9975,16 +9938,6 @@
     <country>España</country>
     <rating system="ES">
       <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20170623165000 +0200" stop="20170623174000 +0200" channel="Mega">
-    <title lang="es">Los restauradores</title>
-    <desc lang="es">Rick Dale es el artista y dueño de una tienda de restauración de antigüedades en Las Vegas (EE.UU.). Junto con su personal y su hijo adolescente, Dale realiza obras de arte devolviendo todo tipo de objetos a su estado original. Un Cádillac, una máquina de Coca-Cola, un carro de golf de 1960, una bicicleta de la década de los cincuenta, una farola, un viejo tren de juguete y una máquina tragaperras son algunos de los objetos que Rick deberá restaurar</desc>
-    <category lang="es">Reality Show</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/19/397081.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20170623174000 +0200" stop="20170623191000 +0200" channel="Mega">
@@ -10141,13 +10094,23 @@
   </programme>
   <programme start="20170623150000 +0200" stop="20170623165000 +0200" channel="Mega">
     <title lang="es">Mountain men</title>
-    <desc lang="es">¿Cómo sería vivir sin electricidad y apartado de las modernidades de la sociedad, utilizando solo la Naturaleza para abastecerse y sobrevivir? Eustace Conway, Tom Oar y Marty Meierotto nos lo descubren en este programa(r)</desc>
+    <desc lang="es">¿Cómo sería vivir sin electricidad y apartado de las modernidades de la sociedad, utilizando solo la Naturaleza para abastecerse y sobrevivir? Eustace Conway, Tom Oar y Marty Meierotto nos lo descubren en este programa</desc>
     <date>2012</date>
     <category lang="es">Reality Show</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/a0/1293728.png" />
     <country>EE.UU.</country>
     <rating system="ES">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20170623165000 +0200" stop="20170623174000 +0200" channel="Mega">
+    <title lang="es">Los restauradores</title>
+    <desc lang="es">Rick Dale es el artista y dueño de una tienda de restauración de antigüedades en Las Vegas (EE.UU.). Junto con su personal y su hijo adolescente, Dale realiza obras de arte devolviendo todo tipo de objetos a su estado original. Un Cádillac, una máquina de Coca-Cola, un carro de golf de 1960, una bicicleta de la década de los cincuenta, una farola, un viejo tren de juguete y una máquina tragaperras son algunos de los objetos que Rick deberá restaurar(c)</desc>
+    <category lang="es">Reality Show</category>
+    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/19/397081.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>TP</value>
     </rating>
   </programme>
   <programme start="20170624030000 +0200" stop="20170624034500 +0200" channel="Mega">
@@ -10936,468 +10899,6 @@
     <desc lang="en">Programa de monólogos, cuenta con algunos de los rostros más conocidos del panorama nacional</desc>
     <category lang="en">Comedia</category>
     <category lang="en">Especial</category>
-  </programme>
-  <programme start="20170623003000 +0000" stop="20170623013000 +0000" channel="Nova">
-    <title lang="en">Teletienda Club</title>
-    <desc lang="en">Espacio comercial de venta por televisión</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-  </programme>
-  <programme start="20170623013000 +0000" stop="20170623040000 +0000" channel="Nova">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170623040000 +0000" stop="20170623060000 +0000" channel="Nova">
-    <title lang="en">La tienda TV</title>
-    <desc lang="en">Compra online productos exclusivos de electrónica, televisión y video, informática, belleza y salud, hogar, deportes, cocina y baño</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-  </programme>
-  <programme start="20170623060000 +0000" stop="20170623062500 +0000" channel="Nova">
-    <title lang="en">Cinta Abierta</title>
-    <desc lang="en">Kevin Patricio, Amaia Urdangarín, Joseba Arguiñano, Enrique Fleischmann, Guty M.Carvajal, Zuhaitz Izarra y Josetxo Calvo son siete profesionales de la cocina, cada uno con su estilo propio. De una manera muy clara y divertida enseñan a hacer platos para todos los gustos</desc>
-  </programme>
-  <programme start="20170623062500 +0000" stop="20170623075000 +0000" channel="Nova">
-    <title lang="en">De que te quiero, te quiero</title>
-    <desc lang="en">Historia melodramática con un poco de comedia de la protagonista, unos gemelos, la mamá de la protagonista que tiene hijos de padres diferentes y otros enredos amorosos</desc>
-    <category lang="en">Telenovela</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20170623075000 +0000" stop="20170623083000 +0000" channel="Nova">
-    <title lang="en">Dame Chocolate</title>
-    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170623083000 +0000" stop="20170623091000 +0000" channel="Nova">
-    <title lang="en">Bajo el mismo cielo</title>
-    <desc lang="en">La historia de Carlos Martínez, un inmigrante indocumentado que vive en Los Ángeles, un buen hombre, trabajador que quiere dar un buen futuro y mejores oportunidades para sus hijos. Para ello, se enfrentará a una serie de dificultades y peligros</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170623091000 +0000" stop="20170623103000 +0000" channel="Nova">
-    <title lang="en">Yo no creo en los hombres</title>
-    <desc lang="en">Una hermosa joven de bajos recursos y nobles sentimientos, lucha ante las adversidades</desc>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170623103000 +0000" stop="20170623123000 +0000" channel="Nova">
-    <title lang="en">Corazón que miente</title>
-    <desc lang="en">Alonso y Camila viven una historia intensa y llena de vitalidad que da lugar en Puebla; y que en cada capítulo hay un final</desc>
-  </programme>
-  <programme start="20170623123000 +0000" stop="20170623130500 +0000" channel="Nova">
-    <title lang="en">Karlos Arguiñano en tu cocina</title>
-    <desc lang="en">Con Karlos Arguiñano nos lo vamos a pasar en grande mientras aprendemos un poco más los secretos de la cocina. Platos sencillos y muy ricos para todos los bolsillos que nos harán nuestra vida mucho más sencilla</desc>
-    <category lang="en">Comida</category>
-    <category lang="en">Cocina</category>
-  </programme>
-  <programme start="20170623130500 +0000" stop="20170623142000 +0000" channel="Nova">
-    <title lang="en">Pasión de Gavilanes</title>
-    <desc lang="en">Es un drama intenso lleno de intriga, romance y venganza con asombrosos resultados, donde el amor podrá más que el rencor y el odio</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Romántico</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170623142000 +0000" stop="20170623145000 +0000" channel="Nova">
-    <title lang="en">Amor bravío</title>
-    <desc lang="en">Una mujer que pierde trágicamente a su novio se ve envuelta en una historia de desamor y codicia debido a un rancho y una fortuna por la que la maldad y la avaricia se hacen presente</desc>
-    <category lang="en">Telenovela</category>
-    <star-rating>
-      <value>5.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20170623145000 +0000" stop="20170623160000 +0000" channel="Nova">
-    <title lang="en">Mi Adorable Maldición</title>
-    <desc lang="en">Una mujer se retira a vivir en el cementerio. Sin embargo, a pesar de su poca estrella en la vida, en el amor logra conquistar al hombre más guapo de la ciudad</desc>
-  </programme>
-  <programme start="20170623160000 +0000" stop="20170623172000 +0000" channel="Nova">
-    <title lang="en">De que te quiero, te quiero</title>
-    <desc lang="en">Historia melodramática con un poco de comedia de la protagonista, unos gemelos, la mamá de la protagonista que tiene hijos de padres diferentes y otros enredos amorosos</desc>
-    <category lang="en">Telenovela</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20170623172000 +0000" stop="20170623180000 +0000" channel="Nova">
-    <title lang="en">Dame Chocolate</title>
-    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170623180000 +0000" stop="20170623190000 +0000" channel="Nova">
-    <title lang="en">Eva, la Trailera</title>
-    <desc lang="en">Eva creía poseer todo, pero la vida se encarga de poner lo que tiene al borde de un precipicio</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170623190000 +0000" stop="20170623203000 +0000" channel="Nova">
-    <title lang="en">Doña Bárbara</title>
-    <desc lang="en">Altagracia Sandoval es una mujer legendariamente hermosa, elegante, exitosa, reconocida en sociedad y dueña de un imperio en el mundo de la construcción. Tiene un triste pasado, fue víctima de una violación cuando era una adolescente. Apenas siendo una jovencita sufrió dos traumas muy fuertes que la marcaron y la convirtieron en la implacable doña que es ahora. Se convierte en una madre insensible que abandonó a su hija a una edad temprana</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Telenovela</category>
-    <star-rating>
-      <value>2.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170623203000 +0000" stop="20170623224000 +0000" channel="Nova">
-    <title lang="en">¡Qué dilema!</title>
-    <desc lang="en">Ronny, soltero implacable, lucha por encontrar la manera adecuada de decirle a su amigo Nick que su esposa le está engañado al verla junto a otro hombre. Cuando decide investigarla y acumular evidencia contra ella antes de avisar a Nick, su plan de pronto gira fuera de control</desc>
-    <credits>
-      <actor>Kevin James</actor>
-      <actor>Vince Vaughn</actor>
-      <actor>Winona Ryder</actor>
-      <actor>Jennifer Connelly</actor>
-      <actor>Queen Latifah</actor>
-      <actor>Talulah Riley</actor>
-      <actor>Channing Tatum</actor>
-      <actor>Chelcie Ross</actor>
-      <actor>Heidi Johanningmeier</actor>
-      <actor>Rebecca Spence</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Comedia</category>
-    <category lang="en">Film</category>
-    <icon src="https://i.yo.tv/p/mo/M109338/s/60B6A95A26DF45627E551E6762B0115F.jpg" />
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170623224000 +0000" stop="20170624001500 +0000" channel="Nova">
-    <title lang="en">Un novio para Madison</title>
-    <desc lang="en">Después de que un bombero salvara la vida de una estrella de la música pop, un romance nace, pero al ex novio de la estrella le resulta difícil dejarla ir</desc>
-    <date>2014</date>
-    <category lang="en">Tragicomedia</category>
-    <category lang="en">Música</category>
-    <category lang="en">Film</category>
-    <icon src="https://i.yo.tv/p/mo/M87716/s/D023AACB325A7219CBFDBDBE54FC2BA3.jpg" />
-  </programme>
-  <programme start="20170624001500 +0000" stop="20170624005000 +0000" channel="Nova">
-    <title lang="en">Ley y orden</title>
-    <sub-title lang="en">New</sub-title>
-    <desc lang="en">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran con donde no hay mucha información</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Policía</category>
-    <icon src="https://i.yo.tv/p/se/d28883/s/96D0F9E7C17E4DF61983EBF0017C641C.jpg" />
-    <star-rating>
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170624005000 +0000" stop="20170624015000 +0000" channel="Nova">
-    <title lang="en">Teletienda Club</title>
-    <desc lang="en">Espacio comercial de venta por televisión</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-  </programme>
-  <programme start="20170624015000 +0000" stop="20170624040000 +0000" channel="Nova">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170624040000 +0000" stop="20170624050000 +0000" channel="Nova">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170624050000 +0000" stop="20170624050000 +0000" channel="Nova">
-    <title lang="en">Crímenes imperfectos</title>
-    <desc lang="en">Serie de documentales que, tras la presentación del suceso y a través de recreaciones, reflejan la manera en que los científicos y agentes de la ley obtuvieron las pruebas necesarias para conocer con certeza lo ocurrido</desc>
-    <category lang="en">Documental</category>
-    <category lang="en">Crimen</category>
-    <icon src="https://i.yo.tv/p/se/d29371/s/3BF98651A71C97EFBD540F9D99F36167.jpg" />
-    <star-rating>
-      <value>6.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170624050000 +0000" stop="20170624061500 +0000" channel="Nova">
-    <title lang="en">Crímenes imperfectos</title>
-    <desc lang="en">Serie de documentales que, tras la presentación del suceso y a través de recreaciones, reflejan la manera en que los científicos y agentes de la ley obtuvieron las pruebas necesarias para conocer con certeza lo ocurrido</desc>
-    <category lang="en">Documental</category>
-    <category lang="en">Crimen</category>
-    <icon src="https://i.yo.tv/p/se/d29371/s/3BF98651A71C97EFBD540F9D99F36167.jpg" />
-    <star-rating>
-      <value>6.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170624061500 +0000" stop="20170624064500 +0000" channel="Nova">
-    <title lang="en">¿Qué me pasa, doctor?</title>
-    <desc lang="en">Un doctor junto a un equipo de especialistas atiende a preguntas de los espectadores grabadas en el programa, hechas por medio de llamadas telefónicas o enviadas vía Internet</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Salud</category>
-  </programme>
-  <programme start="20170624064500 +0000" stop="20170624074000 +0000" channel="Nova">
-    <title lang="en">Cazadores de casas</title>
-    <desc lang="en">Uno de los programas referentes en el mundo de la adquisición de propiedades con más de 80 temporadas consecutivas de emisión en EEUU. Cuando una pareja o familia decide emprender una mudanza a un país diferente al suyo, ya sea como residencia de vacaciones o por trabajo, el primer y más importante paso a dar es encontrar la casa perfecta que les haga sentirse como si estuvieran en su hogar de siempre</desc>
-  </programme>
-  <programme start="20170624074000 +0000" stop="20170624080000 +0000" channel="Nova">
-    <title lang="en">La tienda TV</title>
-    <desc lang="en">Compra online productos exclusivos de electrónica, televisión y video, informática, belleza y salud, hogar, deportes, cocina y baño</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-  </programme>
-  <programme start="20170624080000 +0000" stop="20170624102000 +0000" channel="Nova">
-    <title lang="en">El Mentalista</title>
-    <desc lang="en">El Mentalista es la historia de Patrick Jane, un hombre que deja de trabajar como falso médium para poner su gran poder de observación al servicio de la detective de homicidios Teresa Lisbon</desc>
-    <category lang="en">Drama Criminal</category>
-    <category lang="en">Policía</category>
-    <icon src="https://i.yo.tv/p/se/d34746/s/A7DD5EF6D32408ABC4C4E57578C738FD.jpg" />
-    <star-rating>
-      <value>8.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170624102000 +0000" stop="20170624121000 +0000" channel="Nova">
-    <title lang="en">House</title>
-    <desc lang="en">Aunque tiene poca paciencia con sus pacientes, el misántropo Gregory House es un brillante doctor que investiga misterios médicos de vida o muerte mientras gráficos del estilo de la serie 'CSI' siguen la evolución de cada enfermedad. El director de `X-Men' Bryan Singer es uno de los productores ejecutivos</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Hospital</category>
-    <icon src="https://i.yo.tv/p/se/d31408/s/8AD9629F3E5A1A88B3270D8D6BA7ADD2.jpg" />
-  </programme>
-  <programme start="20170624121000 +0000" stop="20170624124500 +0000" channel="Nova">
-    <title lang="en">Decogarden</title>
-    <desc lang="en">El programa abarcará diferentes propuestas de aspectos tan distintos de la decoración de interiores como: técnicas de pintura, juegos e instalaciones de luces, manualidades, cultivo y cuidado de plantas para crear diferentes espacios. Así como todo lo relacionado con la jardinería, acercando al público especies vegetales desconocidas o numerosos trucos para mantener sanos los árboles y arbustos explicando las enfermedades más comunes y las plagas que pueden padecer. A través de pequeños reportajes, se mostrarán un montón de ideas y propuestas sencillas y prácticas para que cada uno, según sus propios gustos y características, las pueda adaptar a sus propia vivienda</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Cómo Hacer</category>
-  </programme>
-  <programme start="20170624124500 +0000" stop="20170624131500 +0000" channel="Nova">
-    <title lang="en">Bricomanía</title>
-    <category lang="en">Hogar Y Jardín</category>
-    <category lang="en">Proyectos Del Hogar</category>
-  </programme>
-  <programme start="20170624131500 +0000" stop="20170624190000 +0000" channel="Nova">
-    <title lang="en">House</title>
-    <desc lang="en">Aunque tiene poca paciencia con sus pacientes, el misántropo Gregory House es un brillante doctor que investiga misterios médicos de vida o muerte mientras gráficos del estilo de la serie 'CSI' siguen la evolución de cada enfermedad. El director de `X-Men' Bryan Singer es uno de los productores ejecutivos</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Hospital</category>
-    <icon src="https://i.yo.tv/p/se/d31408/s/8AD9629F3E5A1A88B3270D8D6BA7ADD2.jpg" />
-  </programme>
-  <programme start="20170624190000 +0000" stop="20170625010000 +0000" channel="Nova">
-    <title lang="en">Ley y orden</title>
-    <sub-title lang="en">New</sub-title>
-    <desc lang="en">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran con donde no hay mucha información</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Policía</category>
-    <icon src="https://i.yo.tv/p/se/d28883/s/96D0F9E7C17E4DF61983EBF0017C641C.jpg" />
-    <star-rating>
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625010000 +0000" stop="20170625013000 +0000" channel="Nova">
-    <title lang="en">Teletienda Club</title>
-    <desc lang="en">Espacio comercial de venta por televisión</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-  </programme>
-  <programme start="20170625013000 +0000" stop="20170625040000 +0000" channel="Nova">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170625040000 +0000" stop="20170625050000 +0000" channel="Nova">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170625050000 +0000" stop="20170625050000 +0000" channel="Nova">
-    <title lang="en">Crímenes imperfectos</title>
-    <desc lang="en">Serie de documentales que, tras la presentación del suceso y a través de recreaciones, reflejan la manera en que los científicos y agentes de la ley obtuvieron las pruebas necesarias para conocer con certeza lo ocurrido</desc>
-    <category lang="en">Documental</category>
-    <category lang="en">Crimen</category>
-    <icon src="https://i.yo.tv/p/se/d29371/s/3BF98651A71C97EFBD540F9D99F36167.jpg" />
-    <star-rating>
-      <value>6.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625050000 +0000" stop="20170625061500 +0000" channel="Nova">
-    <title lang="en">Crímenes imperfectos</title>
-    <desc lang="en">Serie de documentales que, tras la presentación del suceso y a través de recreaciones, reflejan la manera en que los científicos y agentes de la ley obtuvieron las pruebas necesarias para conocer con certeza lo ocurrido</desc>
-    <category lang="en">Documental</category>
-    <category lang="en">Crimen</category>
-    <icon src="https://i.yo.tv/p/se/d29371/s/3BF98651A71C97EFBD540F9D99F36167.jpg" />
-    <star-rating>
-      <value>6.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625061500 +0000" stop="20170625064500 +0000" channel="Nova">
-    <title lang="en">¿Qué me pasa, doctor?</title>
-    <desc lang="en">Un doctor junto a un equipo de especialistas atiende a preguntas de los espectadores grabadas en el programa, hechas por medio de llamadas telefónicas o enviadas vía Internet</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Salud</category>
-  </programme>
-  <programme start="20170625064500 +0000" stop="20170625074000 +0000" channel="Nova">
-    <title lang="en">Cazadores de casas</title>
-    <desc lang="en">Uno de los programas referentes en el mundo de la adquisición de propiedades con más de 80 temporadas consecutivas de emisión en EEUU. Cuando una pareja o familia decide emprender una mudanza a un país diferente al suyo, ya sea como residencia de vacaciones o por trabajo, el primer y más importante paso a dar es encontrar la casa perfecta que les haga sentirse como si estuvieran en su hogar de siempre</desc>
-  </programme>
-  <programme start="20170625074000 +0000" stop="20170625080000 +0000" channel="Nova">
-    <title lang="en">La tienda TV</title>
-    <desc lang="en">Compra online productos exclusivos de electrónica, televisión y video, informática, belleza y salud, hogar, deportes, cocina y baño</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-  </programme>
-  <programme start="20170625080000 +0000" stop="20170625102000 +0000" channel="Nova">
-    <title lang="en">El Mentalista</title>
-    <desc lang="en">El Mentalista es la historia de Patrick Jane, un hombre que deja de trabajar como falso médium para poner su gran poder de observación al servicio de la detective de homicidios Teresa Lisbon</desc>
-    <category lang="en">Drama Criminal</category>
-    <category lang="en">Policía</category>
-    <icon src="https://i.yo.tv/p/se/d34746/s/A7DD5EF6D32408ABC4C4E57578C738FD.jpg" />
-    <star-rating>
-      <value>8.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625102000 +0000" stop="20170625121000 +0000" channel="Nova">
-    <title lang="en">House</title>
-    <desc lang="en">Aunque tiene poca paciencia con sus pacientes, el misántropo Gregory House es un brillante doctor que investiga misterios médicos de vida o muerte mientras gráficos del estilo de la serie 'CSI' siguen la evolución de cada enfermedad. El director de `X-Men' Bryan Singer es uno de los productores ejecutivos</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Hospital</category>
-    <icon src="https://i.yo.tv/p/se/d31408/s/8AD9629F3E5A1A88B3270D8D6BA7ADD2.jpg" />
-  </programme>
-  <programme start="20170625121000 +0000" stop="20170625124500 +0000" channel="Nova">
-    <title lang="en">Bricomanía</title>
-    <category lang="en">Hogar Y Jardín</category>
-    <category lang="en">Proyectos Del Hogar</category>
-  </programme>
-  <programme start="20170625124500 +0000" stop="20170625131500 +0000" channel="Nova">
-    <title lang="en">Decogarden</title>
-    <desc lang="en">El programa abarcará diferentes propuestas de aspectos tan distintos de la decoración de interiores como: técnicas de pintura, juegos e instalaciones de luces, manualidades, cultivo y cuidado de plantas para crear diferentes espacios. Así como todo lo relacionado con la jardinería, acercando al público especies vegetales desconocidas o numerosos trucos para mantener sanos los árboles y arbustos explicando las enfermedades más comunes y las plagas que pueden padecer. A través de pequeños reportajes, se mostrarán un montón de ideas y propuestas sencillas y prácticas para que cada uno, según sus propios gustos y características, las pueda adaptar a sus propia vivienda</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Cómo Hacer</category>
-  </programme>
-  <programme start="20170625131500 +0000" stop="20170625190000 +0000" channel="Nova">
-    <title lang="en">House</title>
-    <desc lang="en">Aunque tiene poca paciencia con sus pacientes, el misántropo Gregory House es un brillante doctor que investiga misterios médicos de vida o muerte mientras gráficos del estilo de la serie 'CSI' siguen la evolución de cada enfermedad. El director de `X-Men' Bryan Singer es uno de los productores ejecutivos</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Hospital</category>
-    <icon src="https://i.yo.tv/p/se/d31408/s/8AD9629F3E5A1A88B3270D8D6BA7ADD2.jpg" />
-  </programme>
-  <programme start="20170625190000 +0000" stop="20170626003000 +0000" channel="Nova">
-    <title lang="en">Imborrable</title>
-    <desc lang="en">Es incapaz de olvidar y puede recordar pormenorizadamente detalles, conversaciones, fechas y lugares de cada momento de su vida. Su hiperamnesia le ha convertido en la detective más joven de la historia de la policía de Siracusa y tras colaborar en la brigada de Homicidios del distrito 11 en el último año, Carrie Wells entrará a formar parte de la Unidad de Delitos Graves de Manhattan</desc>
-    <category lang="en">Drama Criminal</category>
-    <icon src="https://i.yo.tv/p/se/d37888/s/83A938CAA1931E8101D6E5CD6B4B151C.jpg" />
-    <star-rating>
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626003000 +0000" stop="20170626004500 +0000" channel="Nova">
-    <title lang="en">Ver cine</title>
-    <desc lang="en">Espacio en el que descubrirás los estrenos del momento</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Entretenimiento</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626004500 +0000" stop="20170626013000 +0000" channel="Nova">
-    <title lang="en">Teletienda Club</title>
-    <desc lang="en">Espacio comercial de venta por televisión</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Infomercial</category>
-  </programme>
-  <programme start="20170626013000 +0000" stop="20170626040000 +0000" channel="Nova">
-    <title lang="en">Minutos musicales</title>
-    <desc lang="en">Música en directo interpretada por artistas de primer nivel. Un espacio pensado y diseñado para los amantes de la música..</desc>
-    <category lang="en">Revista</category>
-  </programme>
-  <programme start="20170626040000 +0000" stop="20170626040000 +0000" channel="Nova">
-    <title lang="en">Las noticias de la mañana</title>
-    <desc lang="en">Primer noticiario de la jornada en el que se ofrece un avance de las principales noticias y reportajes que compondrán el temario del día de los informativos de Antena 3</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626040000 +0000" stop="20170626063000 +0000" channel="Nova">
-    <title lang="en">Las noticias de la mañana</title>
-    <desc lang="en">Primer noticiario de la jornada en el que se ofrece un avance de las principales noticias y reportajes que compondrán el temario del día de los informativos de Antena 3</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>4.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626063000 +0000" stop="20170626075000 +0000" channel="Nova">
-    <title lang="en">De que te quiero, te quiero</title>
-    <desc lang="en">Historia melodramática con un poco de comedia de la protagonista, unos gemelos, la mamá de la protagonista que tiene hijos de padres diferentes y otros enredos amorosos</desc>
-    <category lang="en">Telenovela</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20170626075000 +0000" stop="20170626083000 +0000" channel="Nova">
-    <title lang="en">Dame Chocolate</title>
-    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170626083000 +0000" stop="20170626093000 +0000" channel="Nova">
-    <title lang="en">Bajo el mismo cielo</title>
-    <desc lang="en">La historia de Carlos Martínez, un inmigrante indocumentado que vive en Los Ángeles, un buen hombre, trabajador que quiere dar un buen futuro y mejores oportunidades para sus hijos. Para ello, se enfrentará a una serie de dificultades y peligros</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170626093000 +0000" stop="20170626103000 +0000" channel="Nova">
-    <title lang="en">Yo no creo en los hombres</title>
-    <desc lang="en">Una hermosa joven de bajos recursos y nobles sentimientos, lucha ante las adversidades</desc>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626103000 +0000" stop="20170626120000 +0000" channel="Nova">
-    <title lang="en">Corazón que miente</title>
-    <desc lang="en">Alonso y Camila viven una historia intensa y llena de vitalidad que da lugar en Puebla; y que en cada capítulo hay un final</desc>
-  </programme>
-  <programme start="20170626120000 +0000" stop="20170626130000 +0000" channel="Nova">
-    <title lang="en">Karlos Arguiñano en tu cocina</title>
-    <desc lang="en">Con Karlos Arguiñano nos lo vamos a pasar en grande mientras aprendemos un poco más los secretos de la cocina. Platos sencillos y muy ricos para todos los bolsillos que nos harán nuestra vida mucho más sencilla</desc>
-    <category lang="en">Comida</category>
-    <category lang="en">Cocina</category>
-  </programme>
-  <programme start="20170626130000 +0000" stop="20170626145000 +0000" channel="Nova">
-    <title lang="en">Pasión de Gavilanes</title>
-    <desc lang="en">Es un drama intenso lleno de intriga, romance y venganza con asombrosos resultados, donde el amor podrá más que el rencor y el odio</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Romántico</category>
-    <star-rating>
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626145000 +0000" stop="20170626160000 +0000" channel="Nova">
-    <title lang="en">Mi Adorable Maldición</title>
-    <desc lang="en">Una mujer se retira a vivir en el cementerio. Sin embargo, a pesar de su poca estrella en la vida, en el amor logra conquistar al hombre más guapo de la ciudad</desc>
-  </programme>
-  <programme start="20170626160000 +0000" stop="20170626172000 +0000" channel="Nova">
-    <title lang="en">De que te quiero, te quiero</title>
-    <desc lang="en">Historia melodramática con un poco de comedia de la protagonista, unos gemelos, la mamá de la protagonista que tiene hijos de padres diferentes y otros enredos amorosos</desc>
-    <category lang="en">Telenovela</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20170626172000 +0000" stop="20170626180000 +0000" channel="Nova">
-    <title lang="en">Dame Chocolate</title>
-    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170626180000 +0000" stop="20170626190000 +0000" channel="Nova">
-    <title lang="en">Eva, la Trailera</title>
-    <desc lang="en">Eva creía poseer todo, pero la vida se encarga de poner lo que tiene al borde de un precipicio</desc>
-    <category lang="en">Telenovela</category>
-  </programme>
-  <programme start="20170626190000 +0000" stop="20170626204500 +0000" channel="Nova">
-    <title lang="en">Doña Bárbara</title>
-    <desc lang="en">Altagracia Sandoval es una mujer legendariamente hermosa, elegante, exitosa, reconocida en sociedad y dueña de un imperio en el mundo de la construcción. Tiene un triste pasado, fue víctima de una violación cuando era una adolescente. Apenas siendo una jovencita sufrió dos traumas muy fuertes que la marcaron y la convirtieron en la implacable doña que es ahora. Se convierte en una madre insensible que abandonó a su hija a una edad temprana</desc>
-    <category lang="en">Drama</category>
-    <category lang="en">Telenovela</category>
-    <star-rating>
-      <value>2.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626204500 +0000" stop="20170626221500 +0000" channel="Nova">
-    <title lang="en">Cine</title>
-    <desc lang="en">Emisión cinematográfica</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Film</category>
-    <star-rating>
-      <value>5.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626221500 +0000" stop="20170627003000 +0000" channel="Nova">
-    <title lang="en">Cine</title>
-    <desc lang="en">Emisión cinematográfica</desc>
-    <category lang="en">Otro</category>
-    <category lang="en">Film</category>
-    <star-rating>
-      <value>5.1</value>
-    </star-rating>
   </programme>
   <programme start="20170623023500 +0200" stop="20170623041500 +0200" channel="Real Madrid TV">
     <title lang="es">Fútbol Liga 16/17. Real Madrid - Real Sociedad</title>
