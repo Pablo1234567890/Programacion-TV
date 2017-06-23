@@ -76,7 +76,7 @@
     <url>http://www.yo.tv</url>
   </channel>
   <channel id="Nova">
-    <display-name lang="en">Nova</display-name>
+    <display-name lang="en">Nova [HD]</display-name>
     <url>http://www.yo.tv</url>
   </channel>
   <channel id="Real Madrid TV">
@@ -7151,28 +7151,6 @@
     <category lang="es">Cine</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/c3/359363.png" />
   </programme>
-  <programme start="20170623185000 +0200" stop="20170623192500 +0200" channel="La 1">
-    <title lang="es">Documental: Centro médico</title>
-    <title lang="xx">Centro médico</title>
-    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores</desc>
-    <credits>
-      <actor>Marina Lozano</actor>
-      <actor>Fran Martínez</actor>
-      <actor>Rocío Anker</actor>
-      <actor>Jordi Mestre</actor>
-      <actor>Jesús Cabrero</actor>
-      <actor>Charo Molina</actor>
-      <actor>María Pedroviejo</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/e3/1002723.png" />
-    <country>España</country>
-    <episode-num system="onscreen">E623</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
   <programme start="20170623221000 +0200" stop="20170623001500 +0200" channel="La 1">
     <title lang="es">Cine: The Holiday (Vacaciones)</title>
     <title lang="xx">The Holiday</title>
@@ -7227,7 +7205,7 @@
   <programme start="20170623181000 +0200" stop="20170623185000 +0200" channel="La 1">
     <title lang="es">Documental: Centro médico</title>
     <title lang="xx">Centro médico</title>
-    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores(c)</desc>
+    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores</desc>
     <credits>
       <actor>Marina Lozano</actor>
       <actor>Fran Martínez</actor>
@@ -7242,6 +7220,28 @@
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/e3/1002723.png" />
     <country>España</country>
     <episode-num system="onscreen">E622</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20170623185000 +0200" stop="20170623192500 +0200" channel="La 1">
+    <title lang="es">Documental: Centro médico</title>
+    <title lang="xx">Centro médico</title>
+    <desc lang="es">Docuficción basada en un exitoso formato internacional que recrea cada día dos historias basadas en casos clínicos reales, curiosos y atractivos. A través de siete personajes fijos -cinco médicos y dos enfermeras- los espectadores van conociendo los casos que llegan a las consultas de los doctores(r)</desc>
+    <credits>
+      <actor>Marina Lozano</actor>
+      <actor>Fran Martínez</actor>
+      <actor>Rocío Anker</actor>
+      <actor>Jordi Mestre</actor>
+      <actor>Jesús Cabrero</actor>
+      <actor>Charo Molina</actor>
+      <actor>María Pedroviejo</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Otros</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/e3/1002723.png" />
+    <country>España</country>
+    <episode-num system="onscreen">E623</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -8292,25 +8292,6 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20170623110500 +0200" stop="20170623115000 +0200" channel="La 2">
-    <title lang="es">Army Wives</title>
-    <desc lang="es">Denise Sherwood es una perfecta ama de casa que cuida con esmero de su hijo adolescente y de su marido, pero que esconde un gran secreto. Claudia Joy Holden es la esposa del coronel Michael Holden, es el modelo que todas las esposas siguen y respetan. Otro personaje importante en la serie es Pamela Moran, una mujer que ha sido policía pero que actualmente ha de mantener a flote a su familia en una difícil situación económica, además de tratar de ocultar su precaria situación a sus vecinos. Para ello, se convertirá en madre de alquiler. Y por último, Roxy LeBlanc, una mujer que decide casarse con el joven soldado Trevor LeBlanc y que ve como su vida cambia radicalmente de la noche a la mañana. Al mudarse a la exclusiva comunidad, verá como no todas las demás mujeres le apoyan cuando saben que tiene dos hijos que no son de Trevor y cuando empieza a trabajar en un bar cercano para sacar algo más de dinero. A todas ellas, se les une también Roland Burton el único hombre que vive en la base militar junto con su mujer, la soldado Joan Barton. Roland se unirá a este club de mujeres y compartirá con ellas sus problemas con su mujer</desc>
-    <credits>
-      <actor>Brian McNamara</actor>
-      <actor>Catherine Bell</actor>
-      <actor>Kim Delaney</actor>
-      <actor>Sally Pressman</actor>
-      <actor>Sterling K. Brown</actor>
-      <actor>Wendy Davis</actor>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Drama</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/bf/300223.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20170623185000 +0200" stop="20170623192000 +0200" channel="La 2">
     <title lang="es">El escarabajo verde</title>
     <desc lang="es">El medio ambiente es el elemento protagonista de este espacio que pretende divulgar conocimientos sobre ecología y divulgar información acerca de la naturaleza</desc>
@@ -8427,7 +8408,7 @@
   <programme start="20170623095500 +0200" stop="20170623110500 +0200" channel="La 2">
     <title lang="es">UNED</title>
     <sub-title lang="es">Capítulo nº 67</sub-title>
-    <desc lang="es">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia (UNED)(c)</desc>
+    <desc lang="es">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia (UNED)</desc>
     <credits>
       <director>Ángel Mancebo</director>
       <producer>Virginia Rojo</producer>
@@ -8438,6 +8419,26 @@
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623110500 +0200" stop="20170623115000 +0200" channel="La 2">
+    <title lang="es">Army Wives</title>
+    <sub-title lang="es">Strangers in a Strange Land</sub-title>
+    <desc lang="es">Denise Sherwood es una perfecta ama de casa que cuida con esmero de su hijo adolescente y de su marido, pero que esconde un gran secreto. Claudia Joy Holden es la esposa del coronel Michael Holden, es el modelo que todas las esposas siguen y respetan. Otro personaje importante en la serie es Pamela Moran, una mujer que ha sido policía pero que actualmente ha de mantener a flote a su familia en una difícil situación económica, además de tratar de ocultar su precaria situación a sus vecinos. Para ello, se convertirá en madre de alquiler. Y por último, Roxy LeBlanc, una mujer que decide casarse con el joven soldado Trevor LeBlanc y que ve como su vida cambia radicalmente de la noche a la mañana. Al mudarse a la exclusiva comunidad, verá como no todas las demás mujeres le apoyan cuando saben que tiene dos hijos que no son de Trevor y cuando empieza a trabajar en un bar cercano para sacar algo más de dinero. A todas ellas, se les une también Roland Burton el único hombre que vive en la base militar junto con su mujer, la soldado Joan Barton. Roland se unirá a este club de mujeres y compartirá con ellas sus problemas con su mujer(r)</desc>
+    <credits>
+      <actor>Brian McNamara</actor>
+      <actor>Catherine Bell</actor>
+      <actor>Kim Delaney</actor>
+      <actor>Sally Pressman</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Wendy Davis</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Drama</category>
+    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/bf/300223.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20170623124000 +0200" stop="20170623141000 +0200" channel="La 2">
@@ -9125,13 +9126,11 @@
     <desc lang="es">Emisión de un documental</desc>
     <category lang="es">Otros</category>
   </programme>
-  <programme start="20170625031000 +0200" stop="20170625043000 +0200" channel="La 2">
-    <title lang="es">Guggenheim</title>
-    <title lang="xx">La sala: Guggenheim</title>
-    <desc lang="es">El museo Guggenheim de Bilbao es uno de los referentes de la cultura en España y en el mundo. Este programa hace un repaso de las diferentes exposiciones que tienen lugar en sus salas</desc>
-    <date>2011</date>
-    <category lang="es">Otros</category>
-    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/e2/369634.png" />
+  <programme start="20170625043000 +0200" stop="20170625053000 +0200" channel="La 2">
+    <title lang="es">TVE es música</title>
+    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados</desc>
+    <category lang="es">Videoclips</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -9163,11 +9162,13 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20170625043000 +0200" stop="20170625053000 +0200" channel="La 2">
-    <title lang="es">TVE es música</title>
-    <desc lang="es">Programa musical que en cada emisión nos ofrece actuaciones de los artistas más destacados(c)</desc>
-    <category lang="es">Videoclips</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/b6/15030.png" />
+  <programme start="20170625031000 +0200" stop="20170625043000 +0200" channel="La 2">
+    <title lang="es">Guggenheim</title>
+    <title lang="xx">La sala: Guggenheim</title>
+    <desc lang="es">El museo Guggenheim de Bilbao es uno de los referentes de la cultura en España y en el mundo. Este programa hace un repaso de las diferentes exposiciones que tienen lugar en sus salas(r)</desc>
+    <date>2011</date>
+    <category lang="es">Otros</category>
+    <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/e2/369634.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -9976,17 +9977,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20170623150000 +0200" stop="20170623165000 +0200" channel="Mega">
-    <title lang="es">Mountain men</title>
-    <desc lang="es">¿Cómo sería vivir sin electricidad y apartado de las modernidades de la sociedad, utilizando solo la Naturaleza para abastecerse y sobrevivir? Eustace Conway, Tom Oar y Marty Meierotto nos lo descubren en este programa</desc>
-    <date>2012</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/a0/1293728.png" />
-    <country>EE.UU.</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
   <programme start="20170623165000 +0200" stop="20170623174000 +0200" channel="Mega">
     <title lang="es">Los restauradores</title>
     <desc lang="es">Rick Dale es el artista y dueño de una tienda de restauración de antigüedades en Las Vegas (EE.UU.). Junto con su personal y su hijo adolescente, Dale realiza obras de arte devolviendo todo tipo de objetos a su estado original. Un Cádillac, una máquina de Coca-Cola, un carro de golf de 1960, una bicicleta de la década de los cincuenta, una farola, un viejo tren de juguete y una máquina tragaperras son algunos de los objetos que Rick deberá restaurar</desc>
@@ -10140,13 +10130,24 @@
   <programme start="20170623121500 +0200" stop="20170623150000 +0200" channel="Mega">
     <title lang="es">Documental: Cazatesoros</title>
     <title lang="xx">American Pickers</title>
-    <desc lang="es">En una tienda de antigüedades cerrada desde los años 70, Mike y Frank tienen que lidiar con unos dueños que regatean hasta el último dólar. Los chicos encuentran un histórico aeroplano con una asombrosa historia detrás(c)</desc>
+    <desc lang="es">En una tienda de antigüedades cerrada desde los años 70, Mike y Frank tienen que lidiar con unos dueños que regatean hasta el último dólar. Los chicos encuentran un histórico aeroplano con una asombrosa historia detrás</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1c/417308.png" />
     <country>EE.UU.</country>
     <rating system="ES">
       <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170623150000 +0200" stop="20170623165000 +0200" channel="Mega">
+    <title lang="es">Mountain men</title>
+    <desc lang="es">¿Cómo sería vivir sin electricidad y apartado de las modernidades de la sociedad, utilizando solo la Naturaleza para abastecerse y sobrevivir? Eustace Conway, Tom Oar y Marty Meierotto nos lo descubren en este programa(r)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/a0/1293728.png" />
+    <country>EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
     </rating>
   </programme>
   <programme start="20170624030000 +0200" stop="20170624034500 +0200" channel="Mega">
@@ -11400,13 +11401,13 @@
   </programme>
   <programme start="20170623023500 +0200" stop="20170623041500 +0200" channel="Real Madrid TV">
     <title lang="es">Fútbol Liga 16/17. Real Madrid - Real Sociedad</title>
-    <desc lang="es">Sin descripción(n)</desc>
+    <desc lang="es">Sin descripción</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170623041500 +0200" stop="20170623043000 +0200" channel="Real Madrid TV">
     <title lang="es">15 minutos</title>
-    <desc lang="es">Selección de los momentos más destacados de las distintas secciones del Real Madrid(n)</desc>
+    <desc lang="es">Selección de los momentos más destacados de las distintas secciones del Real Madrid</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/35/1150005.png" />
@@ -11417,7 +11418,7 @@
   </programme>
   <programme start="20170623043000 +0200" stop="20170623044500 +0200" channel="Real Madrid TV">
     <title lang="es">15 minutos</title>
-    <desc lang="es">Selección de los momentos más destacados de las distintas secciones del Real Madrid(n)</desc>
+    <desc lang="es">Selección de los momentos más destacados de las distintas secciones del Real Madrid</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/35/1150005.png" />
@@ -11428,7 +11429,7 @@
   </programme>
   <programme start="20170623044500 +0200" stop="20170623070000 +0200" channel="Real Madrid TV">
     <title lang="es">La Tertulia</title>
-    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia(n)</desc>
+    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia</desc>
     <date>2014</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7f/503167.png" />
@@ -11439,7 +11440,7 @@
   </programme>
   <programme start="20170623070000 +0200" stop="20170623080000 +0200" channel="Real Madrid TV">
     <title lang="es">90 Minuti</title>
-    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(n)</desc>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido</desc>
     <date>2016</date>
     <category lang="es">Programas</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
@@ -11450,7 +11451,7 @@
   </programme>
   <programme start="20170623080000 +0200" stop="20170623082500 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11461,7 +11462,7 @@
   </programme>
   <programme start="20170623082500 +0200" stop="20170623110000 +0200" channel="Real Madrid TV">
     <title lang="es">Hoy Jugamos</title>
-    <desc lang="es">Programa dedicado al partido de la jornada(n)</desc>
+    <desc lang="es">Programa dedicado al partido de la jornada</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
@@ -11472,7 +11473,7 @@
   </programme>
   <programme start="20170623110000 +0200" stop="20170623111500 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11483,7 +11484,7 @@
   </programme>
   <programme start="20170623111500 +0200" stop="20170623120000 +0200" channel="Real Madrid TV">
     <title lang="es">Hoy Jugamos</title>
-    <desc lang="es">Programa dedicado al partido de la jornada(n)</desc>
+    <desc lang="es">Programa dedicado al partido de la jornada</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
@@ -11494,7 +11495,7 @@
   </programme>
   <programme start="20170623120000 +0200" stop="20170623121000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11505,7 +11506,7 @@
   </programme>
   <programme start="20170623121000 +0200" stop="20170623130000 +0200" channel="Real Madrid TV">
     <title lang="es">Historia que tú hiciste</title>
-    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid(n)</desc>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid</desc>
     <date>2016</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
@@ -11516,7 +11517,7 @@
   </programme>
   <programme start="20170623130000 +0200" stop="20170623131000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11527,7 +11528,7 @@
   </programme>
   <programme start="20170623131000 +0200" stop="20170623140000 +0200" channel="Real Madrid TV">
     <title lang="es">Historia que tú hiciste</title>
-    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid(n)</desc>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid</desc>
     <date>2016</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
@@ -11538,7 +11539,7 @@
   </programme>
   <programme start="20170623140000 +0200" stop="20170623144000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11549,7 +11550,7 @@
   </programme>
   <programme start="20170623144000 +0200" stop="20170623154000 +0200" channel="Real Madrid TV">
     <title lang="es">90 Minuti</title>
-    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(n)</desc>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido</desc>
     <date>2016</date>
     <category lang="es">Programas</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
@@ -11560,7 +11561,7 @@
   </programme>
   <programme start="20170623154000 +0200" stop="20170623173000 +0200" channel="Real Madrid TV">
     <title lang="es">Historia que tú hiciste</title>
-    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid(n)</desc>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid</desc>
     <date>2016</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
@@ -11571,7 +11572,7 @@
   </programme>
   <programme start="20170623173000 +0200" stop="20170623203000 +0200" channel="Real Madrid TV">
     <title lang="es">La Tertulia</title>
-    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia(n)</desc>
+    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia</desc>
     <date>2014</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7f/503167.png" />
@@ -11582,7 +11583,7 @@
   </programme>
   <programme start="20170623203000 +0200" stop="20170623212500 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11594,7 +11595,7 @@
   <programme start="20170623212500 +0200" stop="20170623233000 +0200" channel="Real Madrid TV">
     <title lang="es">Cine: Me gustan los líos</title>
     <title lang="xx">I Love Trouble</title>
-    <desc lang="es">Peter, un veterano reportero, y Sabrina, una periodista novata, tienen que cubrir un misterioso accidente ferroviario. Al sentirse atraídos el uno por el otro, deciden investigar juntos lo ocurrido(c)</desc>
+    <desc lang="es">Peter, un veterano reportero, y Sabrina, una periodista novata, tienen que cubrir un misterioso accidente ferroviario. Al sentirse atraídos el uno por el otro, deciden investigar juntos lo ocurrido</desc>
     <credits>
       <director>Charles Shyer</director>
       <actor>Nick Nolte</actor>
@@ -11620,7 +11621,7 @@
   </programme>
   <programme start="20170623233000 +0200" stop="20170623000000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(n)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11631,7 +11632,7 @@
   </programme>
   <programme start="20170624000000 +0200" stop="20170624002500 +0200" channel="Real Madrid TV">
     <title lang="es">Historias con alma</title>
-    <desc lang="es">Historias con alma(c)</desc>
+    <desc lang="es">Historias con alma</desc>
     <date>2016</date>
     <category lang="es">Juegos Olímpicos</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
@@ -11643,13 +11644,13 @@
   <programme start="20170624002500 +0200" stop="20170624013000 +0200" channel="Real Madrid TV">
     <title lang="es">Los grandes documentales del deporte</title>
     <sub-title lang="es">El precio del oro</sub-title>
-    <desc lang="es">Sin descripción(c)</desc>
+    <desc lang="es">Sin descripción</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170624013000 +0200" stop="20170624044500 +0200" channel="Real Madrid TV">
     <title lang="es">Hoy Jugamos</title>
-    <desc lang="es">Programa dedicado al partido de la jornada(c)</desc>
+    <desc lang="es">Programa dedicado al partido de la jornada</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
@@ -11660,7 +11661,7 @@
   </programme>
   <programme start="20170624044500 +0200" stop="20170624070500 +0200" channel="Real Madrid TV">
     <title lang="es">La Tertulia</title>
-    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia(c)</desc>
+    <desc lang="es">Toda la actualidad del Real Madrid analizada por periodistas de referencia</desc>
     <date>2014</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7f/503167.png" />
@@ -11671,7 +11672,7 @@
   </programme>
   <programme start="20170624070500 +0200" stop="20170624080000 +0200" channel="Real Madrid TV">
     <title lang="es">Historias con alma</title>
-    <desc lang="es">Historias con alma(c)</desc>
+    <desc lang="es">Historias con alma</desc>
     <date>2016</date>
     <category lang="es">Juegos Olímpicos</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
@@ -11682,7 +11683,7 @@
   </programme>
   <programme start="20170624080000 +0200" stop="20170624083000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(c)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11693,7 +11694,7 @@
   </programme>
   <programme start="20170624083000 +0200" stop="20170624093000 +0200" channel="Real Madrid TV">
     <title lang="es">90 Minuti</title>
-    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(c)</desc>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido</desc>
     <date>2016</date>
     <category lang="es">Programas</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
@@ -11704,7 +11705,7 @@
   </programme>
   <programme start="20170624093000 +0200" stop="20170624100000 +0200" channel="Real Madrid TV">
     <title lang="es">Historias con alma</title>
-    <desc lang="es">Historias con alma(c)</desc>
+    <desc lang="es">Historias con alma</desc>
     <date>2016</date>
     <category lang="es">Juegos Olímpicos</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
@@ -11715,7 +11716,7 @@
   </programme>
   <programme start="20170624100000 +0200" stop="20170624140000 +0200" channel="Real Madrid TV">
     <title lang="es">Ciudad Real Madrid</title>
-    <desc lang="es">Espacio deportivo que cubre la actualidad del centro deportivo del Real Madrid. Desde ruedas de prensa a retransmisiones de partidos de las categorías inferiores(c)</desc>
+    <desc lang="es">Espacio deportivo que cubre la actualidad del centro deportivo del Real Madrid. Desde ruedas de prensa a retransmisiones de partidos de las categorías inferiores</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
@@ -11726,7 +11727,7 @@
   </programme>
   <programme start="20170624140000 +0200" stop="20170624144000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(c)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
@@ -11737,7 +11738,7 @@
   </programme>
   <programme start="20170624144000 +0200" stop="20170624153000 +0200" channel="Real Madrid TV">
     <title lang="es">Madridistas por el mundo</title>
-    <desc lang="es">Programa que sigue a los madridistas por el mundo(c)</desc>
+    <desc lang="es">Programa que sigue a los madridistas por el mundo</desc>
     <date>2017</date>
     <category lang="es">Deportes</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
@@ -11749,7 +11750,7 @@
   <programme start="20170624153000 +0200" stop="20170624183000 +0200" channel="Real Madrid TV">
     <title lang="es">Cine: El hombre que susurraba a los caballos</title>
     <title lang="xx">The Horse Whisperer</title>
-    <desc lang="es">Es una noche fría de invierno. Grace y su mejor amiga Judith van a cabalgar un rato con sus caballos, pero un terrible accidente cambiaría sus vidas para siempre. Un camión se lleva por delante a Judith y a su caballo, matándolas. Por su parte Grace y su caballo Pilgrim acaban seriamente heridos, tanto física como mentalmente. En un intento de devolver a Grace la alegría de vivir y de conseguir que Pilgrim deje de comportarse como un caballo salvaje, se los llevará a Montana en busca de Tom Booker. Tom es un 'susurrante de caballos', un cowboy con la habilidad de comunicarse con los caballos. La forma de comportarse de Tom cambiará la vida de las dos mujeres y de Pilgrim para siempre, ayudándolas a entenderse mejor con sus propios sentimientos y con sus caballos. 'El susurrante de caballos' es sencillamente una práctica malinterpretada. Los nativos americanos solían tomar a un caballo sentándose sobre ellos de un salto y mordiendo sus orejas. El dolor hacía que el caballo se calmase y se quedase quieto inmediatamente. Cuando los colonizadores lo vieron interpretaron que el hombre le susurraba al caballo para tranquilizarlo(c)</desc>
+    <desc lang="es">Es una noche fría de invierno. Grace y su mejor amiga Judith van a cabalgar un rato con sus caballos, pero un terrible accidente cambiaría sus vidas para siempre. Un camión se lleva por delante a Judith y a su caballo, matándolas. Por su parte Grace y su caballo Pilgrim acaban seriamente heridos, tanto física como mentalmente. En un intento de devolver a Grace la alegría de vivir y de conseguir que Pilgrim deje de comportarse como un caballo salvaje, se los llevará a Montana en busca de Tom Booker. Tom es un 'susurrante de caballos', un cowboy con la habilidad de comunicarse con los caballos. La forma de comportarse de Tom cambiará la vida de las dos mujeres y de Pilgrim para siempre, ayudándolas a entenderse mejor con sus propios sentimientos y con sus caballos. 'El susurrante de caballos' es sencillamente una práctica malinterpretada. Los nativos americanos solían tomar a un caballo sentándose sobre ellos de un salto y mordiendo sus orejas. El dolor hacía que el caballo se calmase y se quedase quieto inmediatamente. Cuando los colonizadores lo vieron interpretaron que el hombre le susurraba al caballo para tranquilizarlo</desc>
     <credits>
       <director>Robert Redford</director>
       <actor>Robert Redford</actor>
@@ -11778,7 +11779,7 @@
   </programme>
   <programme start="20170624183000 +0200" stop="20170624220000 +0200" channel="Real Madrid TV">
     <title lang="es">Ciudad Real Madrid</title>
-    <desc lang="es">Espacio deportivo que cubre la actualidad del centro deportivo del Real Madrid. Desde ruedas de prensa a retransmisiones de partidos de las categorías inferiores(c)</desc>
+    <desc lang="es">Espacio deportivo que cubre la actualidad del centro deportivo del Real Madrid. Desde ruedas de prensa a retransmisiones de partidos de las categorías inferiores</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
@@ -11815,20 +11816,20 @@
   <programme start="20170624220000 +0200" stop="20170624234500 +0200" channel="Real Madrid TV">
     <title lang="es">Historia que tú hiciste</title>
     <sub-title lang="es">La Séptima. R.Madrid-Juventus</sub-title>
-    <desc lang="es">Sin descripción(n)</desc>
+    <desc lang="es">Sin descripción</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170624234500 +0200" stop="20170624013000 +0200" channel="Real Madrid TV">
     <title lang="es">Fútbol. Copa del Rey Juvenil</title>
     <sub-title lang="es">Villarreal-RM Juvenil A</sub-title>
-    <desc lang="es">Semifinal(n)</desc>
+    <desc lang="es">Semifinal</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625013000 +0200" stop="20170625055500 +0200" channel="Real Madrid TV">
     <title lang="es">Hoy Jugamos</title>
-    <desc lang="es">Programa dedicado al partido de la jornada(n)</desc>
+    <desc lang="es">Programa dedicado al partido de la jornada</desc>
     <date>2015</date>
     <category lang="es">Deportes</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/04/861956.png" />
@@ -11839,7 +11840,7 @@
   </programme>
   <programme start="20170625055500 +0200" stop="20170625064500 +0200" channel="Real Madrid TV">
     <title lang="es">Historias con alma</title>
-    <desc lang="es">Historias con alma(n)</desc>
+    <desc lang="es">Historias con alma</desc>
     <date>2016</date>
     <category lang="es">Juegos Olímpicos</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/1179148.png" />
@@ -11850,7 +11851,7 @@
   </programme>
   <programme start="20170625064500 +0200" stop="20170625080000 +0200" channel="Real Madrid TV">
     <title lang="es">90 Minuti</title>
-    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido(n)</desc>
+    <desc lang="es">Formato de actualidad y humor presentado por Miki Nadal y María Gómez. Un programa de zapping fresco y divertido</desc>
     <date>2016</date>
     <category lang="es">Programas</category>
     <icon src="http://e04-elmundo.uecdn.es/television/programacion-tv/img/programas/8a/1185930.png" />
@@ -11861,121 +11862,121 @@
   </programme>
   <programme start="20170625080000 +0200" stop="20170625100000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625100000 +0200" stop="20170625120000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625120000 +0200" stop="20170625140000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625140000 +0200" stop="20170625160000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625160000 +0200" stop="20170625180000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625180000 +0200" stop="20170625200000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625200000 +0200" stop="20170625220000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170625220000 +0200" stop="20170625000000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626000000 +0200" stop="20170626020000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626020000 +0200" stop="20170626040000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626040000 +0200" stop="20170626060000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626060000 +0200" stop="20170626080000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626080000 +0200" stop="20170626100000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626100000 +0200" stop="20170626120000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626120000 +0200" stop="20170626140000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626140000 +0200" stop="20170626160000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626160000 +0200" stop="20170626180000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626180000 +0200" stop="20170626200000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626200000 +0200" stop="20170626220000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
   <programme start="20170626220000 +0200" stop="20170626000000 +0200" channel="Real Madrid TV">
     <title lang="es">real madrid tv</title>
-    <desc lang="es">·martes(n)</desc>
+    <desc lang="es">·martes</desc>
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
