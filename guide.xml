@@ -52,9 +52,9 @@
     <display-name lang="en">A24 [FHD]</display-name>
     <url>http://www.yo.tv</url>
   </channel>
-  <channel id="América TV Internacional">
-    <display-name lang="en">America TV [HD]</display-name>
-    <url>http://www.yo.tv</url>
+  <channel id="América 2">
+    <display-name lang="es">America TV [HD]</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="C5N">
     <display-name lang="en">C5N</display-name>
@@ -7018,260 +7018,728 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20170628060000 +0000" stop="20170628073000 +0000" channel="América TV Internacional">
-    <title lang="en">Pamela a la tarde</title>
-    <desc lang="en">Un ameno y divertido magazine, con la reconocida anfitriona y su equipo de panelistas. Cada tarde, la bella Pamela recibe en su estudio a los invitados del mundo del espectáculo y la farándula local. Con un look renovado, la acompañan Carlos Monti, Pablo Duggan, Facundo Pastor, Soledad Larghi y Luli Fernández</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170628000000 -0300" stop="20170628010000 -0300" channel="América 2">
+    <title lang="es">ANIMALES SUELTOS</title>
+    <desc lang="es">El ciclo repasa cada noche la actualidad con informes e invitados especiales, abordados con el humor y la picardía que los caracterizan, pero incorporando nuevos personajes a su staff que le sumarán su particular visión(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Jorge Asis</actor>
+      <actor>Sergio Beresztein</actor>
+      <actor>Edi Zunino</actor>
+      <actor>Fernando Carnota</actor>
+      <actor>Daniel Santoro</actor>
+      <actor>Romina Manguel</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170628073000 +0000" stop="20170628100000 +0000" channel="América TV Internacional">
-    <title lang="en">Duplex A24</title>
+  <programme start="20170628010000 -0300" stop="20170628020000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
   </programme>
-  <programme start="20170628100000 +0000" stop="20170628131500 +0000" channel="América TV Internacional">
-    <title lang="en">Buenos Días América</title>
-    <desc lang="en">Segmento informativo que presenta las primeras noticias del día, en el que se hace un repaso por los últimos hechos que fueron noticia en Argentina y el mundo</desc>
-    <star-rating>
-      <value>1.2</value>
-    </star-rating>
+  <programme start="20170628020000 -0300" stop="20170628040000 -0300" channel="América 2">
+    <title lang="es">INTRUSOS EN EL ESPECTÁCULO</title>
+    <desc lang="es">El clásico programa de espectáculos que pone en la mira a la farándula nacional e internacional. Invitados en vivo y mesas de debate sobre los temas más candentes del día son parte de lo que acerca 'Intrusos' diariamente(n)</desc>
+    <credits>
+      <actor>Daniel Ambrosino</actor>
+      <actor>Adrián Pallares</actor>
+      <actor>Marcela Tauro</actor>
+      <actor>Augusto Tartúfoli</actor>
+      <actor>Jorge Rial</actor>
+      <actor>Damián Rojo</actor>
+      <actor>Débora D'amato</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170628131500 +0000" stop="20170628150000 +0000" channel="América TV Internacional">
-    <title lang="en">Cocinando para vos</title>
+  <programme start="20170628040000 -0300" stop="20170628050000 -0300" channel="América 2">
+    <title lang="es">INFAMA</title>
+    <desc lang="es">El reality de la farándula que se mete en la intimidad del espectáculo, con el equipo de periodistas más explosivo y picante(n)</desc>
+    <credits>
+      <actor>Pía Shaw</actor>
+      <actor>Luis Ventura</actor>
+      <actor>Denise Dumas</actor>
+      <actor>David Kavlin</actor>
+      <actor>Guido Zaffora</actor>
+      <actor>Sofía Macaggi</actor>
+      <actor>Nicolás Peralta</actor>
+      <actor>Cora Debarbieri</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170628150000 +0000" stop="20170628160000 +0000" channel="América TV Internacional">
-    <title lang="en">Te cuento al mediodía</title>
-    <desc lang="en">Un magazine informativo con un enfoque moderno, con tecnología de última generación y toda la información exclusiva y en vivo</desc>
+  <programme start="20170628050000 -0300" stop="20170628053000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
   </programme>
-  <programme start="20170628160000 +0000" stop="20170628183000 +0000" channel="América TV Internacional">
-    <title lang="en">Intrusos</title>
-    <desc lang="en">Noticias y primicias sobre la gente de la farándula y el espectáculo</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170628053000 -0300" stop="20170628070000 -0300" channel="América 2">
+    <title lang="es">ANIMÉRICA</title>
+    <desc lang="es">Propuesta para niños con un valor diferencial y una artística original, que ofrece contenido educativo y de entretenimiento donde los niños podrán encontrar un espacio de aprendizaje y diversión(n)</desc>
+    <category lang="es">Infantil</category>
   </programme>
-  <programme start="20170628183000 +0000" stop="20170628201500 +0000" channel="América TV Internacional">
-    <title lang="en">Pamela a la tarde</title>
-    <desc lang="en">Un ameno y divertido magazine, con la reconocida anfitriona y su equipo de panelistas. Cada tarde, la bella Pamela recibe en su estudio a los invitados del mundo del espectáculo y la farándula local. Con un look renovado, la acompañan Carlos Monti, Pablo Duggan, Facundo Pastor, Soledad Larghi y Luli Fernández</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170628070000 -0300" stop="20170628101500 -0300" channel="América 2">
+    <title lang="es">BUENOS DÍAS AMÉRICA</title>
+    <desc lang="es">Primer segmento del día, que tiene como objetivo presentar la información de las primeras horas del día, y mostrar un adelanto de los hechos que serán noticia a lo largo de la jornada(n)</desc>
+    <credits>
+      <actor>Antonio Laje</actor>
+      <actor>Soledad Larghi</actor>
+      <actor>Dario D’Amore</actor>
+      <actor>Jose Hernandez</actor>
+      <actor>Juan Cruz Sánz</actor>
+      <actor>Fernando Carolei</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170628201500 +0000" stop="20170628215000 +0000" channel="América TV Internacional">
-    <title lang="en">Infama</title>
-    <desc lang="en">Santiago del Moro te trae todo lo que pasa en la farándula, las últimas novedades</desc>
+  <programme start="20170628101500 -0300" stop="20170628120000 -0300" channel="América 2">
+    <title lang="es">COCINANDO PARA VOS</title>
+    <desc lang="es">Con la personalidad única, espontánea y directa de Maru, estará acompañada por el humorista y actor El Turco Naim. Además, mientras conduce y realiza dos platos (uno dulce y uno salado), tendrá dos colegas que harán otros platos(n)</desc>
+    <credits>
+      <actor>Maru Botana</actor>
+      <actor>Turco Naim</actor>
+      <actor>Roberto Ottini</actor>
+      <actor>Lucila Viggiano</actor>
+      <actor>Soledad Martins</actor>
+      <actor>Fernando Carolei</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Cocina</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170628215000 +0000" stop="20170628230000 +0000" channel="América TV Internacional">
-    <title lang="en">América Noticias Segunda Edición</title>
-    <desc lang="en">Noticias, deportes y estado del tiempo</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
+  <programme start="20170628120000 -0300" stop="20170628130000 -0300" channel="América 2">
+    <title lang="es">TE CUENTO AL MEDIODÍA</title>
+    <desc lang="es">Programa que informa con un enfoque moderno, contará con tecnología de última generación y como siempre toda la información exclusiva y en vivo(n)</desc>
+    <credits>
+      <actor>Antonio Laje</actor>
+      <actor>Carolina Losada</actor>
+      <actor>Mariano Oliveros</actor>
+      <actor>Mariana Contartessi</actor>
+      <actor>Cora Debarbieri</actor>
+      <actor>Diego García Sáenz</actor>
+      <actor>Fernando Carolei</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Magazine</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170628230000 +0000" stop="20170629001500 +0000" channel="América TV Internacional">
-    <title lang="en">Polémica en el bar</title>
+  <programme start="20170628130000 -0300" stop="20170628153000 -0300" channel="América 2">
+    <title lang="es">INTRUSOS EN EL ESPECTÁCULO</title>
+    <desc lang="es">El clásico programa de espectáculos que pone en la mira a la farándula nacional e internacional. Invitados en vivo y mesas de debate sobre los temas más candentes del día son parte de lo que acerca 'Intrusos' diariamente(n)</desc>
+    <credits>
+      <actor>Daniel Ambrosino</actor>
+      <actor>Adrián Pallares</actor>
+      <actor>Marcela Tauro</actor>
+      <actor>Augusto Tartúfoli</actor>
+      <actor>Jorge Rial</actor>
+      <actor>Damián Rojo</actor>
+      <actor>Débora D'amato</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629001500 +0000" stop="20170629021500 +0000" channel="América TV Internacional">
-    <title lang="en">Intratables</title>
-    <desc lang="en">Especialistas dan su opinión sobre temas de actualidad e interés público</desc>
-    <category lang="en">Discusión/charla</category>
-    <category lang="en">Debate</category>
+  <programme start="20170628153000 -0300" stop="20170628171500 -0300" channel="América 2">
+    <title lang="es">PAMELA A LA TARDE</title>
+    <desc lang="es">Pamela David abordará los temas de actualidad más importantes desde la política más dura hasta historias de vida conmovedoras. El ciclo cuenta, además con Invitados especiales, móviles en vivo e interacción con los televidentes(n)</desc>
+    <credits>
+      <actor>Pamela David</actor>
+      <actor>Carlos Monti</actor>
+      <actor>Facundo Pastor</actor>
+      <actor>Soledad Larghi</actor>
+      <actor>Luli Fernández</actor>
+      <actor>Chiche Gelblung</actor>
+      <actor>Amalia Granata</actor>
+      <actor>Ana Rosenfeld</actor>
+      <actor>Candelaria de la Sota</actor>
+      <actor>Santiago Riva Roy</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Magazine</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629021500 +0000" stop="20170629040000 +0000" channel="América TV Internacional">
-    <title lang="en">Animales Sueltos</title>
-    <desc lang="en">Un 'magazine' de actualidad y humor</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Entretenimiento</category>
-    <star-rating>
-      <value>5.1</value>
-    </star-rating>
+  <programme start="20170628171500 -0300" stop="20170628185000 -0300" channel="América 2">
+    <title lang="es">INFAMA</title>
+    <desc lang="es">El reality de la farándula que se mete en la intimidad del espectáculo, con el equipo de periodistas más explosivo y picante(n)</desc>
+    <credits>
+      <actor>Pía Shaw</actor>
+      <actor>Luis Ventura</actor>
+      <actor>Denise Dumas</actor>
+      <actor>David Kavlin</actor>
+      <actor>Guido Zaffora</actor>
+      <actor>Sofía Macaggi</actor>
+      <actor>Nicolás Peralta</actor>
+      <actor>Cora Debarbieri</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629040000 +0000" stop="20170629060000 +0000" channel="América TV Internacional">
-    <title lang="en">Intrusos</title>
-    <desc lang="en">Noticias y primicias sobre la gente de la farándula y el espectáculo</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170628185000 -0300" stop="20170628200000 -0300" channel="América 2">
+    <title lang="es">AMÉRICA NOTICIAS 2DA. EDICIÓN</title>
+    <desc lang="es">Las noticias del día, transmitidas por el único informativo independiente, además de los temas que más te interesan: actualidad, servicios, informes y móviles en vivo. Dos ediciones de un mismo programa, porque las noticias no descansan(n)</desc>
+    <credits>
+      <actor>Guillermo Andino</actor>
+      <actor>Mónica Gutiérrez</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629060000 +0000" stop="20170629073000 +0000" channel="América TV Internacional">
-    <title lang="en">Pamela a la tarde</title>
-    <desc lang="en">Un ameno y divertido magazine, con la reconocida anfitriona y su equipo de panelistas. Cada tarde, la bella Pamela recibe en su estudio a los invitados del mundo del espectáculo y la farándula local. Con un look renovado, la acompañan Carlos Monti, Pablo Duggan, Facundo Pastor, Soledad Larghi y Luli Fernández</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170628200000 -0300" stop="20170628211500 -0300" channel="América 2">
+    <title lang="es">POLÉMICA EN EL BAR</title>
+    <desc lang="es">Todas las noches, una mesa conformada por Mariano Iudica, Chiche Gelblung, Mauro Viale, Grego Rosello, El Pepo, Diego Brancatelli y Juan Acosta nos sorprenderá con humor, debates calientes, risas y actualidad(n)</desc>
+    <credits>
+      <actor>Mariano Iúdica</actor>
+      <actor>Chiche Gelblung</actor>
+      <actor>Mauro Viale</actor>
+      <actor>Grego Rosello</actor>
+      <actor>Rubén “Pepo” Castiñeiras</actor>
+      <actor>Diego Brancatelli</actor>
+      <actor>Juan Acosta</actor>
+      <actor>Álvaro Navia</actor>
+      <actor>Pachu Peña</actor>
+      <actor>Virginia Gallardo</actor>
+      <actor>Florencia De la V</actor>
+      <actor>Luisa Albinoni</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Interés General</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629073000 +0000" stop="20170629100000 +0000" channel="América TV Internacional">
-    <title lang="en">Duplex A24</title>
+  <programme start="20170628211500 -0300" stop="20170628231500 -0300" channel="América 2">
+    <title lang="es">INTRATABLES</title>
+    <desc lang="es">Un resumen de los temas del día, con informes especiales, debates en piso y la opinión de un panel de especialistas(n)</desc>
+    <credits>
+      <actor>Santiago Del Moro</actor>
+      <actor>María Julia Oliván</actor>
+      <actor>Jonatan Viale</actor>
+      <actor>Diego Brancatelli</actor>
+      <actor>Paulo Vilouta</actor>
+      <actor>Fernando Cerolini</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629100000 +0000" stop="20170629131500 +0000" channel="América TV Internacional">
-    <title lang="en">Buenos Días América</title>
-    <desc lang="en">Segmento informativo que presenta las primeras noticias del día, en el que se hace un repaso por los últimos hechos que fueron noticia en Argentina y el mundo</desc>
-    <star-rating>
-      <value>1.2</value>
-    </star-rating>
+  <programme start="20170628231500 -0300" stop="20170629000000 -0300" channel="América 2">
+    <title lang="es">ANIMALES SUELTOS</title>
+    <desc lang="es">El ciclo repasa cada noche la actualidad con informes e invitados especiales, abordados con el humor y la picardía que los caracterizan, pero incorporando nuevos personajes a su staff que le sumarán su particular visión(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Jorge Asis</actor>
+      <actor>Sergio Beresztein</actor>
+      <actor>Edi Zunino</actor>
+      <actor>Fernando Carnota</actor>
+      <actor>Daniel Santoro</actor>
+      <actor>Romina Manguel</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629131500 +0000" stop="20170629150000 +0000" channel="América TV Internacional">
-    <title lang="en">Cocinando para vos</title>
+  <programme start="20170629000000 -0300" stop="20170629010000 -0300" channel="América 2">
+    <title lang="es">ANIMALES SUELTOS</title>
+    <desc lang="es">El ciclo repasa cada noche la actualidad con informes e invitados especiales, abordados con el humor y la picardía que los caracterizan, pero incorporando nuevos personajes a su staff que le sumarán su particular visión(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Jorge Asis</actor>
+      <actor>Sergio Beresztein</actor>
+      <actor>Edi Zunino</actor>
+      <actor>Fernando Carnota</actor>
+      <actor>Daniel Santoro</actor>
+      <actor>Romina Manguel</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629150000 +0000" stop="20170629160000 +0000" channel="América TV Internacional">
-    <title lang="en">Te cuento al mediodía</title>
-    <desc lang="en">Un magazine informativo con un enfoque moderno, con tecnología de última generación y toda la información exclusiva y en vivo</desc>
+  <programme start="20170629010000 -0300" stop="20170629020000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
   </programme>
-  <programme start="20170629160000 +0000" stop="20170629183000 +0000" channel="América TV Internacional">
-    <title lang="en">Intrusos</title>
-    <desc lang="en">Noticias y primicias sobre la gente de la farándula y el espectáculo</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170629020000 -0300" stop="20170629034000 -0300" channel="América 2">
+    <title lang="es">INTRATABLES</title>
+    <desc lang="es">Un resumen de los temas del día, con informes especiales, debates en piso y la opinión de un panel de especialistas(n)</desc>
+    <credits>
+      <actor>Santiago Del Moro</actor>
+      <actor>María Julia Oliván</actor>
+      <actor>Jonatan Viale</actor>
+      <actor>Diego Brancatelli</actor>
+      <actor>Paulo Vilouta</actor>
+      <actor>Fernando Cerolini</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629183000 +0000" stop="20170629201500 +0000" channel="América TV Internacional">
-    <title lang="en">Pamela a la tarde</title>
-    <desc lang="en">Un ameno y divertido magazine, con la reconocida anfitriona y su equipo de panelistas. Cada tarde, la bella Pamela recibe en su estudio a los invitados del mundo del espectáculo y la farándula local. Con un look renovado, la acompañan Carlos Monti, Pablo Duggan, Facundo Pastor, Soledad Larghi y Luli Fernández</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170629034000 -0300" stop="20170629060000 -0300" channel="América 2">
+    <title lang="es">ANIMALES SUELTOS</title>
+    <desc lang="es">El ciclo repasa cada noche la actualidad con informes e invitados especiales, abordados con el humor y la picardía que los caracterizan, pero incorporando nuevos personajes a su staff que le sumarán su particular visión(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Jorge Asis</actor>
+      <actor>Sergio Beresztein</actor>
+      <actor>Edi Zunino</actor>
+      <actor>Fernando Carnota</actor>
+      <actor>Daniel Santoro</actor>
+      <actor>Romina Manguel</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170629201500 +0000" stop="20170629215000 +0000" channel="América TV Internacional">
-    <title lang="en">Infama</title>
-    <desc lang="en">Santiago del Moro te trae todo lo que pasa en la farándula, las últimas novedades</desc>
+  <programme start="20170629060000 -0300" stop="20170629063000 -0300" channel="América 2">
+    <title lang="es">TEVECOMPRAS</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente(n)</desc>
+    <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20170629215000 +0000" stop="20170629230000 +0000" channel="América TV Internacional">
-    <title lang="en">América Noticias Segunda Edición</title>
-    <desc lang="en">Noticias, deportes y estado del tiempo</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
+  <programme start="20170629063000 -0300" stop="20170629070000 -0300" channel="América 2">
+    <title lang="es">ANIMÉRICA</title>
+    <desc lang="es">Propuesta para niños con un valor diferencial y una artística original, que ofrece contenido educativo y de entretenimiento donde los niños podrán encontrar un espacio de aprendizaje y diversión(n)</desc>
+    <category lang="es">Infantil</category>
   </programme>
-  <programme start="20170629230000 +0000" stop="20170630001500 +0000" channel="América TV Internacional">
-    <title lang="en">Polémica en el bar</title>
+  <programme start="20170629070000 -0300" stop="20170629073000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
   </programme>
-  <programme start="20170630001500 +0000" stop="20170630021500 +0000" channel="América TV Internacional">
-    <title lang="en">Intratables</title>
-    <desc lang="en">Especialistas dan su opinión sobre temas de actualidad e interés público</desc>
-    <category lang="en">Discusión/charla</category>
-    <category lang="en">Debate</category>
+  <programme start="20170629073000 -0300" stop="20170629090000 -0300" channel="América 2">
+    <title lang="es">TEVECOMPRAS</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente(n)</desc>
+    <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20170630021500 +0000" stop="20170630040000 +0000" channel="América TV Internacional">
-    <title lang="en">Animales Sueltos</title>
-    <desc lang="en">Un 'magazine' de actualidad y humor</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Entretenimiento</category>
-    <star-rating>
-      <value>5.1</value>
-    </star-rating>
+  <programme start="20170629090000 -0300" stop="20170629093000 -0300" channel="América 2">
+    <title lang="es">INTRÉPIDOS</title>
+    <desc lang="es">Intrépidos trae toda la información de tecnología, música, videoclips, los secretos del mundo de la farándula adolescente, entretenimiento, lo más visto en la web, secciones de moda, espectáculos y deportes extremos(n)</desc>
+    <credits>
+      <actor>Gastón</actor>
+      <actor>Agustin</actor>
+      <actor>Lis</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20170630040000 +0000" stop="20170630060000 +0000" channel="América TV Internacional">
-    <title lang="en">Intrusos</title>
-    <desc lang="en">Noticias y primicias sobre la gente de la farándula y el espectáculo</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170629093000 -0300" stop="20170629110000 -0300" channel="América 2">
+    <title lang="es">EL UNIVERSO DE LOURDES</title>
+    <desc lang="es">Musicales que harán bailar y jugar a los más chiquitos. Los niños , junto a Lourdes, serán los protagonistas: habrá secciones de canto, de baile, un segmento de desfile, de cocina y magia(n)</desc>
+    <date>2016</date>
+    <category lang="es">Musical</category>
   </programme>
-  <programme start="20170630060000 +0000" stop="20170630073000 +0000" channel="América TV Internacional">
-    <title lang="en">Pamela a la tarde</title>
-    <desc lang="en">Un ameno y divertido magazine, con la reconocida anfitriona y su equipo de panelistas. Cada tarde, la bella Pamela recibe en su estudio a los invitados del mundo del espectáculo y la farándula local. Con un look renovado, la acompañan Carlos Monti, Pablo Duggan, Facundo Pastor, Soledad Larghi y Luli Fernández</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170629110000 -0300" stop="20170629120000 -0300" channel="América 2">
+    <title lang="es">PUENTES DE ESPERANZA</title>
+    <desc lang="es">Programa que te invita a un recorrido especial por Argentina, cautivándonos con historias inspiradoras y ejemplares por la pasión y el corazón que le ponen los hombres y mujeres protagonistas(n)</desc>
+    <credits>
+      <actor>Bettina Bulgheroni</actor>
+    </credits>
+    <category lang="es">Interés General</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170630073000 +0000" stop="20170630100000 +0000" channel="América TV Internacional">
-    <title lang="en">Duplex A24</title>
+  <programme start="20170629120000 -0300" stop="20170629180000 -0300" channel="América 2">
+    <title lang="es">PASIÓN DE SÁBADO</title>
+    <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical(n)</desc>
+    <credits>
+      <actor>Marcela Baños</actor>
+      <actor>Lisandro Carret</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="es">Musical</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170630100000 +0000" stop="20170630131500 +0000" channel="América TV Internacional">
-    <title lang="en">Buenos Días América</title>
-    <desc lang="en">Segmento informativo que presenta las primeras noticias del día, en el que se hace un repaso por los últimos hechos que fueron noticia en Argentina y el mundo</desc>
-    <star-rating>
-      <value>1.2</value>
-    </star-rating>
+  <programme start="20170629180000 -0300" stop="20170629200000 -0300" channel="América 2">
+    <title lang="es">AMÉRICA NOTICIAS</title>
+    <desc lang="es">Toda la información de la actualidad de Argentina y del resto del mundo. Móviles en vivo y todo lo que sucede al instante(n)</desc>
+    <credits>
+      <actor>Eduardo Bataglia</actor>
+      <actor>Paula Trapani</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170630131500 +0000" stop="20170630150000 +0000" channel="América TV Internacional">
-    <title lang="en">Cocinando para vos</title>
+  <programme start="20170629200000 -0300" stop="20170629220000 -0300" channel="América 2">
+    <title lang="es">SECRETOS VERDADEROS</title>
+    <desc lang="es">Las biografías no autorizadas de las máximas figuras del espectáculo, como nadie se animó a contarlas(n)</desc>
+    <credits>
+      <actor>Luis Ventura</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170630150000 +0000" stop="20170630160000 +0000" channel="América TV Internacional">
-    <title lang="en">Te cuento al mediodía</title>
-    <desc lang="en">Un magazine informativo con un enfoque moderno, con tecnología de última generación y toda la información exclusiva y en vivo</desc>
+  <programme start="20170629220000 -0300" stop="20170630000000 -0300" channel="América 2">
+    <title lang="es">DEBO DECIR</title>
+    <desc lang="es">Con invitados especiales, destacadas figuras de la política y el deporte, artistas, periodistas y amigos, #DeboDecir ofrecerá una distendida charla en la que se hará un repaso de los temas más relevantes de la semana(n)</desc>
+    <credits>
+      <actor>Luis Novaresio</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Show</category>
   </programme>
-  <programme start="20170630160000 +0000" stop="20170630183000 +0000" channel="América TV Internacional">
-    <title lang="en">Intrusos</title>
-    <desc lang="en">Noticias y primicias sobre la gente de la farándula y el espectáculo</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170630000000 -0300" stop="20170630010000 -0300" channel="América 2">
+    <title lang="es">ARENA EXTREME</title>
+    <desc lang="es">Programa dedicado a deportes extremos, mujeres, noticias y peleas de MMA y UFC(n)</desc>
+    <credits>
+      <actor>Natalia Franzoni</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Deportivo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170630183000 +0000" stop="20170630201500 +0000" channel="América TV Internacional">
-    <title lang="en">Pamela a la tarde</title>
-    <desc lang="en">Un ameno y divertido magazine, con la reconocida anfitriona y su equipo de panelistas. Cada tarde, la bella Pamela recibe en su estudio a los invitados del mundo del espectáculo y la farándula local. Con un look renovado, la acompañan Carlos Monti, Pablo Duggan, Facundo Pastor, Soledad Larghi y Luli Fernández</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Discusión/charla</category>
+  <programme start="20170630010000 -0300" stop="20170630020000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
   </programme>
-  <programme start="20170630201500 +0000" stop="20170630215000 +0000" channel="América TV Internacional">
-    <title lang="en">Infama</title>
-    <desc lang="en">Santiago del Moro te trae todo lo que pasa en la farándula, las últimas novedades</desc>
+  <programme start="20170630020000 -0300" stop="20170630060000 -0300" channel="América 2">
+    <title lang="es">PASIÓN DE SÁBADO</title>
+    <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical(n)</desc>
+    <credits>
+      <actor>Marcela Baños</actor>
+      <actor>Lisandro Carret</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="es">Musical</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170630215000 +0000" stop="20170630230000 +0000" channel="América TV Internacional">
-    <title lang="en">América Noticias Segunda Edición</title>
-    <desc lang="en">Noticias, deportes y estado del tiempo</desc>
-    <category lang="en">Noticias</category>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
+  <programme start="20170630060000 -0300" stop="20170630063000 -0300" channel="América 2">
+    <title lang="es">TEVECOMPRAS</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente(n)</desc>
+    <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20170630230000 +0000" stop="20170701001500 +0000" channel="América TV Internacional">
-    <title lang="en">Polémica en el bar</title>
+  <programme start="20170630063000 -0300" stop="20170630070000 -0300" channel="América 2">
+    <title lang="es">ANIMÉRICA</title>
+    <desc lang="es">Propuesta para niños con un valor diferencial y una artística original, que ofrece contenido educativo y de entretenimiento donde los niños podrán encontrar un espacio de aprendizaje y diversión(n)</desc>
+    <category lang="es">Infantil</category>
   </programme>
-  <programme start="20170701001500 +0000" stop="20170701021500 +0000" channel="América TV Internacional">
-    <title lang="en">Intratables</title>
-    <desc lang="en">Especialistas dan su opinión sobre temas de actualidad e interés público</desc>
-    <category lang="en">Discusión/charla</category>
-    <category lang="en">Debate</category>
+  <programme start="20170630070000 -0300" stop="20170630073000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
   </programme>
-  <programme start="20170701021500 +0000" stop="20170701040000 +0000" channel="América TV Internacional">
-    <title lang="en">Animales Sueltos</title>
-    <desc lang="en">Un 'magazine' de actualidad y humor</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Entretenimiento</category>
-    <star-rating>
-      <value>5.1</value>
-    </star-rating>
+  <programme start="20170630073000 -0300" stop="20170630080000 -0300" channel="América 2">
+    <title lang="es">TEVECOMPRAS</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente(n)</desc>
+    <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20170701040000 +0000" stop="20170701050000 +0000" channel="América TV Internacional">
-    <title lang="en">Infama</title>
-    <desc lang="en">Santiago del Moro te trae todo lo que pasa en la farándula, las últimas novedades</desc>
+  <programme start="20170630080000 -0300" stop="20170630090000 -0300" channel="América 2">
+    <title lang="es">FITNESS Y BELLEZA</title>
+    <desc lang="es">El programa abarca una temática actual referida al mundo de la salud y la estética personal(n)</desc>
+    <credits>
+      <actor>Elena Fortabat</actor>
+    </credits>
+    <category lang="es">Interés General</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170701050000 +0000" stop="20170701050000 +0000" channel="América TV Internacional">
-    <title lang="en">Intratables</title>
-    <desc lang="en">Especialistas dan su opinión sobre temas de actualidad e interés público</desc>
-    <category lang="en">Discusión/charla</category>
-    <category lang="en">Debate</category>
+  <programme start="20170630090000 -0300" stop="20170630103000 -0300" channel="América 2">
+    <title lang="es">INTRÉPIDOS</title>
+    <desc lang="es">Intrépidos trae toda la información de tecnología, música, videoclips, los secretos del mundo de la farándula adolescente, entretenimiento, lo más visto en la web, secciones de moda, espectáculos y deportes extremos(n)</desc>
+    <credits>
+      <actor>Gastón</actor>
+      <actor>Agustin</actor>
+      <actor>Lis</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20170701050000 +0000" stop="20170701064000 +0000" channel="América TV Internacional">
-    <title lang="en">Intratables</title>
-    <desc lang="en">Especialistas dan su opinión sobre temas de actualidad e interés público</desc>
-    <category lang="en">Discusión/charla</category>
-    <category lang="en">Debate</category>
+  <programme start="20170630103000 -0300" stop="20170630120000 -0300" channel="América 2">
+    <title lang="es">EL UNIVERSO DE LOURDES</title>
+    <desc lang="es">Musicales que harán bailar y jugar a los más chiquitos. Los niños , junto a Lourdes, serán los protagonistas: habrá secciones de canto, de baile, un segmento de desfile, de cocina y magia(n)</desc>
+    <date>2016</date>
+    <category lang="es">Musical</category>
   </programme>
-  <programme start="20170701064000 +0000" stop="20170701090000 +0000" channel="América TV Internacional">
-    <title lang="en">Animales Sueltos</title>
-    <desc lang="en">Un 'magazine' de actualidad y humor</desc>
-    <category lang="en">Revista</category>
-    <category lang="en">Entretenimiento</category>
-    <star-rating>
-      <value>5.1</value>
-    </star-rating>
+  <programme start="20170630120000 -0300" stop="20170630150000 -0300" channel="América 2">
+    <title lang="es">ESPECIAL - SECRETOS VERDADEROS</title>
+    <desc lang="es">Los capítulos con más repercusiones(n)</desc>
+    <credits>
+      <actor>Luis Ventura</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170701090000 +0000" stop="20170701123000 +0000" channel="América TV Internacional">
-    <title lang="en">Duplex A24</title>
+  <programme start="20170630150000 -0300" stop="20170630170000 -0300" channel="América 2">
+    <title lang="es">MAURO, LA PURA VERDAD</title>
+    <desc lang="es">Más profundo e impactante y con su estilo único. Mauro busca la verdad definitiva sobre los casos y personajes que más conmueven al país. Mauro en la calle, donde la noticia lo necesita y lo llama(n)</desc>
+    <credits>
+      <actor>Mauro Viale</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170701123000 +0000" stop="20170701140000 +0000" channel="América TV Internacional">
-    <title lang="en">El universo de Lourdes</title>
-    <desc lang="en">Juegos, canciones, desfiles, invitados y segmentos especiales</desc>
+  <programme start="20170630170000 -0300" stop="20170630190000 -0300" channel="América 2">
+    <title lang="es">AMÉRICA NOTICIAS</title>
+    <desc lang="es">Toda la información de la actualidad de Argentina y del resto del mundo. Móviles en vivo y todo lo que sucede al instante(n)</desc>
+    <credits>
+      <actor>Eduardo Bataglia</actor>
+      <actor>Paula Trapani</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170701140000 +0000" stop="20170701150000 +0000" channel="América TV Internacional">
-    <title lang="en">Duplex A24</title>
+  <programme start="20170630190000 -0300" stop="20170630203000 -0300" channel="América 2">
+    <title lang="es">PONELE LA FIRMA</title>
+    <desc lang="es">En vivo el gran show del espectáculo con todos los secretos de la farándula(n)</desc>
+    <credits>
+      <actor>Marcelo Polino</actor>
+    </credits>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170701150000 +0000" stop="20170701210000 +0000" channel="América TV Internacional">
-    <title lang="en">Pasión de Sábado</title>
-    <desc lang="en">Actuaciones de los mejores artistas y grupos de la música tropical</desc>
-    <category lang="en">Representación</category>
-    <star-rating>
-      <value>4.2</value>
-    </star-rating>
+  <programme start="20170630203000 -0300" stop="20170630220000 -0300" channel="América 2">
+    <title lang="es">LA CORNISA</title>
+    <desc lang="es">Luis Majul continúa caminando por la cornisa, para mostrarte todo lo que está pasando con la realidad, con el estilo inconfundible de siempre, notas, informes y toda la actualidad(n)</desc>
+    <credits>
+      <actor>Luis Majul</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <country>Argentina</country>
   </programme>
-  <programme start="20170701210000 +0000" stop="20170701230000 +0000" channel="América TV Internacional">
-    <title lang="en">América Noticias</title>
-    <desc lang="en">Las noticias del día, además de temas de interés como: actualidad, servicios, informes y móviles en vivo</desc>
-    <category lang="en">Noticias</category>
+  <programme start="20170630220000 -0300" stop="20170701000000 -0300" channel="América 2">
+    <title lang="es">DR. HOUSE</title>
+    <desc lang="es">Una excelente drama médico donde la "mala" de la película es la enfermedad y el "héroe" un irreverente, controvertido y a la vez brillante médico, el Dr. Gregory House(n)</desc>
+    <credits>
+      <director>David Shore</director>
+      <actor>Hugh Laurie</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Jesse Spencer</actor>
+      <actor>Bobbin Bergstrom</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Kal Penn</actor>
+      <actor>Odette Annable</actor>
+      <actor>Charlyne Yi</actor>
+      <actor>Anne Dudek</actor>
+      <actor>Jennifer Crystal Foley</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Liz Benoit</actor>
+      <actor>Peter Jacobson</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Drama</category>
+    <country>EE.UU.</country>
   </programme>
-  <programme start="20170701230000 +0000" stop="20170702010000 +0000" channel="América TV Internacional">
-    <title lang="en">Secretos Verdaderos</title>
-    <desc lang="en">Las historias jamás contadas de los famosos</desc>
-    <category lang="en">Entretenimiento</category>
+  <programme start="20170701000000 -0300" stop="20170701004500 -0300" channel="América 2">
+    <title lang="es">MODO SELFIE</title>
+    <desc lang="es">Un viaje para explorar los lugares más emblemáticos de Europa desde tu casa. Un ciclo dedicado recorrer las rutas del viejo continente y conocer sobre la cultura de ciudades desde una mirada selfie,como si vos estuvieras allí(n)</desc>
+    <credits>
+      <actor>Agustín Neglia</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20170701004500 -0300" stop="20170701010000 -0300" channel="América 2">
+    <title lang="es">DRIVERS</title>
+    <desc lang="es">Todos los autos tienen una historia(n)</desc>
+    <credits>
+      <actor>Melina Pitra</actor>
+    </credits>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20170701010000 -0300" stop="20170701020000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20170701020000 -0300" stop="20170701040000 -0300" channel="América 2">
+    <title lang="es">INTRUSOS EN EL ESPECTÁCULO</title>
+    <desc lang="es">El clásico programa de espectáculos que pone en la mira a la farándula nacional e internacional. Invitados en vivo y mesas de debate sobre los temas más candentes del día son parte de lo que acerca 'Intrusos' diariamente(n)</desc>
+    <credits>
+      <actor>Daniel Ambrosino</actor>
+      <actor>Adrián Pallares</actor>
+      <actor>Marcela Tauro</actor>
+      <actor>Augusto Tartúfoli</actor>
+      <actor>Jorge Rial</actor>
+      <actor>Damián Rojo</actor>
+      <actor>Débora D'amato</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701040000 -0300" stop="20170701050000 -0300" channel="América 2">
+    <title lang="es">INFAMA</title>
+    <desc lang="es">El reality de la farándula que se mete en la intimidad del espectáculo, con el equipo de periodistas más explosivo y picante(n)</desc>
+    <credits>
+      <actor>Pía Shaw</actor>
+      <actor>Luis Ventura</actor>
+      <actor>Denise Dumas</actor>
+      <actor>David Kavlin</actor>
+      <actor>Guido Zaffora</actor>
+      <actor>Sofía Macaggi</actor>
+      <actor>Nicolás Peralta</actor>
+      <actor>Cora Debarbieri</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701050000 -0300" stop="20170701053000 -0300" channel="América 2">
+    <title lang="es">PARE DE SUFRIR</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20170701053000 -0300" stop="20170701070000 -0300" channel="América 2">
+    <title lang="es">ANIMÉRICA</title>
+    <desc lang="es">Propuesta para niños con un valor diferencial y una artística original, que ofrece contenido educativo y de entretenimiento donde los niños podrán encontrar un espacio de aprendizaje y diversión(n)</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20170701070000 -0300" stop="20170701101500 -0300" channel="América 2">
+    <title lang="es">BUENOS DÍAS AMÉRICA</title>
+    <desc lang="es">Primer segmento del día, que tiene como objetivo presentar la información de las primeras horas del día, y mostrar un adelanto de los hechos que serán noticia a lo largo de la jornada(n)</desc>
+    <credits>
+      <actor>Antonio Laje</actor>
+      <actor>Soledad Larghi</actor>
+      <actor>Dario D’Amore</actor>
+      <actor>Jose Hernandez</actor>
+      <actor>Juan Cruz Sánz</actor>
+      <actor>Fernando Carolei</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701101500 -0300" stop="20170701120000 -0300" channel="América 2">
+    <title lang="es">COCINANDO PARA VOS</title>
+    <desc lang="es">Con la personalidad única, espontánea y directa de Maru, estará acompañada por el humorista y actor El Turco Naim. Además, mientras conduce y realiza dos platos (uno dulce y uno salado), tendrá dos colegas que harán otros platos(n)</desc>
+    <credits>
+      <actor>Maru Botana</actor>
+      <actor>Turco Naim</actor>
+      <actor>Roberto Ottini</actor>
+      <actor>Lucila Viggiano</actor>
+      <actor>Soledad Martins</actor>
+      <actor>Fernando Carolei</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Cocina</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701120000 -0300" stop="20170701130000 -0300" channel="América 2">
+    <title lang="es">TE CUENTO AL MEDIODÍA</title>
+    <desc lang="es">Programa que informa con un enfoque moderno, contará con tecnología de última generación y como siempre toda la información exclusiva y en vivo(n)</desc>
+    <credits>
+      <actor>Antonio Laje</actor>
+      <actor>Carolina Losada</actor>
+      <actor>Mariano Oliveros</actor>
+      <actor>Mariana Contartessi</actor>
+      <actor>Cora Debarbieri</actor>
+      <actor>Diego García Sáenz</actor>
+      <actor>Fernando Carolei</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Magazine</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701130000 -0300" stop="20170701153000 -0300" channel="América 2">
+    <title lang="es">INTRUSOS EN EL ESPECTÁCULO</title>
+    <desc lang="es">El clásico programa de espectáculos que pone en la mira a la farándula nacional e internacional. Invitados en vivo y mesas de debate sobre los temas más candentes del día son parte de lo que acerca 'Intrusos' diariamente(n)</desc>
+    <credits>
+      <actor>Daniel Ambrosino</actor>
+      <actor>Adrián Pallares</actor>
+      <actor>Marcela Tauro</actor>
+      <actor>Augusto Tartúfoli</actor>
+      <actor>Jorge Rial</actor>
+      <actor>Damián Rojo</actor>
+      <actor>Débora D'amato</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701153000 -0300" stop="20170701171500 -0300" channel="América 2">
+    <title lang="es">PAMELA A LA TARDE</title>
+    <desc lang="es">Pamela David abordará los temas de actualidad más importantes desde la política más dura hasta historias de vida conmovedoras. El ciclo cuenta, además con Invitados especiales, móviles en vivo e interacción con los televidentes(n)</desc>
+    <credits>
+      <actor>Pamela David</actor>
+      <actor>Carlos Monti</actor>
+      <actor>Facundo Pastor</actor>
+      <actor>Soledad Larghi</actor>
+      <actor>Luli Fernández</actor>
+      <actor>Chiche Gelblung</actor>
+      <actor>Amalia Granata</actor>
+      <actor>Ana Rosenfeld</actor>
+      <actor>Candelaria de la Sota</actor>
+      <actor>Santiago Riva Roy</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Magazine</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701171500 -0300" stop="20170701185000 -0300" channel="América 2">
+    <title lang="es">INFAMA</title>
+    <desc lang="es">El reality de la farándula que se mete en la intimidad del espectáculo, con el equipo de periodistas más explosivo y picante(n)</desc>
+    <credits>
+      <actor>Pía Shaw</actor>
+      <actor>Luis Ventura</actor>
+      <actor>Denise Dumas</actor>
+      <actor>David Kavlin</actor>
+      <actor>Guido Zaffora</actor>
+      <actor>Sofía Macaggi</actor>
+      <actor>Nicolás Peralta</actor>
+      <actor>Cora Debarbieri</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701185000 -0300" stop="20170701200000 -0300" channel="América 2">
+    <title lang="es">AMÉRICA NOTICIAS 2DA. EDICIÓN</title>
+    <desc lang="es">Las noticias del día, transmitidas por el único informativo independiente, además de los temas que más te interesan: actualidad, servicios, informes y móviles en vivo. Dos ediciones de un mismo programa, porque las noticias no descansan(n)</desc>
+    <credits>
+      <actor>Guillermo Andino</actor>
+      <actor>Mónica Gutiérrez</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701200000 -0300" stop="20170701211500 -0300" channel="América 2">
+    <title lang="es">POLÉMICA EN EL BAR</title>
+    <desc lang="es">Todas las noches, una mesa conformada por Mariano Iudica, Chiche Gelblung, Mauro Viale, Grego Rosello, El Pepo, Diego Brancatelli y Juan Acosta nos sorprenderá con humor, debates calientes, risas y actualidad(n)</desc>
+    <credits>
+      <actor>Mariano Iúdica</actor>
+      <actor>Chiche Gelblung</actor>
+      <actor>Mauro Viale</actor>
+      <actor>Grego Rosello</actor>
+      <actor>Rubén “Pepo” Castiñeiras</actor>
+      <actor>Diego Brancatelli</actor>
+      <actor>Juan Acosta</actor>
+      <actor>Álvaro Navia</actor>
+      <actor>Pachu Peña</actor>
+      <actor>Virginia Gallardo</actor>
+      <actor>Florencia De la V</actor>
+      <actor>Luisa Albinoni</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Interés General</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701211500 -0300" stop="20170701231500 -0300" channel="América 2">
+    <title lang="es">INTRATABLES</title>
+    <desc lang="es">Un resumen de los temas del día, con informes especiales, debates en piso y la opinión de un panel de especialistas(n)</desc>
+    <credits>
+      <actor>Santiago Del Moro</actor>
+      <actor>María Julia Oliván</actor>
+      <actor>Jonatan Viale</actor>
+      <actor>Diego Brancatelli</actor>
+      <actor>Paulo Vilouta</actor>
+      <actor>Fernando Cerolini</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Espectáculo</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20170701231500 -0300" stop="20170702000000 -0300" channel="América 2">
+    <title lang="es">ANIMALES SUELTOS</title>
+    <desc lang="es">El ciclo repasa cada noche la actualidad con informes e invitados especiales, abordados con el humor y la picardía que los caracterizan, pero incorporando nuevos personajes a su staff que le sumarán su particular visión(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Jorge Asis</actor>
+      <actor>Sergio Beresztein</actor>
+      <actor>Edi Zunino</actor>
+      <actor>Fernando Carnota</actor>
+      <actor>Daniel Santoro</actor>
+      <actor>Romina Manguel</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <country>Argentina</country>
   </programme>
   <programme start="20170628030000 +0000" stop="20170628080000 +0000" channel="C5N">
     <title lang="en">Noches mías</title>
@@ -10330,54 +10798,58 @@
     <category lang="es">Otros</category>
     <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/5B/227528.jpg" />
   </programme>
-  <programme start="20170629224000 +0200" stop="20170630001500 +0200" channel="Antena 3">
-    <title lang="es">Mercancía peligrosa</title>
-    <title lang="xx">Precious Cargo</title>
-    <desc lang="es">Tras un golpe fallido, el gánster Eddie comienza la búsqueda de la seductora ladrona Karen, que le ha fallado. Para ganarse otra vez la confianza de Eddie, Karen recurre a su examante y famoso ladrón internacional, Jack. Pero cuando el trabajo se complica, las alianzas se verán puestas a prueba y los tres protagonistas tendrán que hacer frente a su fatídico destino(c)</desc>
+  <programme start="20170629224000 +0200" stop="20170630004500 +0200" channel="Antena 3">
+    <title lang="es">Rastro oculto</title>
+    <title lang="xx">Untraceable</title>
+    <desc lang="es">Un psicópata cibernético retransmite torturas y asesinatos en su página web interactiva, donde el final de sus víctimas se acelera en función del número de visitas que registra. La agente especial del FBI Jennifer Marsh y su equipo emprenden una carrera contrarreloj para atraparle cuando el caso se convierte en algo personal(c)</desc>
     <credits>
-      <director>Max Adams</director>
-      <actor>Clare Forlani</actor>
-      <actor>Lydia Hull</actor>
-      <actor>Bruce Willis</actor>
-      <actor>Daniel Bernhardt</actor>
-      <actor>John Brotherton</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Mark-Paul Gosselaar</actor>
-      <writer>Max Adams</writer>
-      <composer>James Edward Barker</composer>
+      <director>Gregory Hoblit</director>
+      <actor>Diane Lane</actor>
+      <actor>Joseph Cross</actor>
+      <actor>Peter Lewis</actor>
+      <actor>Billy Burke</actor>
+      <actor>Colin Hanks</actor>
+      <actor>Mary Beth Hurt</actor>
+      <writer>Allison Burnett</writer>
+      <writer>Mark Brinker</writer>
+      <writer>Robert Fyvolent</writer>
+      <producer>Gary Lucchesi</producer>
+      <producer>Steven Pearl</producer>
+      <producer>Hawk Koch</producer>
+      <producer>Andy Cohen</producer>
+      <producer>Tom Rosenberg</producer>
+      <composer>Christopher Young</composer>
     </credits>
-    <date>2016</date>
+    <date>2008</date>
     <category lang="es">Cine</category>
-    <category lang="es">Acción</category>
-    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/0B/1305285.jpg" />
+    <category lang="es">Suspense / Thriller</category>
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/09/14689.jpg" />
     <star-rating>
-      <value>(Precious Cargo)</value>
+      <value>(Untraceable)</value>
     </star-rating>
   </programme>
-  <programme start="20170630001500 +0200" stop="20170630023000 +0200" channel="Antena 3">
-    <title lang="es">Promesas incumplidas</title>
-    <title lang="xx">The Proposition</title>
-    <desc lang="es">A la edad de 16 María se convierte en monja. Pero nunca se acostumbra a las estrictas normas de su nueva vida y un día se enamora del padre Tim, es entonces cuando quiere colgar sus votos(c)</desc>
+  <programme start="20170630004500 +0200" stop="20170630023000 +0200" channel="Antena 3">
+    <title lang="es">Su hijastro</title>
+    <title lang="xx">The Stepson</title>
+    <desc lang="es">Donna es una consejera que asiste a enfermos terminales. Vive una vida tranquila junto a su marido en el campo, pero cuando éste es asesinado misteriosamente en un accidente de coche y su hijastro vuelve para el entierro, su vida cambiará para siempre(c)</desc>
     <credits>
-      <director>Lesli Linka Glatter</director>
-      <actor>Bronia Wheeler</actor>
-      <actor>Kenneth Branagh</actor>
-      <actor>Robert Loggia</actor>
-      <actor>Madeleine Stowe</actor>
-      <actor>William Hurt</actor>
-      <actor>Ken Cheeseman</actor>
-      <writer>Rick Ramage</writer>
-      <producer>Diane Nabatoff</producer>
-      <producer>Ted Field</producer>
-      <producer>Scott Kroopf</producer>
-      <composer>Stephen Endelman</composer>
+      <director>Anthony Lefresne</director>
+      <actor>Sean Tucker</actor>
+      <actor>Jon McLaren</actor>
+      <actor>Chris Potter</actor>
+      <actor>Janet Rice</actor>
+      <actor>Christina Cox</actor>
+      <actor>Adam Beach</actor>
+      <writer>Kraig Wenman</writer>
+      <producer>Neil Bregman</producer>
+      <composer>David Burns</composer>
     </credits>
-    <date>1998</date>
+    <date>2010</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
-    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/D6/19045.jpg" />
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/C5/7290.jpg" />
     <star-rating>
-      <value>(The Proposition)</value>
+      <value>(The Stepson)</value>
     </star-rating>
   </programme>
   <programme start="20170630023000 +0200" stop="20170630030000 +0200" channel="Antena 3">
@@ -11069,7 +11541,7 @@
   </programme>
   <programme start="20170628110000 +0000" stop="20170628112300 +0000" channel="Antena 3 (Internacional)">
     <title lang="en">Hoy cocinas tú</title>
-    <desc lang="en">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas(c)</desc>
+    <desc lang="en">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas</desc>
     <category lang="en">Comida</category>
     <category lang="en">Revista</category>
     <star-rating>
@@ -11078,7 +11550,7 @@
   </programme>
   <programme start="20170628112300 +0000" stop="20170628120000 +0000" channel="Antena 3 (Internacional)">
     <title lang="en">¿Qué me pasa, doctor?</title>
-    <desc lang="en">Un doctor junto a un equipo de especialistas atiende a preguntas de los espectadores grabadas en el programa, hechas por medio de llamadas telefónicas o enviadas vía Internet(c)</desc>
+    <desc lang="en">Un doctor junto a un equipo de especialistas atiende a preguntas de los espectadores grabadas en el programa, hechas por medio de llamadas telefónicas o enviadas vía Internet</desc>
     <category lang="en">Otro</category>
     <category lang="en">Salud</category>
   </programme>
@@ -11532,13 +12004,13 @@
   </programme>
   <programme start="20170701160000 +0000" stop="20170701171500 +0000" channel="Antena 3 (Internacional)">
     <title lang="en">Dentro de...</title>
-    <desc lang="en">Una mirada a la logística detrás de los eventos más grandes y espectaculares alrededor del mundo(c)</desc>
+    <desc lang="en">Una mirada a la logística detrás de los eventos más grandes y espectaculares alrededor del mundo</desc>
     <category lang="en">Documental</category>
     <icon src="https://i.yo.tv/p/se/d35011/s/03D3F6DB92C4923167CE70043B5D2D6E.jpg" />
   </programme>
   <programme start="20170701171500 +0000" stop="20170701190000 +0000" channel="Antena 3 (Internacional)">
     <title lang="en">El club de la comedia</title>
-    <desc lang="en">Programa de monólogos, cuenta con algunos de los rostros más conocidos del panorama nacional(c)</desc>
+    <desc lang="en">Programa de monólogos, cuenta con algunos de los rostros más conocidos del panorama nacional</desc>
     <category lang="en">Comedia</category>
     <category lang="en">Especial</category>
   </programme>
@@ -13733,23 +14205,23 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20170628220500 +0200" stop="20170628021000 +0200" channel="La 1">
-    <title lang="es">MasterChef</title>
-    <sub-title lang="es">Final</sub-title>
-    <desc lang="es">Presenta Eva González. Talent show de cocina que pretende encontrar al mejor cocinero amateur. 15 aspirantes competirán y pondrán a prueba sus conocimientos y habilidades para alzarse con el título que además tiene un premio de 100.000 euros. Jordi Cruz, Pepe Rodríguez y Samantha Vallejo Nágera serán los jueces que evaluarán los platos de los concursantes, tendrán en cuenta: el sabor de los alimentos, la presentación del plato, la técnica y la actitud</desc>
-    <date>2017</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/af/468143.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170628215000 +0200" stop="20170628220500 +0200" channel="La 1">
     <title lang="es">El tiempo TVE 2</title>
     <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo(r)</desc>
     <category lang="es">El Tiempo</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/db/467163.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170628220500 +0200" stop="20170628021000 +0200" channel="La 1">
+    <title lang="es">MasterChef</title>
+    <sub-title lang="es">Final</sub-title>
+    <desc lang="es">Presenta Eva González. Talent show de cocina que pretende encontrar al mejor cocinero amateur. 15 aspirantes competirán y pondrán a prueba sus conocimientos y habilidades para alzarse con el título que además tiene un premio de 100.000 euros. Jordi Cruz, Pepe Rodríguez y Samantha Vallejo Nágera serán los jueces que evaluarán los platos de los concursantes, tendrán en cuenta: el sabor de los alimentos, la presentación del plato, la técnica y la actitud(r)</desc>
+    <date>2017</date>
+    <category lang="es">Reality Show</category>
+    <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/af/468143.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -16848,7 +17320,7 @@
   </programme>
   <programme start="20170629223000 +0200" stop="20170630003000 +0200" channel="laSexta">
     <title lang="es">Nightcrawler</title>
-    <desc lang="es">Un joven desempleado decide adentrarse en el peligroso y oscuro mundo del periodismo criminalista en Los Ángeles. En el límite de la legalidad, graba con su cámara los accidentes de tráfico nocturnos(c)</desc>
+    <desc lang="es">Un joven desempleado decide adentrarse en el peligroso y oscuro mundo del periodismo criminalista en Los Ángeles. En el límite de la legalidad, graba con su cámara los accidentes de tráfico nocturnos</desc>
     <credits>
       <director>Dan Gilroy</director>
       <actor>Eric Lange</actor>
@@ -16878,7 +17350,7 @@
   <programme start="20170630003000 +0200" stop="20170630023000 +0200" channel="laSexta">
     <title lang="es">Beginners (Principiantes)</title>
     <title lang="xx">Beginners</title>
-    <desc lang="es">Oliver conoce a la impredecible Anna tras la muerte de su padre. Mientras, los recuerdos de su padre Hal -un hombre que, tras más de cuatro décadas de matrimonio, sale del armario- siguen aflorando(c)</desc>
+    <desc lang="es">Oliver conoce a la impredecible Anna tras la muerte de su padre. Mientras, los recuerdos de su padre Hal -un hombre que, tras más de cuatro décadas de matrimonio, sale del armario- siguen aflorando</desc>
     <credits>
       <director>Mike Mills</director>
       <actor>China Shavers</actor>
@@ -18190,17 +18662,55 @@
       <value>5.1</value>
     </star-rating>
   </programme>
-  <programme start="20170628024000 +0200" stop="20170628040000 +0200" channel="Neox">
+  <programme start="20170628004500 +0200" stop="20170628024500 +0200" channel="Neox">
+    <title lang="es">Arma letal 2</title>
+    <title lang="xx">Lethal Weapon 2</title>
+    <desc lang="es">Murthaug y Riggs van persiguiendo dos coches conducidos por aparentes narcotraficantes que hablan en una extraña lengua. Durante la persecución, uno de los vehículos choca contra el escaparate de una tienda. El conductor consigue huir pero no su preciosa carga: monedas de oro sudafricanas prohibidas en los Estados Unidos. Tras un ataque a Roger en la puerta de su casa por un grupo de vándalos sudafricanos, los dos policías siguen con sus vidas. Murthaug descubre con espanto que su hija ha protagonizado un anuncio de preservativos y mientras, Riggs se dedica a hacer chistes a su costa. De pronto, el Capitán de la Policía les asigna una nueva misión: deben proteger a un testigo federal: Leo Getz. Cuando van a recogerlo al hotel, presencian cómo un hombre disfrazado de camarero trata de matarle. El asesino escapa y Riggs le pregunta a Getz por qué querrían atacarle. El testigo confiesa que ha estado traficando con drogas con un grupo sudafricano, el mismo que atacó a Rogers y que conducía el camión. También les dirá quién dirige las operaciones: Arjen Rudd, diplomático en el consulado de Sudáfrica. Basándose en su inmunidad política, Arjen no cederá ante el acoso ni los interrogatorios de los dos policías y estos tendrán que infiltrarse en su casa y conseguir las pruebas necesarias para poder inculparle. Pero Arjen sabe que van tras él y enviará a todos sus hombres para intentar detenerles. Cueste lo que cueste. Durante toda la película, Riggs ridiculiza a sus enemigos cambiándoles los nombres. En vez de Arjen Rudd le llama "Aryan", llama a Pieter Vorstedt "Adolf" y se refiere a Rud y a sus asociados como los "Señores de la Raza". Todas son referencias a la ideología suprematista de Adolf Hitler. En aquella época, en Sudáfrica, existía una ideología llamada "apartheid" que declaraba la superioridad blanca. La película utiliza a sus seguidores para ridiculizarlos y enviar un mensaje político(c)</desc>
+    <credits>
+      <director>Richard Donner</director>
+      <actor>Joss Ackland</actor>
+      <actor>Traci Wolfe</actor>
+      <actor>Joe Pesci</actor>
+      <actor>Danny Glover</actor>
+      <actor>Derrick O'Connor</actor>
+      <actor>Darlene Love</actor>
+      <actor>Patsy Kensit</actor>
+      <actor>Mel Gibson</actor>
+      <writer>Shane Black</writer>
+      <writer>Jeffrey Boam</writer>
+      <writer>Warren Murphy</writer>
+      <producer>Joel Silver</producer>
+      <producer>Richard Donner</producer>
+      <composer>Eric Clapton</composer>
+      <composer>Michael Kamen</composer>
+      <composer>David Sanborn</composer>
+    </credits>
+    <date>1989</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/52/11879.jpg" />
+    <star-rating>
+      <value>(Lethal Weapon 2)</value>
+    </star-rating>
+  </programme>
+  <programme start="20170628024500 +0200" stop="20170628040000 +0200" channel="Neox">
     <title lang="es">Juega con el 8</title>
-    <desc lang="es">Juega con el 8</desc>
+    <desc lang="es">Juega con el 8(c)</desc>
     <date>1996</date>
     <category lang="es">Magacín</category>
     <category lang="es">Otros</category>
     <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/44/328549.jpg" />
   </programme>
-  <programme start="20170628040000 +0200" stop="20170628061500 +0200" channel="Neox">
+  <programme start="20170628040000 +0200" stop="20170628060000 +0200" channel="Neox">
     <title lang="es">Minutos musicales</title>
-    <desc lang="es">Espacio dedicado a la emisión de videoclips musicales</desc>
+    <desc lang="es">Espacio dedicado a la emisión de videoclips musicales(c)</desc>
+    <category lang="es">Magacín</category>
+    <category lang="es">Videoclips</category>
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/D8/15793.jpg" />
+  </programme>
+  <programme start="20170628060000 +0200" stop="20170628061500 +0200" channel="Neox">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Espacio dedicado a la emisión de videoclips musicales(c)</desc>
     <category lang="es">Magacín</category>
     <category lang="es">Videoclips</category>
     <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/D8/15793.jpg" />
@@ -18491,16 +19001,52 @@
     <category lang="es">Naturaleza y animales</category>
     <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/98/14280.jpg" />
   </programme>
-  <programme start="20170629070000 +0200" stop="20170629122000 +0200" channel="Neox">
-    <title lang="es">Veraneox Kidz</title>
-    <desc lang="es">Espacio dedicado a las mejores series infantiles y juveniles</desc>
+  <programme start="20170629070000 +0200" stop="20170629093500 +0200" channel="Neox">
+    <title lang="es">Neox kidz</title>
+    <desc lang="es">Espacio dedicado a las mejores series infantiles y juveniles(c)</desc>
     <category lang="es">Magacín</category>
     <category lang="es">Infantiles</category>
-    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/A3/1199625.jpg" />
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/A6/414704.jpg" />
   </programme>
-  <programme start="20170629122000 +0200" stop="20170629135500 +0200" channel="Neox">
+  <programme start="20170629093500 +0200" stop="20170629102500 +0200" channel="Neox">
+    <title lang="es">The Middle</title>
+    <desc lang="es">Los Heck son una familia un tanto peculiar. Francis, una pésima vendedora de coches de segunda mano, se esforzará todo lo posible por sacar adelante a sus hijos y mantener el matrimonio en su sitio. Sin embargo, las cosas no son tan sencillas. Su marido, Mike Heck, un hombre duro que trabaja en la cantina, es incapaz de mostrarse afable con nadie y prácticamente ignora la educación de sus hijos. Axl, un adolescente preocupado por ser popular, jugar al football y las chicas, se desesperará con las tonterías de su madre y de su hermana Sue, la cual tiene la mala pata de fracasar en todo aquello que intenta. Pero el premio especial se lo lleva el pequeño, Brick, un niño que aparenta tener un principio de autismo y cuya suprema inteligencia pero tremendas rarezas le acabarán metiendo en problemas. Juntos intentarán sobrevivir como una familia a las desventuras del día a día sin olvidar, que pase lo que pase, los Heck nunca se rinden. Marsha Mason, que interpreta el papel de la madre de Frankie, interpretó a Paula McFadden en 'La chica del adiós (1977)'. En una versión más actualizada de la película - The Goodbye Girl (2004) - Patricia Heaton también interpreta el mismo personaje(c)</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedias</category>
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/A0/330852.jpg" />
+  </programme>
+  <programme start="20170629102500 +0200" stop="20170629112000 +0200" channel="Neox">
+    <title lang="es">Los Goldberg</title>
+    <title lang="xx">The Goldbergs (How the Hell Am I Normal?)</title>
+    <desc lang="es">Comedia de situación que narra las peripecias de una familia de clase media americana de los años 80, desde el punto de vista de Adam Goldberg, el hijo pequeño, un niño de 11 años que sueña con ser director de cine y filma constantemente a su familia con su cámara de vídeo. El clan familiar está formado por Beverly, la matriarca gruñona y sobreprotectora; Murray, el padre despistado; Erica, la hermana mayor, inteligente y popular; Barry, el hermano mediano y soñador apasionado; Adam, cuyo personaje está basado en la propia infancia del creador de la serie y el abuelo Al 'Pops' Solomon, el galán más desvergonzado de la familia(c)</desc>
+    <credits>
+      <director>Adam F. Goldberg</director>
+      <actor>Troy Winbush</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Troy Gentile</actor>
+      <actor>George Segal</actor>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Brec Bassinger</actor>
+      <writer>Adam F. Goldberg</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedias</category>
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/C3/1157736.jpg" />
+    <star-rating>
+      <value>(The Goldbergs (How the Hell Am I Normal?))</value>
+    </star-rating>
+  </programme>
+  <programme start="20170629112000 +0200" stop="20170629135500 +0200" channel="Neox">
     <title lang="es">Aquí no hay quien viva</title>
-    <desc lang="es">La serie narra la vida de un heterogéneo grupo de vecinos que vive en un edificio de construcción antigua, ubicado en el número 21 de la ficticia calle Desengaño, en el centro de Madrid. El inmueble consta de tres pisos, con dos viviendas por planta, un ático, una portería y un videoclub. El reparto es coral, algunos de los principales personajes son: Emilio el portero, Juan Cuesta el presidente de la comunidad, Mauri periodista, gay y vive con su pareja Fernando, en el primero. Paco es el dependiente del videoclub, Vicenta y Marisa son hermanas y viven juntas con su perro. Roberto y Lucía se mudan al tercero, son jóvenes e incian su vida en común con gran ilusión. Belén es su vecina de enfrente y busca trabajo</desc>
+    <desc lang="es">La serie narra la vida de un heterogéneo grupo de vecinos que vive en un edificio de construcción antigua, ubicado en el número 21 de la ficticia calle Desengaño, en el centro de Madrid. El inmueble consta de tres pisos, con dos viviendas por planta, un ático, una portería y un videoclub. El reparto es coral, algunos de los principales personajes son: Emilio el portero, Juan Cuesta el presidente de la comunidad, Mauri periodista, gay y vive con su pareja Fernando, en el primero. Paco es el dependiente del videoclub, Vicenta y Marisa son hermanas y viven juntas con su perro. Roberto y Lucía se mudan al tercero, son jóvenes e incian su vida en común con gran ilusión. Belén es su vecina de enfrente y busca trabajo(c)</desc>
     <credits>
       <actor>Fernando Tejero</actor>
       <actor>José Luis Gil</actor>
@@ -18650,10 +19196,10 @@
       <value>(The Goldbergs (How the Hell Am I Normal?))</value>
     </star-rating>
   </programme>
-  <programme start="20170629193000 +0200" stop="20170629210500 +0200" channel="Neox">
+  <programme start="20170629193000 +0200" stop="20170629210000 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <title lang="xx">The Big Bang Theory</title>
-    <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos, Leonard Hofstadter y Sheldon Cooper, comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina, Penny, llega a su edificio, de la cual Leonard se quedará prendado. La entrada de esta aspirante a actriz con turnos de camarera tampoco pasará desapercibida para los amigos de Leonard y Sheldon: el ingeniero aeroespacial Howard Wolowitz, un judío con dotes de galán que intenta ser tan sexy como inteligente y Raj Koothrappali, astro-físico de la India, quien a pesar de su exotismo es incapaz de hablar ante la presencia de una mujer. La comicidad de la serie radica en el contraste entre el intelecto y lo geek de los cuatro chicos, con las habilidades sociales y lógica aplastante de la nueva vecina. Tampoco escatima en vocabulario técnico ni referencias a teorías y principios físicos que sustentan los razonamientos de los cuatro científicos en cada episodio. La inclusión de personajes como Bernadette y Amy en próximas temporadas enriquecerá la historia de los personajes Creada por Chuck Lorre y Bill Prady, desarrollaron la serie en base a las experiencias de Prady como programador informático en los ochenta. En su inicio, la serie se vio afectada por la huelga de guionistas, y como comedia, ha sido nominada y galardonada en múltiples ocasiones; siendo premiado en concreto Jim Parsons (Sheldon Cooper) por sus logros individuales en la misma</desc>
+    <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos, Leonard Hofstadter y Sheldon Cooper, comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina, Penny, llega a su edificio, de la cual Leonard se quedará prendado. La entrada de esta aspirante a actriz con turnos de camarera tampoco pasará desapercibida para los amigos de Leonard y Sheldon: el ingeniero aeroespacial Howard Wolowitz, un judío con dotes de galán que intenta ser tan sexy como inteligente y Raj Koothrappali, astro-físico de la India, quien a pesar de su exotismo es incapaz de hablar ante la presencia de una mujer. La comicidad de la serie radica en el contraste entre el intelecto y lo geek de los cuatro chicos, con las habilidades sociales y lógica aplastante de la nueva vecina. Tampoco escatima en vocabulario técnico ni referencias a teorías y principios físicos que sustentan los razonamientos de los cuatro científicos en cada episodio. La inclusión de personajes como Bernadette y Amy en próximas temporadas enriquecerá la historia de los personajes Creada por Chuck Lorre y Bill Prady, desarrollaron la serie en base a las experiencias de Prady como programador informático en los ochenta. En su inicio, la serie se vio afectada por la huelga de guionistas, y como comedia, ha sido nominada y galardonada en múltiples ocasiones; siendo premiado en concreto Jim Parsons (Sheldon Cooper) por sus logros individuales en la misma(c)</desc>
     <credits>
       <actor>Kaley Cuoco</actor>
       <actor>Simon Helberg</actor>
@@ -18675,10 +19221,10 @@
       <value>(The Big Bang Theory)</value>
     </star-rating>
   </programme>
-  <programme start="20170629210500 +0200" stop="20170629223000 +0200" channel="Neox">
+  <programme start="20170629210000 +0200" stop="20170629220000 +0200" channel="Neox">
     <title lang="es">Los Simpson</title>
     <title lang="xx">The Simpsons</title>
-    <desc lang="es">Los Simpson es una singular familia formada por cinco miembros: Homer, el peculiar cabeza de familia, Marge, su sacrificada esposa, Lisa, la niña superdotada, Bart, el hijo gamberro y Maggie, la más pequeña de la familia. Viven en la ciudad de Springfield rodeados de los más variopintos personajes (Moe, el dueño de la taberna; Apu, que regenta un badulaque; Skinner, el director de la escuela; el Sr. Burns, dueño de la central nuclear en la que trabaja Homer...) y experimentan las situaciones más extraordinarias con una ácida critica a la sociedad estadounidense como telón de fondo. El responsable de esta exitosa serie es Matt Groening, un dibujante y escritor estadounidense que creó originalmente una serie de cortos a cuyos personajes dio los nombres de su propia familia y que fueron estrenados en televisión en 1987 como parte de 'El show de Tracey Ullman'. Después de tres exitosas temporadas pasó a ser una serie de media hora de duración. Sus personajes se han mantenido como líderes de audiencia en distintos países desde 1989 y han cosechado todo tipo de premios</desc>
+    <desc lang="es">Los Simpson es una singular familia formada por cinco miembros: Homer, el peculiar cabeza de familia, Marge, su sacrificada esposa, Lisa, la niña superdotada, Bart, el hijo gamberro y Maggie, la más pequeña de la familia. Viven en la ciudad de Springfield rodeados de los más variopintos personajes (Moe, el dueño de la taberna; Apu, que regenta un badulaque; Skinner, el director de la escuela; el Sr. Burns, dueño de la central nuclear en la que trabaja Homer...) y experimentan las situaciones más extraordinarias con una ácida critica a la sociedad estadounidense como telón de fondo. El responsable de esta exitosa serie es Matt Groening, un dibujante y escritor estadounidense que creó originalmente una serie de cortos a cuyos personajes dio los nombres de su propia familia y que fueron estrenados en televisión en 1987 como parte de 'El show de Tracey Ullman'. Después de tres exitosas temporadas pasó a ser una serie de media hora de duración. Sus personajes se han mantenido como líderes de audiencia en distintos países desde 1989 y han cosechado todo tipo de premios(c)</desc>
     <credits>
       <actor>Dan Castellaneta</actor>
       <actor>Nancy Cartwright</actor>
@@ -18703,10 +19249,18 @@
       <value>(The Simpsons)</value>
     </star-rating>
   </programme>
-  <programme start="20170629223000 +0200" stop="20170630000000 +0200" channel="Neox">
+  <programme start="20170629220000 +0200" stop="20170629223000 +0200" channel="Neox">
+    <title lang="es">Serie</title>
+    <desc lang="es">Emisión de una serie(c)</desc>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <category lang="es">Todas</category>
+    <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/1E/333642.jpg" />
+  </programme>
+  <programme start="20170629223000 +0200" stop="20170629233000 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <title lang="xx">The Big Bang Theory</title>
-    <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos, Leonard Hofstadter y Sheldon Cooper, comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina, Penny, llega a su edificio, de la cual Leonard se quedará prendado. La entrada de esta aspirante a actriz con turnos de camarera tampoco pasará desapercibida para los amigos de Leonard y Sheldon: el ingeniero aeroespacial Howard Wolowitz, un judío con dotes de galán que intenta ser tan sexy como inteligente y Raj Koothrappali, astro-físico de la India, quien a pesar de su exotismo es incapaz de hablar ante la presencia de una mujer. La comicidad de la serie radica en el contraste entre el intelecto y lo geek de los cuatro chicos, con las habilidades sociales y lógica aplastante de la nueva vecina. Tampoco escatima en vocabulario técnico ni referencias a teorías y principios físicos que sustentan los razonamientos de los cuatro científicos en cada episodio. La inclusión de personajes como Bernadette y Amy en próximas temporadas enriquecerá la historia de los personajes Creada por Chuck Lorre y Bill Prady, desarrollaron la serie en base a las experiencias de Prady como programador informático en los ochenta. En su inicio, la serie se vio afectada por la huelga de guionistas, y como comedia, ha sido nominada y galardonada en múltiples ocasiones; siendo premiado en concreto Jim Parsons (Sheldon Cooper) por sus logros individuales en la misma</desc>
+    <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos, Leonard Hofstadter y Sheldon Cooper, comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina, Penny, llega a su edificio, de la cual Leonard se quedará prendado. La entrada de esta aspirante a actriz con turnos de camarera tampoco pasará desapercibida para los amigos de Leonard y Sheldon: el ingeniero aeroespacial Howard Wolowitz, un judío con dotes de galán que intenta ser tan sexy como inteligente y Raj Koothrappali, astro-físico de la India, quien a pesar de su exotismo es incapaz de hablar ante la presencia de una mujer. La comicidad de la serie radica en el contraste entre el intelecto y lo geek de los cuatro chicos, con las habilidades sociales y lógica aplastante de la nueva vecina. Tampoco escatima en vocabulario técnico ni referencias a teorías y principios físicos que sustentan los razonamientos de los cuatro científicos en cada episodio. La inclusión de personajes como Bernadette y Amy en próximas temporadas enriquecerá la historia de los personajes Creada por Chuck Lorre y Bill Prady, desarrollaron la serie en base a las experiencias de Prady como programador informático en los ochenta. En su inicio, la serie se vio afectada por la huelga de guionistas, y como comedia, ha sido nominada y galardonada en múltiples ocasiones; siendo premiado en concreto Jim Parsons (Sheldon Cooper) por sus logros individuales en la misma(c)</desc>
     <credits>
       <actor>Kaley Cuoco</actor>
       <actor>Simon Helberg</actor>
@@ -18728,9 +19282,9 @@
       <value>(The Big Bang Theory)</value>
     </star-rating>
   </programme>
-  <programme start="20170630000000 +0200" stop="20170630010000 +0200" channel="Neox">
+  <programme start="20170629233000 +0200" stop="20170630003000 +0200" channel="Neox">
     <title lang="es">Mom</title>
-    <desc lang="es">Christy es una madre soltera, ex alcohólica y tiene una familia un poco extravagante. Por las circunstancias de la vida se reúne con su madre Bonnie tras muchos años sin verla para rehacer su vida en Napa Valley. Bonnie, interpretada por Allison Janney, insistirá por todos los medios en reconciliarse con su hija, tras años de dejarla de lado. Por su lado, Christy intenta, contra viento y marea, enmendar sus propios errores como madre, no sólo por superar sus problemas con el alcohol, sino también por intentar criar a su hija, que está en plena adolescencia y que ya no le tiene ningún respeto. Lo que le da ánimos será su hijo pequeño: Roscoe. Para empezar a rehacer su vida, Christy consigue un trabajo como camarera en un restaurante de la ciudad</desc>
+    <desc lang="es">Christy es una madre soltera, ex alcohólica y tiene una familia un poco extravagante. Por las circunstancias de la vida se reúne con su madre Bonnie tras muchos años sin verla para rehacer su vida en Napa Valley. Bonnie, interpretada por Allison Janney, insistirá por todos los medios en reconciliarse con su hija, tras años de dejarla de lado. Por su lado, Christy intenta, contra viento y marea, enmendar sus propios errores como madre, no sólo por superar sus problemas con el alcohol, sino también por intentar criar a su hija, que está en plena adolescencia y que ya no le tiene ningún respeto. Lo que le da ánimos será su hijo pequeño: Roscoe. Para empezar a rehacer su vida, Christy consigue un trabajo como camarera en un restaurante de la ciudad(c)</desc>
     <credits>
       <actor>Nate Corddry</actor>
       <actor>Matt Jones</actor>
@@ -18768,10 +19322,10 @@
     <category lang="es">Comedias</category>
     <icon src="http://estaticos04.elmundo.es/elmundo/television/fichas_programas/imagenes/6A/265110.jpg" />
   </programme>
-  <programme start="20170630010000 +0200" stop="20170630014500 +0200" channel="Neox">
+  <programme start="20170630003000 +0200" stop="20170630013000 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <title lang="xx">The Big Bang Theory</title>
-    <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos, Leonard Hofstadter y Sheldon Cooper, comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina, Penny, llega a su edificio, de la cual Leonard se quedará prendado. La entrada de esta aspirante a actriz con turnos de camarera tampoco pasará desapercibida para los amigos de Leonard y Sheldon: el ingeniero aeroespacial Howard Wolowitz, un judío con dotes de galán que intenta ser tan sexy como inteligente y Raj Koothrappali, astro-físico de la India, quien a pesar de su exotismo es incapaz de hablar ante la presencia de una mujer. La comicidad de la serie radica en el contraste entre el intelecto y lo geek de los cuatro chicos, con las habilidades sociales y lógica aplastante de la nueva vecina. Tampoco escatima en vocabulario técnico ni referencias a teorías y principios físicos que sustentan los razonamientos de los cuatro científicos en cada episodio. La inclusión de personajes como Bernadette y Amy en próximas temporadas enriquecerá la historia de los personajes Creada por Chuck Lorre y Bill Prady, desarrollaron la serie en base a las experiencias de Prady como programador informático en los ochenta. En su inicio, la serie se vio afectada por la huelga de guionistas, y como comedia, ha sido nominada y galardonada en múltiples ocasiones; siendo premiado en concreto Jim Parsons (Sheldon Cooper) por sus logros individuales en la misma</desc>
+    <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos, Leonard Hofstadter y Sheldon Cooper, comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina, Penny, llega a su edificio, de la cual Leonard se quedará prendado. La entrada de esta aspirante a actriz con turnos de camarera tampoco pasará desapercibida para los amigos de Leonard y Sheldon: el ingeniero aeroespacial Howard Wolowitz, un judío con dotes de galán que intenta ser tan sexy como inteligente y Raj Koothrappali, astro-físico de la India, quien a pesar de su exotismo es incapaz de hablar ante la presencia de una mujer. La comicidad de la serie radica en el contraste entre el intelecto y lo geek de los cuatro chicos, con las habilidades sociales y lógica aplastante de la nueva vecina. Tampoco escatima en vocabulario técnico ni referencias a teorías y principios físicos que sustentan los razonamientos de los cuatro científicos en cada episodio. La inclusión de personajes como Bernadette y Amy en próximas temporadas enriquecerá la historia de los personajes Creada por Chuck Lorre y Bill Prady, desarrollaron la serie en base a las experiencias de Prady como programador informático en los ochenta. En su inicio, la serie se vio afectada por la huelga de guionistas, y como comedia, ha sido nominada y galardonada en múltiples ocasiones; siendo premiado en concreto Jim Parsons (Sheldon Cooper) por sus logros individuales en la misma(c)</desc>
     <credits>
       <actor>Kaley Cuoco</actor>
       <actor>Simon Helberg</actor>
@@ -18793,10 +19347,10 @@
       <value>(The Big Bang Theory)</value>
     </star-rating>
   </programme>
-  <programme start="20170630014500 +0200" stop="20170630023000 +0200" channel="Neox">
+  <programme start="20170630013000 +0200" stop="20170630023000 +0200" channel="Neox">
     <title lang="es">Dos chicas sin blanca</title>
     <title lang="xx">2 Broke Girls</title>
-    <desc lang="es">Max Black es una chica muy espabilada y un poco caradura que se ve obligada a tener dos trabajos para poder llegar a fin de mes. Uno de ellos es como camarera en un restaurante retro en el que trabaja en el turno de noche. Caroline Channing es una joven acaudalada que de la noche a la mañana se ve despojada de todas sus riquezas. Obligada a trabajar para ganarse la vida llega al restaurante de Brooklyn en el que trabaja Max para acceder a un puesto de camarera. Entre las dos muchachas pronto surge una inseparable amistad a pesar de pertenecer a dos mundos muy distintos, empiezan a vivir juntas y luchar por un suño común, conseguir 250.000 dólares para montar su propio negocio. La serie ha sido creada por Michael Patrick King, guionista y productor de 'Sexo en Nueva York: La película', guionista de series conocidas como 'Sexo en Nueva York' o 'Will y Grace'. Las protagonistas son Beth Behrs y Kat Dennings, la primera de ellas es conocida por su participación en 'American Pie 7: El libro del amor', e Kat Dennings ha participado en films como 'Thor' o ' Una conejita en el campus'</desc>
+    <desc lang="es">Max Black es una chica muy espabilada y un poco caradura que se ve obligada a tener dos trabajos para poder llegar a fin de mes. Uno de ellos es como camarera en un restaurante retro en el que trabaja en el turno de noche. Caroline Channing es una joven acaudalada que de la noche a la mañana se ve despojada de todas sus riquezas. Obligada a trabajar para ganarse la vida llega al restaurante de Brooklyn en el que trabaja Max para acceder a un puesto de camarera. Entre las dos muchachas pronto surge una inseparable amistad a pesar de pertenecer a dos mundos muy distintos, empiezan a vivir juntas y luchar por un suño común, conseguir 250.000 dólares para montar su propio negocio. La serie ha sido creada por Michael Patrick King, guionista y productor de 'Sexo en Nueva York: La película', guionista de series conocidas como 'Sexo en Nueva York' o 'Will y Grace'. Las protagonistas son Beth Behrs y Kat Dennings, la primera de ellas es conocida por su participación en 'American Pie 7: El libro del amor', e Kat Dennings ha participado en films como 'Thor' o ' Una conejita en el campus'(c)</desc>
     <credits>
       <director>Whitney Cummings</director>
       <actor>Kat Dennings</actor>
@@ -21374,17 +21928,6 @@
     <category lang="es">Otros</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/98/1176984.png" />
   </programme>
-  <programme start="20170629121000 +0200" stop="20170629130000 +0200" channel="Real Madrid TV">
-    <title lang="es">Historia que tú hiciste</title>
-    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid</desc>
-    <date>2016</date>
-    <category lang="es">Deportes</category>
-    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
-    <country>España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20170629130000 +0200" stop="20170629131000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
     <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
@@ -21546,10 +22089,21 @@
   </programme>
   <programme start="20170629120000 +0200" stop="20170629121000 +0200" channel="Real Madrid TV">
     <title lang="es">Informativo</title>
-    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata(r)</desc>
+    <desc lang="es">Programa que hace un repaso por la actualidad más inmediata</desc>
     <date>2015</date>
     <category lang="es">Noticias</category>
     <icon src="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/0c/861708.png" />
+    <country>España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20170629121000 +0200" stop="20170629130000 +0200" channel="Real Madrid TV">
+    <title lang="es">Historia que tú hiciste</title>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid(r)</desc>
+    <date>2016</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/1d/1393693.png" />
     <country>España</country>
     <rating system="ES">
       <value>TP</value>
@@ -23359,7 +23913,7 @@
   </programme>
   <programme start="20170701200000 +0000" stop="20170701220000 +0000" channel="Andina TV  109">
     <title lang="en">Mulán</title>
-    <desc lang="en">Una señorita china se disfraza de hombre para pelear contra unos invasores tomando el lugar que le correspondía a su padre enfermo(c)</desc>
+    <desc lang="en">Una señorita china se disfraza de hombre para pelear contra unos invasores tomando el lugar que le correspondía a su padre enfermo</desc>
     <credits>
       <actor>Ming-Na Wen</actor>
       <actor>Lea Salonga</actor>
@@ -23383,7 +23937,7 @@
   </programme>
   <programme start="20170701220000 +0000" stop="20170701230000 +0000" channel="Andina TV  109">
     <title lang="en">Alerta cobra</title>
-    <desc lang="en">Un equipo especial de la policía se encarga de luchar contra el crimen a lo largo y ancho de las autopistas de Alemania. La carretera se convierte en el escenario donde las fuerzas del orden luchan sin descanso contra la siniestra actividad de multitud de malvados personajes y conductores temerarios que atraviesan el continente europeo(c)</desc>
+    <desc lang="en">Un equipo especial de la policía se encarga de luchar contra el crimen a lo largo y ancho de las autopistas de Alemania. La carretera se convierte en el escenario donde las fuerzas del orden luchan sin descanso contra la siniestra actividad de multitud de malvados personajes y conductores temerarios que atraviesan el continente europeo</desc>
     <category lang="en">Drama</category>
     <category lang="en">Acción/aventura</category>
     <star-rating>
@@ -23392,7 +23946,7 @@
   </programme>
   <programme start="20170701230000 +0000" stop="20170702010000 +0000" channel="Andina TV  109">
     <title lang="en">Mi Encuentro Conmigo</title>
-    <desc lang="en">Un hombre de 40 años se encuentra con un niño de 8 años de edad para descubrir que ambos son la misma persona(c)</desc>
+    <desc lang="en">Un hombre de 40 años se encuentra con un niño de 8 años de edad para descubrir que ambos son la misma persona</desc>
     <date>2000</date>
     <category lang="en">Fantasía</category>
     <category lang="en">Comedia</category>
