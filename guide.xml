@@ -21523,7 +21523,7 @@
     </rating>
   </programme>
   <programme start="20170712072000 +0200" stop="20170712074300 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -21535,7 +21535,7 @@
     </rating>
   </programme>
   <programme start="20170712074300 +0200" stop="20170712080600 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -21547,7 +21547,7 @@
     </rating>
   </programme>
   <programme start="20170712080600 +0200" stop="20170712083000 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -21559,7 +21559,7 @@
     </rating>
   </programme>
   <programme start="20170712083000 +0200" stop="20170712085300 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -21571,7 +21571,7 @@
     </rating>
   </programme>
   <programme start="20170712085300 +0200" stop="20170712091600 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -21583,7 +21583,7 @@
     </rating>
   </programme>
   <programme start="20170712091600 +0200" stop="20170712094000 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -22173,7 +22173,7 @@
     </rating>
   </programme>
   <programme start="20170713072000 +0200" stop="20170713094000 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -22661,7 +22661,7 @@
     </rating>
   </programme>
   <programme start="20170715081000 +0200" stop="20170715083000 +0200" channel="Atreseries">
-    <title lang="es">La Tira</title>
+    <title lang="es">Pop up: La Tira</title>
     <desc lang="es">Espacio en el que, gracias a 'bocadillos' de los personajes de la ficción, el espectador puede obtener información adicional de la serie 'La Tira'(c)</desc>
     <date>2016</date>
     <category lang="es">Otros</category>
@@ -35532,7 +35532,7 @@
   </programme>
   <programme start="20170715190000 +0200" stop="20170715210000 +0200" channel="La 1">
     <title lang="es">Cine de Barrio</title>
-    <desc lang="es">Programa sobre el mundo del celuloide que incluye la emisión de una película española y una tertulia con artistas invitados(c)</desc>
+    <desc lang="es">Programa sobre el mundo del celuloide que incluye la emisión de una película española y una tertulia con artistas invitados</desc>
     <category lang="es">Otros</category>
     <icon src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/67/462183.png" />
     <country>España</country>
@@ -37202,7 +37202,7 @@
   </programme>
   <programme start="20170715220000 +0200" stop="20170715234500 +0200" channel="La 2">
     <title lang="es">El cine de La 2</title>
-    <desc lang="es">Emisión de una película, previo reportaje de presentación(c)</desc>
+    <desc lang="es">Emisión de una película, previo reportaje de presentación</desc>
     <category lang="es">Otros</category>
     <icon src="http://e02-elmundo.uecdn.es/television/programacion-tv/img/programas/53/232531.png" />
     <country>España</country>
