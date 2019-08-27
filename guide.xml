@@ -34,12 +34,6 @@
     <display-name lang="es">Antena 3 | HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <programme start="20190827054500 -0300" stop="20190827063000 -0300" channel="CL - TVN">
-    <title lang="es">La previa (?)</title>
-    <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">La información que las personas necesitan saber antes de salir de sus hogares, como por ejemplo, los cambios que registra el tránsito, informes sobre el clima y los hitos que la opinión pública está comementando desde temprano(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_la-previa_p_m.jpg" />
-  </programme>
   <programme start="20190827063000 -0300" stop="20190827080000 -0300" channel="CL - TVN">
     <title lang="es">24 AM (?)</title>
     <sub-title lang="es">Interés General</sub-title>
@@ -99,12 +93,6 @@
     <sub-title lang="es">Telenovela</sub-title>
     <desc lang="es">Zehra, una niña de trece años, ve como sus sueños se desvanecen cuando es obligada a casarse con el hijo de un poderoso líder de un clan. Por este motivo, Zehra deberá abandonar la escuela y postergar sus grandes anhelos(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_esposa-joven_p_m.jpg" />
-  </programme>
-  <programme start="20190827054500 -0300" stop="20190827063000 -0300" channel="CL - Mega">
-    <title lang="es">Meganoticias amanece (?)</title>
-    <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Despierta informado en esta edición que busca entregar el mejor y más detallado reporte de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo, de una forma ágil y dinámica(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
   </programme>
   <programme start="20190827063000 -0300" stop="20190827080000 -0300" channel="CL - Mega">
     <title lang="es">Meganoticias conecta (?)</title>
@@ -196,12 +184,6 @@
     <desc lang="es">Historia de una dulce y virginal joven huérfana que sueña con una mejor vida junto a su gran amor, Mustafá. Sin embargo, una fatal madrugada, en su camino se cruzan unos jóvenes que cambiarán su vida para siempre(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_fatmagul-s00e05_p_m.jpg" />
   </programme>
-  <programme start="20190827054500 -0300" stop="20190827063000 -0300" channel="CL - Canal 13">
-    <title lang="es">Infórmate en un 3x3 (?)</title>
-    <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Espacio que levanta a Chile, con Eduardo de la Iglesia, quien conduce este segmento de tipo informativo en un formato libre y distendido(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_informate-en-un-3x3-1_p_m.jpg" />
-  </programme>
   <programme start="20190827063000 -0300" stop="20190827074500 -0300" channel="CL - Canal 13">
     <title lang="es">Teletrece AM (?)</title>
     <sub-title lang="es">Noticiero</sub-title>
@@ -279,12 +261,6 @@
     <sub-title lang="es">Interés General</sub-title>
     <desc lang="es">Una propuesta para la medianoche, que abordará los hechos más importantes de la jornada, con un sello relajado y altas dosis de humor(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_sigamos-de-largo_p_m.jpg" />
-  </programme>
-  <programme start="20190827054500 -0300" stop="20190827063000 -0300" channel="CL - Chilevisión">
-    <title lang="es">Primera página (?)</title>
-    <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Claudio Salinas nos invita a informarnos de la actualidad nacional e internacional(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_primera-pagina_p_m.jpg" />
   </programme>
   <programme start="20190827063000 -0300" stop="20190827080000 -0300" channel="CL - Chilevisión">
     <title lang="es">Contigo CHV Noticias A.M. (?)</title>
