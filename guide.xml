@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CL - TVN">
+    <display-name lang="es">TVN | HD</display-name>
+    <icon src="https://mitvstatic.com/channels/cl_TVN_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="CL - Mega">
+    <display-name lang="es">MEGA | HD</display-name>
+    <icon src="https://mitvstatic.com/channels/cl_Mega_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="CL - Canal 13">
+    <display-name lang="es">Canal 13 | SD</display-name>
+    <icon src="https://mitvstatic.com/channels/cl_Canal-13_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="CL - Chilevisión">
+    <display-name lang="es">CHV | HD</display-name>
+    <icon src="https://mitvstatic.com/channels/cl_Chilevision_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="CL - La Red">
+    <display-name lang="es">La Red | HD</display-name>
+    <icon src="https://mitvstatic.com/channels/cl_La-Red_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="CL - UCV TV">
+    <display-name lang="es">TV+ | HD</display-name>
+    <icon src="https://mitvstatic.com/channels/cl_UCV-TV_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3 | HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <programme start="20190827063000 -0500" stop="20190827080000 -0500" channel="CL - TVN">
+    <title lang="es">24 AM (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_p_m.jpg" />
+  </programme>
+  <programme start="20190827080000 -0500" stop="20190827130000 -0500" channel="CL - TVN">
+    <title lang="es">Muy buenos días (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Servicios, conversación, humor y la mejor compañía para empezar cada día. Con Cristián Sánchez y María Luisa Godoy(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_muy-buenos-dias_p_m.jpg" />
+  </programme>
+  <programme start="20190827130000 -0500" stop="20190827153000 -0500" channel="CL - TVN">
+    <title lang="es">24 Tarde (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Patricia Venegas y Mauricio Bustamante presentan y analizan las informaciones más destacadas de Chile y el Mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_p_m.jpg" />
+  </programme>
+  <programme start="20190827153000 -0500" stop="20190827161500 -0500" channel="CL - TVN">
+    <title lang="es">Amar a morir (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Caco Vidal es viudo y padre de tres hijos. En medio de una tragedia personal, conoce a Pachi, madre esforzada y una bella mujer, que acaba de sufrir la infidelidad de Rafa, su marido. ¿Estará Pachi dispuesta a abrir nuevamente su corazón?(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_amar-a-morir_p_m.jpg" />
+  </programme>
+  <programme start="20190827161500 -0500" stop="20190827173000 -0500" channel="CL - TVN">
+    <title lang="es">Elif (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Meleek es una doméstica que se enamora de Kenan Emiroglu, el hijo favorito de la familia para la cual trabaja. Cuando la chica queda embarazada, la madre del hombre se las arregla para enviarla lejos sin que ninguno de los dos se entere(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_elif_p_m.jpg" />
+  </programme>
+  <programme start="20190827173000 -0500" stop="20190827190000 -0500" channel="CL - TVN">
+    <title lang="es">Carmen Gloria a tu servicio (?)</title>
+    <sub-title lang="es">Talk Show</sub-title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_p_m.jpg" />
+  </programme>
+  <programme start="20190827190000 -0500" stop="20190827210000 -0500" channel="CL - TVN">
+    <title lang="es">Gran Rojo (?)</title>
+    <sub-title lang="es">Espectáculo</sub-title>
+    <desc lang="es">La noche decisiva en vivo para todo el mundo. Los ocho cantantes finalistas del Gran Rojo, se juegan su opción por el primer lugar y por un departamento nuevo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827210000 -0500" stop="20190827223000 -0500" channel="CL - TVN">
+    <title lang="es">24 horas central (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_p_m.jpg" />
+  </programme>
+  <programme start="20190827223000 -0500" stop="20190827224000 -0500" channel="CL - TVN">
+    <title lang="es">TV Tiempo (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">El informe meteorológico de nuestro país y de Sudamérica, proyecciones y pronósticos avalados por la Dirección Meteorológica de Chile(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tv-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827224000 -0500" stop="20190828000000 -0500" channel="CL - TVN">
+    <title lang="es">Esposa joven (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Zehra, una niña de trece años, ve como sus sueños se desvanecen cuando es obligada a casarse con el hijo de un poderoso líder de un clan. Por este motivo, Zehra deberá abandonar la escuela y postergar sus grandes anhelos(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_esposa-joven_p_m.jpg" />
+  </programme>
+  <programme start="20190827063000 -0500" stop="20190827080000 -0500" channel="CL - Mega">
+    <title lang="es">Meganoticias conecta (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Andrea Arístegui y José Antonio Neme te entregan las principales informaciones que marcan la jornada en Chile y el mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827080000 -0500" stop="20190827130000 -0500" channel="CL - Mega">
+    <title lang="es">Mucho gusto (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Revista matutina de entretenimiento para la familia, tenemos para ti una gran variedad de segmentos en los que trataremos temas de actualidad e interés general. También contaremos con entrevistas e invitados especiales(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mucho-gusto_p_m.jpg" />
+  </programme>
+  <programme start="20190827130000 -0500" stop="20190827151500 -0500" channel="CL - Mega">
+    <title lang="es">Meganoticias Actualiza (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Priscilla Vargas y José Luis Reppening te entregan las principales informaciones que marcan la jornada en Chile y el mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827151500 -0500" stop="20190827152000 -0500" channel="CL - Mega">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827152000 -0500" stop="20190827163000 -0500" channel="CL - Mega">
+    <title lang="es">Verdades ocultas (?)</title>
+    <sub-title lang="es">Episodio 535</sub-title>
+    <desc lang="es">Laura Flores es una madre soltera que vive en condición de extrema pobreza, y que debe tomar la decisión más difícil de su vida: vender a una de sus hijas para salvar a la otra(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_verdades-ocultas-s00e535_p_m.jpg" />
+  </programme>
+  <programme start="20190827163000 -0500" stop="20190827172000 -0500" channel="CL - Mega">
+    <title lang="es">El otro lado del paraíso (?)</title>
+    <sub-title lang="es">Episodio 38</sub-title>
+    <desc lang="es">Clara es una joven inocente que será engañada y traicionada por su ambiciosa suegra. Pero en la vida todo vuelve, y ella lo hará con la fuerza incontenible de la venganza(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-otro-lado-del-paraiso-s00e38_p_m.jpg" />
+  </programme>
+  <programme start="20190827172000 -0500" stop="20190827181500 -0500" channel="CL - Mega">
+    <title lang="es">Stiletto Vendetta (?)</title>
+    <sub-title lang="es">Episodio 89</sub-title>
+    <desc lang="es">Cuando eran adolescentes, Arzu, Merve y Pelin le jugaron una cruel broma a Oya. Las tres amigas permanecieron unidas, pero años después, Oya, convertida en una brillante doctora, se acercará a ellas para llevar a cabo su venganza(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_stiletto-vendetta-s00e89_p_m.jpg" />
+  </programme>
+  <programme start="20190827181500 -0500" stop="20190827184500 -0500" channel="CL - Mega">
+    <title lang="es">¿Y tú quién eres? (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Eyce, una niña de ocho años, vive con su tía hasta que ella desaparece y solo le da el nombre de su padre para que lo encuentre. Cuando lo localiza, descubre que es un irresponsable estafador de poca monta llamado Demir(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_y-tu-quien-eres_p_m.jpg" />
+  </programme>
+  <programme start="20190827184500 -0500" stop="20190827194500 -0500" channel="CL - Mega">
+    <title lang="es">Las mil y una noches (?)</title>
+    <sub-title lang="es">Episodio 16</sub-title>
+    <desc lang="es">Cuando finalmente aparece un donante de médula para su hijo, Sherezade acude a su jefe para pedirle ayuda por el alto costo del tratamiento, quien accede a ayudarla con la condición de que ella pase una noche con él(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-mil-y-una-noches-s00e16_p_m.jpg" />
+  </programme>
+  <programme start="20190827194500 -0500" stop="20190827195000 -0500" channel="CL - Mega">
+    <title lang="es">Avance de Meganoticias (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Adelanto de las informaciones que veremos en el noticiero de las 21:00 horas(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_avance-de-meganoticias_p_m.jpg" />
+  </programme>
+  <programme start="20190827195000 -0500" stop="20190827210000 -0500" channel="CL - Mega">
+    <title lang="es">Isla paraíso (?)</title>
+    <sub-title lang="es">Episodio 227</sub-title>
+    <desc lang="es">De un día para otro, Carolina se ve envuelta en una estafa producto de los irresponsables manejos de su marido. Perseguida por la justicia, sale a pedirle ayuda a su hermana, quien está yéndose a una misión religiosa en Isla Paraíso(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_isla-paraiso-s00e227_p_m.jpg" />
+  </programme>
+  <programme start="20190827210000 -0500" stop="20190827221500 -0500" channel="CL - Mega">
+    <title lang="es">Meganoticias Prime (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827221500 -0500" stop="20190827222000 -0500" channel="CL - Mega">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827222000 -0500" stop="20190827232000 -0500" channel="CL - Mega">
+    <title lang="es">Juegos de poder (?)</title>
+    <sub-title lang="es">Episodio 103</sub-title>
+    <desc lang="es">Una implacable búsqueda por encontrar la verdad se desencadena con el fiscal Aníbal Ramos como líder, quien no descansará hasta descubrir a los responsables de un atropello del que fueron víctimas dos hermanos universitarios(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_juegos-de-poder-s00e103_p_m.jpg" />
+  </programme>
+  <programme start="20190827232000 -0500" stop="20190828002000 -0500" channel="CL - Mega">
+    <title lang="es">Fatmagul (?)</title>
+    <sub-title lang="es">Episodio 5</sub-title>
+    <desc lang="es">Historia de una dulce y virginal joven huérfana que sueña con una mejor vida junto a su gran amor, Mustafá. Sin embargo, una fatal madrugada, en su camino se cruzan unos jóvenes que cambiarán su vida para siempre(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fatmagul-s00e05_p_m.jpg" />
+  </programme>
+  <programme start="20190827063000 -0500" stop="20190827074500 -0500" channel="CL - Canal 13">
+    <title lang="es">Teletrece AM (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Informativo matinal en el que podrás enterarte del acontecer actual en materia política, económica, social, tecnológica, cultural, deportiva y de espectáculos que ocurre tanto en Chile como en el mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-am_p_m.jpg" />
+  </programme>
+  <programme start="20190827074500 -0500" stop="20190827130000 -0500" channel="CL - Canal 13">
+    <title lang="es">Bienvenidos, cada uno cuenta (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Este espacio sintoniza con los gustos de la audiencia y representa fielmente el objetivo perseguido desde su origen. Aquí encontraras información, videos, consejos y más(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bienvenidos-cada-uno-cuenta_p_m.jpg" />
+  </programme>
+  <programme start="20190827130000 -0500" stop="20190827153000 -0500" channel="CL - Canal 13">
+    <title lang="es">Teletrece tarde (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Informativo de mediodía con toda la actualidad y un resumen de los acontecimientos que trascienden en Chile y el resto del mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-tarde_p_m.jpg" />
+  </programme>
+  <programme start="20190827153000 -0500" stop="20190827153500 -0500" channel="CL - Canal 13">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827153500 -0500" stop="20190827163000 -0500" channel="CL - Canal 13">
+    <title lang="es">Juego contra fuego (?)</title>
+    <sub-title lang="es">Cocina</sub-title>
+    <desc lang="es">Leo Caprile será el encargado de enfrentar a dos competidores que primero tendán una serie de desafíos sobre comidas, y luego se preparará la receta de quien gane la primera parte. Ahí será cuando ambas manos se pondrán a prueba(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827163000 -0500" stop="20190827171000 -0500" channel="CL - Canal 13">
+    <title lang="es">Amor a la Catalán (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Dos mujeres han tenido una relación amorosa con el mismo hombre por años, pero al fallecer él las dejará al cuidado de su negocio: una panadería(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827171000 -0500" stop="20190827181000 -0500" channel="CL - Canal 13">
+    <title lang="es">Ezel (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Cuenta la historia de Ömer, quien conoce a Eysan y se enamoran. Ésta chica es una joven que vive con su hermana Bahar y su padre Serdar, un estafador que las ha utilizado desde niñas para defraudar a la gente(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ezel_p_m.jpg" />
+  </programme>
+  <programme start="20190827181000 -0500" stop="20190827191000 -0500" channel="CL - Canal 13">
+    <title lang="es">Fugitiva (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Magda es una mujer atractiva que lleva una vida idílica junto a su marido Alejandro y sus tres hijos en México. Pero su mundo se desmorona y tendrá que hacerse fugitiva creando una vida inventanda para ella y su familia, en Benidorm(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fugitiva_p_m.jpg" />
+  </programme>
+  <programme start="20190827191000 -0500" stop="20190827210000 -0500" channel="CL - Canal 13">
+    <title lang="es">Caso cerrado (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">En este espacio presenciarás historias más humanas y vivirás las emociones más intensas. Prepárate para llorar y conmoverte con casos que la Dra. Polo buscará resolver de la manera más justa(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_p_m.jpg" />
+  </programme>
+  <programme start="20190827210000 -0500" stop="20190827223000 -0500" channel="CL - Canal 13">
+    <title lang="es">Teletrece (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Ramón Ulloa y Constanza Santa María buscan ponerse a tono con una sociedad que cambia vertiginosamente(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_p_m.jpg" />
+  </programme>
+  <programme start="20190827223000 -0500" stop="20190827223500 -0500" channel="CL - Canal 13">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827223500 -0500" stop="20190827232000 -0500" channel="CL - Canal 13">
+    <title lang="es">Amor a la Catalán (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Dos mujeres han tenido una relación amorosa con el mismo hombre por años, pero al fallecer él las dejará al cuidado de su negocio: una panadería(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827232000 -0500" stop="20190828004500 -0500" channel="CL - Canal 13">
+    <title lang="es">Sigamos de largo (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Una propuesta para la medianoche, que abordará los hechos más importantes de la jornada, con un sello relajado y altas dosis de humor(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sigamos-de-largo_p_m.jpg" />
+  </programme>
+  <programme start="20190827063000 -0500" stop="20190827080000 -0500" channel="CL - Chilevisión">
+    <title lang="es">Contigo CHV Noticias A.M. (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Información fresca de lo que pasa en nuestro país como también a nivel mundial. Todo esto a través del profesionalismo que caracteriza a ambos conductores, acompañado de carisma y cercanía... ese es el sello(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-chv-noticias-a-m_p_m.jpg" />
+  </programme>
+  <programme start="20190827080000 -0500" stop="20190827110000 -0500" channel="CL - Chilevisión">
+    <title lang="es">Contigo en la mañana (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Espacio de información y entretención que invita al público a mantenerse al día sobre los temas que mueven sus vidas diarias, los llevan a tomar decisiones y a formar sus propias opiniones(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-la-manana_p_m.jpg" />
+  </programme>
+  <programme start="20190827110000 -0500" stop="20190827130000 -0500" channel="CL - Chilevisión">
+    <title lang="es">Viva la pipol (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">La mejor entretención con concursos, secciones y conversación junto a interesantes invitados. Todo hecho de una manera amena para y con el público, con lo sencillo y común de cualquier familia chilena(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_viva-la-pipol_p_m.jpg" />
+  </programme>
+  <programme start="20190827130000 -0500" stop="20190827153000 -0500" channel="CL - Chilevisión">
+    <title lang="es">CHV Noticias tarde (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-tarde_p_m.jpg" />
+  </programme>
+  <programme start="20190827153000 -0500" stop="20190827163000 -0500" channel="CL - Chilevisión">
+    <title lang="es">El cuerpo del deseo (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Un hombre de 67 años muere dejando una joven esposa, y su espíritu hará presencia en otra persona para rescatar lo que le pertenece. Se reencarnará en Salvador, un joven campesino, que en su regreso dejará muchos secretos al descubierto(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-cuerpo-del-deseo_p_m.jpg" />
+  </programme>
+  <programme start="20190827163000 -0500" stop="20190827180000 -0500" channel="CL - Chilevisión">
+    <title lang="es">Tu vida, tu historia (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Jean Philippey Camila nos acompañarán en un nuevo espacio dedicado a conocer los secretos de los famosos a través de internet ¿Estás preparado?(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827180000 -0500" stop="20190827203000 -0500" channel="CL - Chilevisión">
+    <title lang="es">La divina comida (?)</title>
+    <sub-title lang="es">Cocina</sub-title>
+    <desc lang="es">Desafiamos a los famosos para saber quién es el mejor anfitrión. Cuatro concursantes deberán sacar a relucir todas sus armas para sorprender a sus invitados con platillos exquisitos y una excelente atención(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-divina-comida_p_m.jpg" />
+  </programme>
+  <programme start="20190827203000 -0500" stop="20190827211500 -0500" channel="CL - Chilevisión">
+    <title lang="es">CHV Noticias central (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_p_m.jpg" />
+  </programme>
+  <programme start="20190827211500 -0500" stop="20190827213000 -0500" channel="CL - Chilevisión">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827213000 -0500" stop="20190827223000 -0500" channel="CL - Chilevisión">
+    <title lang="es">Gemelas (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Una historia sobre dos hermanas que fueron separadas al nacer y cuyo destino se cruzará de manera inevitable(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827223000 -0500" stop="20190828010000 -0500" channel="CL - Chilevisión">
+    <title lang="es">Pasapalabra (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Segmento en el que se enfrentan dos equipos, integrados por un participante del público y dos famosos invitados. Ambos tríos tendrán que ir respondiendo las distintas y variadas consignas propuestas por Iván De Pineda(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pasapalabra_p_m.jpg" />
+  </programme>
+  <programme start="20190827060000 -0500" stop="20190827063000 -0500" channel="CL - La Red">
+    <title lang="es">El Chapulín colorado (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Es un héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-chapulin-colorado_p_m.jpg" />
+  </programme>
+  <programme start="20190827063000 -0500" stop="20190827070000 -0500" channel="CL - La Red">
+    <title lang="es">Popcorn TV (?)</title>
+    <sub-title lang="es">Cine</sub-title>
+    <desc lang="es">Espacio en el cual podrás conocer datos, curiosidades y entrevistas de los principales protagonistas de tus series y películas favoritas y, a la vez, disfrutar de los estrenos cinematográficos que han sido récord en taquilla(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_popcorn-tv_p_m.jpg" />
+  </programme>
+  <programme start="20190827070000 -0500" stop="20190827080000 -0500" channel="CL - La Red">
+    <title lang="es">Intrusos (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Un espacio para disfrutar de la farándula con los mejores y más críticos panelistas junto a las primicias del mundo del espectáculo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_intrusos_p_m.jpg" />
+  </programme>
+  <programme start="20190827080000 -0500" stop="20190827120000 -0500" channel="CL - La Red">
+    <title lang="es">Hola, Chile (?)</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Con humor, mucha entretenimiento y la mejor conversación, estos buenos amigos nos invitan a compartir la mañana más alegres. Este divertido grupo te acompañará todas las mañanas con los más entretenidos temas de conversación(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hola-chile-1_p_m.jpg" />
+  </programme>
+  <programme start="20190827120000 -0500" stop="20190827143000 -0500" channel="CL - La Red">
+    <title lang="es">Intrusos (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Un espacio para disfrutar de la farándula con los mejores y más críticos panelistas junto a las primicias del mundo del espectáculo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_intrusos_p_m.jpg" />
+  </programme>
+  <programme start="20190827143000 -0500" stop="20190827154500 -0500" channel="CL - La Red">
+    <title lang="es">Like, la leyenda (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Estudiantes asisten a una prestigiosa y cosmopolita institución educativa, el "Life Institute of Knowledge and Evolution", en el se enfrentarán a los diversos problemas que vive un adolescente durante su paso por la escuela preparatoria(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_like-la-leyenda_p_m.jpg" />
+  </programme>
+  <programme start="20190827154500 -0500" stop="20190827160000 -0500" channel="CL - La Red">
+    <title lang="es">Punto noticias (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827160000 -0500" stop="20190827163000 -0500" channel="CL - La Red">
+    <title lang="es">Mujer, casos de la vida real (?)</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mujer-casos-de-la-vida-real_p_m.jpg" />
+  </programme>
+  <programme start="20190827163000 -0500" stop="20190827164500 -0500" channel="CL - La Red">
+    <title lang="es">Mujer, casos de la vida real (?)</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mujer-casos-de-la-vida-real_p_m.jpg" />
+  </programme>
+  <programme start="20190827164500 -0500" stop="20190827170000 -0500" channel="CL - La Red">
+    <title lang="es">Punto noticias (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827170000 -0500" stop="20190827174500 -0500" channel="CL - La Red">
+    <title lang="es">Esta historia... me suena (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Cada canción cuenta una historia, y en este programa las canciones más populares cobran vida mediante una dramatización inspirada en sus letras(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_esta-historia-me-suena_p_m.jpg" />
+  </programme>
+  <programme start="20190827174500 -0500" stop="20190827184500 -0500" channel="CL - La Red">
+    <title lang="es">Punto noticias (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827184500 -0500" stop="20190827194500 -0500" channel="CL - La Red">
+    <title lang="es">Punto noticias (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827194500 -0500" stop="20190827204500 -0500" channel="CL - La Red">
+    <title lang="es">Punto noticias (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827204500 -0500" stop="20190827210000 -0500" channel="CL - La Red">
+    <title lang="es">Punto noticias (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827210000 -0500" stop="20190827220000 -0500" channel="CL - La Red">
+    <title lang="es">¿Quién se robó mi vida? (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Bahar es una joven ingenua que tiene una vida modesta en Estambul. Es muy trabajadora, reflexiva y optimista. Debido a las dificultades financieras de su familia, abandona la escuela y comienza a trabajar en una pastelería(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-se-robo-mi-vida_p_m.jpg" />
+  </programme>
+  <programme start="20190827220000 -0500" stop="20190827223000 -0500" channel="CL - La Red">
+    <title lang="es">Mentiras verdaderas (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Segmento estelar de conversación con interesantes historias e invitados(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mentiras-verdaderas_p_m.jpg" />
+  </programme>
+  <programme start="20190827223000 -0500" stop="20190828000000 -0500" channel="CL - La Red">
+    <title lang="es">Mentiras verdaderas (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Segmento estelar de conversación con interesantes historias e invitados(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mentiras-verdaderas_p_m.jpg" />
+  </programme>
+  <programme start="20190827062500 -0500" stop="20190827063000 -0500" channel="CL - UCV TV">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827063000 -0500" stop="20190827075500 -0500" channel="CL - UCV TV">
+    <title lang="es">MILF (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF)(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_p_m.jpg" />
+  </programme>
+  <programme start="20190827075500 -0500" stop="20190827080000 -0500" channel="CL - UCV TV">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827080000 -0500" stop="20190827103600 -0500" channel="CL - UCV TV">
+    <title lang="es">A3D (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">Ponemos al alcance de nuestro mercado una gama de productos para el hogar, belleza, fitness y salud, ofreciendo a nuestros clientes satisfacción, exclusividad, calidad y servicio(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a3d_p_m.jpg" />
+  </programme>
+  <programme start="20190827103600 -0500" stop="20190827144000 -0500" channel="CL - UCV TV">
+    <title lang="es">Falabella TV (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">Los productos que buscan están aquí, este espacio te ofrece una guía para que hagas tus compras con tranquilidad. Desde la comodidad de tu hogar podrás adquirir lo que quieras, en el mejor precio(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_falabella-tv_p_m.jpg" />
+  </programme>
+  <programme start="20190827144000 -0500" stop="20190827151500 -0500" channel="CL - UCV TV">
+    <title lang="es">Directo al corazón (?)</title>
+    <sub-title lang="es">Serie</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827151500 -0500" stop="20190827160000 -0500" channel="CL - UCV TV">
+    <title lang="es">No: 309 (?)</title>
+    <sub-title lang="es">Comedia</sub-title>
+    <desc lang="es">Por pura coincidencia, Onur y Lale se reúnen en el mismo lugar debido a una cita a ciegas organizada por sus madres. Y a la mañana siguiente se encuentran en la misma cama(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827160000 -0500" stop="20190827170000 -0500" channel="CL - UCV TV">
+    <title lang="es">Cosas de mujeres (?)</title>
+    <sub-title lang="es">Serie</sub-title>
+    <desc lang="es">Serie dedicada especialmente a las mujeres en la que se recrean situaciones reales que le pueden pasar a cualquier chica. Además, se brindan consejos y críticas sobre lo que una fémina debería o no hacer en esos casos(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cosas-de-mujeres_p_m.jpg" />
+  </programme>
+  <programme start="20190827170000 -0500" stop="20190827180000 -0500" channel="CL - UCV TV">
+    <title lang="es">Somos un plato (?)</title>
+    <sub-title lang="es">Cocina</sub-title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois, combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_p_m.jpg" />
+  </programme>
+  <programme start="20190827180000 -0500" stop="20190827192500 -0500" channel="CL - UCV TV">
+    <title lang="es">Me late (?)</title>
+    <sub-title lang="es">Entrevista</sub-title>
+    <desc lang="es">En cada capítulo conversa con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_p_m.jpg" />
+  </programme>
+  <programme start="20190827192500 -0500" stop="20190827193000 -0500" channel="CL - UCV TV">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827193000 -0500" stop="20190827205500 -0500" channel="CL - UCV TV">
+    <title lang="es">MILF (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF)(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_p_m.jpg" />
+  </programme>
+  <programme start="20190827205500 -0500" stop="20190827210000 -0500" channel="CL - UCV TV">
+    <title lang="es">El tiempo (?)</title>
+    <sub-title lang="es">Clima</sub-title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_p_m.jpg" />
+  </programme>
+  <programme start="20190827210000 -0500" stop="20190827220000 -0500" channel="CL - UCV TV">
+    <title lang="es">Covert Affairs (?)</title>
+    <sub-title lang="es">Acción</sub-title>
+    <desc lang="es">Annie Walker es una joven aprendiz de la CIA que penetra en el interior de la agencia federal cuando, inesperadamente, es ascendida. Quizás exista algo o alguien de su pasado que los jefes del despacho busquen fervientemente(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_covert-affairs_p_m.jpg" />
+  </programme>
+  <programme start="20190827220000 -0500" stop="20190827231500 -0500" channel="CL - UCV TV">
+    <title lang="es">Cariño malo (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Los panelistas Bárbara Rebolledo, Cristina Tocco y Daniel Valenzuela escuchan y comentan las historias que el público tiene para contar recibiendo sus llamados y mensajes, además de compartir sus propias experiencias(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190827231500 -0500" stop="20190828001500 -0500" channel="CL - UCV TV">
+    <title lang="es">Me late (?)</title>
+    <sub-title lang="es">Entrevista</sub-title>
+    <desc lang="es">En cada capítulo conversa con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_p_m.jpg" />
+  </programme>
+</tv>
